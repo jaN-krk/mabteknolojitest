@@ -2,7 +2,7 @@
 
 Son revizyon: [Edition 03 teslimi](reports/revision-v3/DELIVERY.md). Uzmanlık kartları, tam ekran açılış/dil geçiş loader’ı, scroll blur, ilk ziyarette açık tema, yeni iletişim/blog düzenleri, kompakt footer ve sektörel ihtiyaç girişleri.
 
-14 Eylül 2026 tasarım güncellemesi: [güncel teslim raporu](reports/redesign/DELIVERY.md). Açık/koyu tema, mega menü, arama, marka açılışı, sayfa geçiş göstergesi ve AI kapaklı yeni blog düzeni eklendi. Kullanıcı onayıyla 24 blog sürümü yayın durumundadır; yalnızca 12 hukuki taslak noindex kalır. Canlı dağıtım yapılmadı.
+14 Eylül 2026 tasarım güncellemesi: [güncel teslim raporu](reports/redesign/DELIVERY.md). Açık/koyu tema, mega menü, arama, marka açılışı, sayfa geçiş göstergesi ve görsel kapaklı yeni blog düzeni eklendi. Kullanıcı onayıyla 24 blog sürümü yayın durumundadır; yalnızca 12 hukuki taslak noindex kalır. Canlı dağıtım yapılmadı.
 
 TR, EN, AR ve RU kurumsal mühendislik sitesi. Kaynaktan 52 özgün dil/sayfa kaydı aktarıldı; yeni sayfalar ve taslaklarla toplam 100 kayıt. Canlı dağıtım yapılmamıştır.
 
@@ -48,7 +48,7 @@ Windows'ta yeniden build öncesi **derlenmiş önizlemeyi** Ctrl+C ile durdurun;
 
 ## Mimari
 
-Başlangıç reposu boştu. SSR, dört dil ve kalıcı CMS/form gereksinimleri için React 19, Next App Router API'leri, Vinext ve Cloudflare Worker seçildi. Sites starter'ının portable profili kullanıldı. D1 içerik/talepleri, özel R2 alanı ekleri saklar. `.openai/hosting.json`, DB ve BUCKET bağlayıcılarını tanımlar.
+Başlangıç reposu boştu. SSR, dört dil ve kalıcı CMS/form gereksinimleri için React 19, Next App Router API'leri, Vinext ve Cloudflare Worker seçildi. Sites starter'ının portable profili kullanıldı. D1 içerik/talepleri, özel R2 alanı ekleri saklar. `hosting.config.json`, DB ve BUCKET bağlayıcılarını tanımlar.
 
 - `content/source.json`: mevcut içerik, teknik tablolar ve proje galerileri.
 - `content/blog.json`: altı yazının dört dildeki 24 onaylı teknik yazısı.
