@@ -1,0 +1,36 @@
+import {chromium} from '@playwright/test';
+import AxeBuilder from '@axe-core/playwright';
+import fs from 'node:fs';
+const BASE=process.env.TEST_BASE||'http://127.0.0.1:4173';
+const source=JSON.parse(fs.readFileSync('content/source.json','utf8')),blog=JSON.parse(fs.readFileSync('content/blog.json','utf8'));
+const route=(lang,id)=>[...source,...blog].find(p=>p.lang===lang&&p.id===id)?.path||`/${lang}/${id}`;
+const browser=await chromium.launch();const ctx=await browser.newContext();await ctx.addInitScript(()=>sessionStorage.setItem('mab-visited-v2','1'));const page=await ctx.newPage();page.setDefaultTimeout(15000);const report={date:new Date().toISOString(),base:BASE,responsive:[],accessibility:[],checks:[],pageErrors:[]};page.on('pageerror',e=>report.pageErrors.push(e.message));fs.mkdirSync('reports/redesign/screenshots',{recursive:true});
+const persist=()=>fs.writeFileSync('reports/redesign/tests.json',JSON.stringify(report,null,2));
+const check=(test,pass)=>{report.checks.push({test,pass});console.log(pass?'PASS':'FAIL',test);persist()};
+async function go(path,theme='light'){await page.goto(BASE+path,{waitUntil:'networkidle'});await page.evaluate(theme=>{document.documentElement.dataset.theme=theme;localStorage.setItem('mab-theme-v2',theme);dispatchEvent(new Event('mab-theme-change'))},theme);await page.waitForTimeout(300)}
+try{
+ for(const width of [360,390,768,1440,1920])for(const theme of ['light','dark']){
+  await page.setViewportSize({width,height:960});
+  for(const [lang,id] of [['tr','home'],['tr','blog'],['tr','planning'],['tr','quote'],['tr','piping'],['tr','stainless'],['ar','home'],['ar','planning']]){
+   await go(route(lang,id),theme);await page.evaluate(()=>document.querySelectorAll('img').forEach(im=>im.loading='eager'));await page.waitForFunction(()=>[...document.images].every(im=>im.complete));const state=await page.evaluate(()=>({overflow:document.documentElement.scrollWidth>innerWidth,broken:[...document.images].filter(im=>!im.naturalWidth).map(im=>im.src),lang:document.documentElement.lang,dir:document.documentElement.dir}));report.responsive.push({width,theme,lang,id,...state,pass:!state.overflow&&!state.broken.length&&state.lang===lang&&state.dir===(lang==='ar'?'rtl':'ltr')});persist();
+   if((width===1440||width===390)&&['home','blog','planning'].includes(id)){await page.screenshot({path:`reports/redesign/screenshots/final-${lang}-${id}-${theme}-${width}.png`,fullPage:true});if(id==='home')await page.screenshot({path:`reports/redesign/screenshots/viewport-${lang}-${theme}-${width}.png`})}
+  }
+ }
+ await page.setViewportSize({width:1440,height:1000});
+ for(const lang of ['tr','en','ar','ru'])for(const theme of ['light','dark']){
+  for(const id of ['home','blog','planning','quote','piping','stainless']){await go(route(lang,id),theme);const result=await new AxeBuilder({page}).withTags(['wcag2a','wcag2aa','wcag21aa']).analyze();report.accessibility.push({lang,theme,id,violations:result.violations.map(v=>({id:v.id,impact:v.impact,nodes:v.nodes.map(n=>({target:n.target,summary:n.failureSummary}))}))});persist()}
+ }
+ for(const lang of ['tr','en','ar','ru']){
+  await go(route(lang,'home'));await page.locator('.mega-trigger').first().click();check(lang+' mega menu opens',await page.locator('.mega-panel').isVisible());await page.screenshot({path:`reports/redesign/screenshots/menu-${lang}.png`});await page.keyboard.press('Escape');check(lang+' mega menu escape',await page.locator('.mega-panel').count()===0);
+  await page.locator('.theme-toggle').click();check(lang+' theme changes',await page.locator('html').getAttribute('data-theme')==='dark');await page.reload({waitUntil:'networkidle'});check(lang+' theme persists',await page.locator('html').getAttribute('data-theme')==='dark');
+  await page.locator('.search-trigger').click();await page.locator('.search-field input').fill(lang==='tr'?'borulama':lang==='en'?'piping':lang==='ar'?'الأنابيب':'труб');check(lang+' search results',await page.locator('.search-results a').count()>0);await page.keyboard.press('Escape');
+  await go(route(lang,'blog'));await page.locator('.journal-filters button').last().click();check(lang+' blog category filter',await page.locator('.journal-card').count()===1);await page.locator('.journal-search input').fill('not-a-topic-zzz');check(lang+' blog empty state',await page.locator('.empty-state').isVisible());
+  await go(route(lang,'planning'));check(lang+' approved article',!(await page.locator('meta[name=robots]').getAttribute('content')).includes('noindex')&&await page.locator('.draft-banner').count()===0);check(lang+' related stories',await page.locator('.article-related .journal-card').count()===3);check(lang+' structured article',await page.locator('script[type="application/ld+json"]').textContent().then(x=>x.includes('BlogPosting')));
+  await page.locator('.toc a').last().click();await page.waitForTimeout(700);check(lang+' reading progress',(await page.locator('.reading-progress>div').getAttribute('style')).includes('scaleX('));
+  await page.setViewportSize({width:390,height:900});await go(route(lang,'home'));await page.locator('.mobile-menu-trigger').click();check(lang+' mobile navigation',await page.locator('.mobile-nav a').count()===9);await page.keyboard.press('Escape');await page.setViewportSize({width:1440,height:1000});
+ }
+ await go('/tr');let release;const gate=new Promise(r=>{release=r});await page.route('**/tr/hizmetler',async route=>{await gate;await route.continue()});const clicking=page.locator('.intro-actions a').first().click({noWaitAfter:true});clicking.catch(()=>{});await page.waitForFunction(()=>document.documentElement.dataset.navigating==='true');check('Navigation loader active during real request',true);release();await clicking;await page.waitForURL('**/tr/hizmetler',{waitUntil:'networkidle'});check('Navigation loader clears after arrival',await page.evaluate(()=>!document.documentElement.dataset.navigating));await page.unroute('**/tr/hizmetler');
+ const introCtx=await browser.newContext();const introPage=await introCtx.newPage();await introPage.goto(BASE+'/tr',{waitUntil:'domcontentloaded'});await introPage.waitForTimeout(1000);check('Intro never traps the page',await introPage.locator('html').getAttribute('data-intro')===null);check('Intro marked once per session',await introPage.evaluate(()=>sessionStorage.getItem('mab-visited-v2'))==='1');await introCtx.close();
+ const reduced=await browser.newContext({reducedMotion:'reduce'});const rp=await reduced.newPage();await rp.goto(BASE+'/tr',{waitUntil:'domcontentloaded'});check('Reduced motion skips intro',await rp.locator('html').getAttribute('data-intro')===null);await reduced.close();
+}finally{await browser.close();fs.writeFileSync('reports/redesign/tests.json',JSON.stringify(report,null,2));console.log(JSON.stringify({responsive:report.responsive.length,responsiveFailures:report.responsive.filter(x=>!x.pass),a11y:report.accessibility.length,a11yFailures:report.accessibility.filter(x=>x.violations.length),checks:report.checks.length,failedChecks:report.checks.filter(x=>!x.pass),pageErrors:report.pageErrors},null,2))}
+if(report.responsive.some(x=>!x.pass)||report.accessibility.some(x=>x.violations.length)||report.checks.some(x=>!x.pass)||report.pageErrors.length)process.exitCode=1;

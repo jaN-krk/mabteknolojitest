@@ -1,0 +1,130 @@
+{
+  "1-44-kspMeuvS": {
+    "src": "/media/1-44-kspMeuvS-1600.webp",
+    "srcSet": "/media/1-44-kspMeuvS-480.webp 480w, /media/1-44-kspMeuvS-768.webp 768w, /media/1-44-kspMeuvS-960.webp 960w, /media/1-44-kspMeuvS-1600.webp 1600w",
+    "width": 1600,
+    "height": 1200,
+    "original": "originals/10cadcd589f0.webp",
+    "source": "https://mabteknoloji.com.tr/storage/media/derivatives/large/1-44-kspMeuvS.webp"
+  },
+  "1-38-pvQ8DSzu": {
+    "src": "/media/1-38-pvQ8DSzu-900.webp",
+    "srcSet": "/media/1-38-pvQ8DSzu-480.webp 480w, /media/1-38-pvQ8DSzu-768.webp 768w, /media/1-38-pvQ8DSzu-900.webp 900w",
+    "width": 900,
+    "height": 1600,
+    "original": "originals/3ea769c5b7f2.webp",
+    "source": "https://mabteknoloji.com.tr/storage/media/derivatives/card/1-38-pvQ8DSzu.webp"
+  },
+  "1-27-ceoK89re": {
+    "src": "/media/1-27-ceoK89re-1600.webp",
+    "srcSet": "/media/1-27-ceoK89re-480.webp 480w, /media/1-27-ceoK89re-768.webp 768w, /media/1-27-ceoK89re-960.webp 960w, /media/1-27-ceoK89re-1600.webp 1600w",
+    "width": 1600,
+    "height": 480,
+    "original": "originals/d495b996774f.webp",
+    "source": "https://mabteknoloji.com.tr/storage/media/derivatives/large/1-27-ceoK89re.webp"
+  },
+  "1-11-6FCPOeYc": {
+    "src": "/media/1-11-6FCPOeYc-1000.webp",
+    "srcSet": "/media/1-11-6FCPOeYc-480.webp 480w, /media/1-11-6FCPOeYc-768.webp 768w, /media/1-11-6FCPOeYc-960.webp 960w, /media/1-11-6FCPOeYc-1000.webp 1000w",
+    "width": 1000,
+    "height": 750,
+    "original": "originals/7c768202d3d9.webp",
+    "source": "https://mabteknoloji.com.tr/storage/media/derivatives/card/1-11-6FCPOeYc.webp"
+  },
+  "1-12-LSRvMWXf": {
+    "src": "/media/1-12-LSRvMWXf-1000.webp",
+    "srcSet": "/media/1-12-LSRvMWXf-480.webp 480w, /media/1-12-LSRvMWXf-768.webp 768w, /media/1-12-LSRvMWXf-960.webp 960w, /media/1-12-LSRvMWXf-1000.webp 1000w",
+    "width": 1000,
+    "height": 563,
+    "original": "originals/db0a1a7c8776.webp",
+    "source": "https://mabteknoloji.com.tr/storage/media/derivatives/card/1-12-LSRvMWXf.webp"
+  },
+  "1-14-swPI4ROa": {
+    "src": "/media/1-14-swPI4ROa-1000.webp",
+    "srcSet": "/media/1-14-swPI4ROa-480.webp 480w, /media/1-14-swPI4ROa-768.webp 768w, /media/1-14-swPI4ROa-960.webp 960w, /media/1-14-swPI4ROa-1000.webp 1000w",
+    "width": 1000,
+    "height": 563,
+    "original": "originals/e7696a0b66fc.webp",
+    "source": "https://mabteknoloji.com.tr/storage/media/derivatives/card/1-14-swPI4ROa.webp"
+  },
+  "1-41-trk2Yeua": {
+    "src": "/media/1-41-trk2Yeua-900.webp",
+    "srcSet": "/media/1-41-trk2Yeua-480.webp 480w, /media/1-41-trk2Yeua-768.webp 768w, /media/1-41-trk2Yeua-900.webp 900w",
+    "width": 900,
+    "height": 1600,
+    "original": "originals/1a82a79b453c.webp",
+    "source": "https://mabteknoloji.com.tr/storage/media/derivatives/card/1-41-trk2Yeua.webp"
+  },
+  "1-29-d4pyra1Y": {
+    "src": "/media/1-29-d4pyra1Y-1000.webp",
+    "srcSet": "/media/1-29-d4pyra1Y-480.webp 480w, /media/1-29-d4pyra1Y-768.webp 768w, /media/1-29-d4pyra1Y-960.webp 960w, /media/1-29-d4pyra1Y-1000.webp 1000w",
+    "width": 1000,
+    "height": 750,
+    "original": "originals/eef3cd36f4ec.webp",
+    "source": "https://mabteknoloji.com.tr/storage/media/derivatives/card/1-29-d4pyra1Y.webp"
+  },
+  "planning": {
+    "src": "/media/editorial/planning-1600.webp",
+    "srcSet": "/media/editorial/planning-480.webp 480w, /media/editorial/planning-768.webp 768w, /media/editorial/planning-960.webp 960w, /media/editorial/planning-1600.webp 1600w",
+    "width": 1600,
+    "height": 900,
+    "source": "AI generation — see reports/image-generation-v2.json",
+    "original": "generated-v2/planning.png"
+  },
+  "steam-condensate": {
+    "src": "/media/editorial/steam-condensate-1600.webp",
+    "srcSet": "/media/editorial/steam-condensate-480.webp 480w, /media/editorial/steam-condensate-768.webp 768w, /media/editorial/steam-condensate-960.webp 960w, /media/editorial/steam-condensate-1600.webp 1600w",
+    "width": 1600,
+    "height": 900,
+    "source": "AI generation — see reports/image-generation-v2.json",
+    "original": "generated-v2/steam-condensate.png"
+  },
+  "thermal-design": {
+    "src": "/media/editorial/thermal-design-1600.webp",
+    "srcSet": "/media/editorial/thermal-design-480.webp 480w, /media/editorial/thermal-design-768.webp 768w, /media/editorial/thermal-design-960.webp 960w, /media/editorial/thermal-design-1600.webp 1600w",
+    "width": 1600,
+    "height": 900,
+    "source": "AI generation — see reports/image-generation-v2.json",
+    "original": "generated-v2/thermal-design.png"
+  },
+  "material-selection": {
+    "src": "/media/editorial/material-selection-1600.webp",
+    "srcSet": "/media/editorial/material-selection-480.webp 480w, /media/editorial/material-selection-768.webp 768w, /media/editorial/material-selection-960.webp 960w, /media/editorial/material-selection-1600.webp 1600w",
+    "width": 1600,
+    "height": 900,
+    "source": "AI generation — see reports/image-generation-v2.json",
+    "original": "generated-v2/material-selection.png"
+  },
+  "cabin-needs": {
+    "src": "/media/editorial/cabin-needs-1600.webp",
+    "srcSet": "/media/editorial/cabin-needs-480.webp 480w, /media/editorial/cabin-needs-768.webp 768w, /media/editorial/cabin-needs-960.webp 960w, /media/editorial/cabin-needs-1600.webp 1600w",
+    "width": 1600,
+    "height": 900,
+    "source": "AI generation — see reports/image-generation-v2.json",
+    "original": "generated-v2/cabin-needs.png"
+  },
+  "site-survey": {
+    "src": "/media/editorial/site-survey-1600.webp",
+    "srcSet": "/media/editorial/site-survey-480.webp 480w, /media/editorial/site-survey-768.webp 768w, /media/editorial/site-survey-960.webp 960w, /media/editorial/site-survey-1600.webp 1600w",
+    "width": 1600,
+    "height": 900,
+    "source": "AI generation — see reports/image-generation-v2.json",
+    "original": "generated-v2/site-survey.png"
+  },
+  "piping-enhanced": {
+    "src": "/media/enhanced/piping-enhanced-1448.avif",
+    "srcSet": "/media/enhanced/piping-enhanced-480.avif 480w, /media/enhanced/piping-enhanced-768.avif 768w, /media/enhanced/piping-enhanced-960.avif 960w, /media/enhanced/piping-enhanced-1448.avif 1448w",
+    "width": 1448,
+    "height": 1086,
+    "source": "AI generation — see reports/image-generation-v2.json",
+    "original": "generated-v2/piping-enhanced.png"
+  },
+  "steel-enhanced": {
+    "src": "/media/enhanced/steel-enhanced-1600.webp",
+    "srcSet": "/media/enhanced/steel-enhanced-480.webp 480w, /media/enhanced/steel-enhanced-768.webp 768w, /media/enhanced/steel-enhanced-960.webp 960w, /media/enhanced/steel-enhanced-1600.webp 1600w",
+    "width": 1600,
+    "height": 535,
+    "source": "AI generation — see reports/image-generation-v2.json",
+    "original": "generated-v2/steel-enhanced.png"
+  }
+}

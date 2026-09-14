@@ -1,0 +1,11 @@
+import lighthouse from 'lighthouse';
+import {launch} from 'chrome-launcher';
+import {chromium} from '@playwright/test';
+import fs from 'node:fs';
+const out=process.argv.includes('--v3')?'reports/revision-v3/lighthouse':process.argv.includes('--redesign')?'reports/redesign/lighthouse':'reports/lighthouse';
+fs.mkdirSync(out,{recursive:true});
+fs.mkdirSync('.sites-runtime/lighthouse-profile',{recursive:true});
+const chrome=await launch({chromePath:chromium.executablePath(),userDataDir:'.sites-runtime/lighthouse-profile',chromeFlags:['--headless=new','--no-first-run','--disable-dev-shm-usage']});
+const cases=process.argv.includes('--v3')?[['tr-home','/tr'],['ar-home','/ar'],['tr-contact','/tr/iletisim'],['tr-blog','/tr/blog'],['tr-article','/tr/blog/endustriyel-borulama-proje-planlamasi']]:process.argv.includes('--redesign')?[['tr-home','/tr'],['ar-home','/ar'],['tr-blog','/tr/blog'],['tr-article','/tr/blog/endustriyel-borulama-proje-planlamasi'],['tr-service','/tr/hizmetler/endustriyel-mekanik-borulama'],['tr-quote','/tr/teklif-al']]:process.argv.includes('--all')?[['tr-home','/tr'],['ar-home','/ar'],['tr-service','/tr/hizmetler/endustriyel-mekanik-borulama'],['tr-quote','/tr/teklif-al']]:[['tr-home','/tr']];
+const summary=[];
+try{for(const [id,path] of cases){const result=await lighthouse('http://127.0.0.1:4173'+path,{port:chrome.port,output:['html','json'],logLevel:'error',onlyCategories:['performance','accessibility','best-practices','seo']});fs.writeFileSync(out+'/'+id+'.html',result.report[0]);fs.writeFileSync(out+'/'+id+'.json',result.report[1]);const lhr=result.lhr;const record={id,url:lhr.finalDisplayedUrl,date:lhr.fetchTime,scores:Object.fromEntries(Object.entries(lhr.categories).map(([k,v])=>[k,Math.round(v.score*100)])),metrics:Object.fromEntries(['first-contentful-paint','largest-contentful-paint','total-blocking-time','cumulative-layout-shift','speed-index'].map(k=>[k,lhr.audits[k].displayValue])),conditions:lhr.configSettings,failures:Object.values(lhr.audits).filter(x=>x.score!==null&&x.score<.9).map(x=>({id:x.id,title:x.title,score:x.score,value:x.displayValue}))};summary.push(record);console.log(JSON.stringify(record,null,2))}}finally{fs.writeFileSync(out+'-summary.json',JSON.stringify(summary,null,2));try{await chrome.kill()}catch(e){console.error('Browser cleanup:',e.message)}}

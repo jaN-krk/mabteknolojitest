@@ -1,0 +1,1 @@
+export function GET(){return new Response('User-agent: *\nAllow: /\nDisallow: /admin\nDisallow: /api/\nDisallow: /signin-with-chatgpt\nDisallow: /signout-with-chatgpt\n\nSitemap: https://mabteknoloji.com.tr/sitemap.xml\n',{headers:{'Content-Type':'text/plain'}})}

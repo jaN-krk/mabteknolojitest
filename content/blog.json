@@ -1,0 +1,1578 @@
+[
+  {
+    "id": "planning",
+    "kind": "article",
+    "lang": "tr",
+    "path": "/tr/blog/endustriyel-borulama-proje-planlamasi",
+    "source": "",
+    "title": "Endüstriyel borulama projesi nasıl planlanır?",
+    "description": "Teklifleri karşılaştırılabilir hale getiren kapsam, veri, sorumluluk ve teslim dosyası kararları.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "Önce işin sınırını tanımlayın"
+      },
+      {
+        "type": "p",
+        "text": "İyi bir teklif dosyası yalnızca boru metrajından oluşmaz. Yeni hattın nerede başlayıp nerede bittiğini, mevcut tesise bağlantı noktalarını ve işletmenin hangi sorunu çözmek istediğini yazın. Tasarım, tedarik, atölye imalatı, saha montajı, izolasyon ve devreye alma sorumluluklarını ayrı satırlarda belirtin. Böylece iki teklifin farklı işleri fiyatlandırıp fiyatlandırmadığını görebilirsiniz. Henüz bilinmeyen bir kapsamı kesin kabul etmek yerine “keşifte doğrulanacak” olarak işaretlemek, sonradan oluşabilecek değişikliklerin konuşulmasını kolaylaştırır."
+      },
+      {
+        "type": "h2",
+        "text": "Tasarım girdilerini bir araya getirin"
+      },
+      {
+        "type": "p",
+        "text": "Akışkanın adı ve bileşimi, beklenen çalışma koşulları, mevcut P&ID ve izometrikler, yerleşim planı ve revizyon tarihleri değerlendirme dosyasında birlikte bulunmalıdır. ASME’nin süreç özeti, tasarım koşullarından malzeme ve bileşen seçimine, imalat ve incelemeye uzanan bağlantıyı gösterir. Bu nedenle yalnızca bir boru çapı paylaşılması bütün tasarım kararlarını tarif etmez. Belgeye kimin sahip olduğunu ve son sürümü kimin onayladığını yazın; eski bir çizimin güncel saha ölçümü gibi kullanılmasını önleyin."
+      },
+      {
+        "type": "h2",
+        "text": "Takvimi tesisin koşullarıyla kurun"
+      },
+      {
+        "type": "p",
+        "text": "Montajın üretim sürerken mi, planlı duruşta mı yapılacağını belirtin. Malzeme girişleri, atölye ön imalatı, kaldırma ekipmanı erişimi ve diğer disiplinlerle aynı alanın paylaşımı takvime bağlanmalıdır. İşletme, bakım ve yüklenicinin karar vereceği noktaları birlikte listeleyin. İlk görüşmede kesin teslim tarihi istemek yerine, hangi bilginin takvimi değiştirebileceğini sorun. Bu yaklaşım planlamayı kolaylaştırır; sahaya erişim veya işletme izni verilmiş olduğu anlamına gelmez."
+      },
+      {
+        "type": "h2",
+        "text": "Teklif ve teslim dosyasında ne aramalısınız?"
+      },
+      {
+        "type": "p",
+        "text": "Teklif karşılaştırma tablonuzda kapsam, hariç tutulan işler, varsayımlar, malzeme tanımları, kontrol sorumlulukları ve teslim belgeleri için ayrı sütunlar açın. Kabul ölçütlerinin kim tarafından belirleneceğini ve değişikliklerin nasıl kayda alınacağını netleştirin. İş sonunda hangi çizimlerin güncelleneceği, hangi kontrol kayıtlarının teslim edileceği ve bakım ekibine hangi bilgilerin aktarılacağı başlangıçta konuşulmalıdır. MAB ile ilk değerlendirme için mevcut şartnameyi ve tesis konumunu paylaşabilirsiniz; bu yazı belirli bir standarda uygunluk veya uygulama onayı sağlamaz."
+      }
+    ],
+    "images": [
+      {
+        "key": "planning",
+        "alt": "Endüstriyel borulama projesi nasıl planlanır?",
+        "caption": ""
+      }
+    ],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "seoTitle": "Endüstriyel borulama projesi nasıl planlanır? — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-14",
+    "sources": [
+      {
+        "title": "ASME — Process Piping Fundamentals",
+        "url": "https://resources.asme.org/hubfs/L%20and%20D%20Evolution%20Engine/ASM004.001_Piping_Topical%20Guide_Design-1.23%20%281%29.pdf"
+      }
+    ],
+    "related": "piping",
+    "reviewed": true
+  },
+  {
+    "id": "planning",
+    "kind": "article",
+    "lang": "en",
+    "path": "/en/blog/planning-industrial-piping",
+    "source": "",
+    "title": "Planning an industrial piping project",
+    "description": "Scope, data, responsibilities and handover decisions that make proposals comparable.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "Define the boundaries first"
+      },
+      {
+        "type": "p",
+        "text": "A useful request for quotation contains more than pipe quantities. Describe where the new line begins and ends, its connections to the existing facility and the operating problem it should solve. List responsibility for design, supply, workshop fabrication, site installation, insulation and commissioning separately. This makes it possible to see whether two suppliers have priced the same work. Mark unresolved scope as “to be confirmed at survey” rather than treating it as certain; the open items can then be discussed explicitly."
+      },
+      {
+        "type": "h2",
+        "text": "Assemble the design inputs"
+      },
+      {
+        "type": "p",
+        "text": "Bring together the fluid name and composition, anticipated operating conditions, P&IDs, isometrics, layout and revision dates. ASME’s process overview links design conditions with material and component selection, fabrication and examination. A pipe diameter alone therefore does not describe every design decision. Record the document owner and who confirms the current revision. Keep observations separate from assumptions so an old drawing is not mistaken for a current site measurement."
+      },
+      {
+        "type": "h2",
+        "text": "Plan around the facility"
+      },
+      {
+        "type": "p",
+        "text": "State whether installation is expected during operation or a planned shutdown. Relate deliveries, workshop prefabrication, lifting-equipment access and shared work areas to the schedule. List decisions that require operations, maintenance and contractor input. Rather than asking for an unconditional completion date at the first meeting, ask which unknowns could change it. This supports scheduling but does not imply that site access or operating permission has already been granted."
+      },
+      {
+        "type": "h2",
+        "text": "What belongs in the proposal and handover?"
+      },
+      {
+        "type": "p",
+        "text": "Compare scope, exclusions, assumptions, material descriptions, inspection responsibilities and handover documents in separate columns. Clarify who defines acceptance criteria and how changes will be recorded. Agree early which drawings will be updated, which inspection records will be delivered and what the maintenance team needs to receive. For an initial discussion with MAB, share the existing specification and facility location. This article does not establish compliance with any particular standard or authorize installation."
+      }
+    ],
+    "images": [
+      {
+        "key": "planning",
+        "alt": "Planning an industrial piping project",
+        "caption": ""
+      }
+    ],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "seoTitle": "Planning an industrial piping project — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-14",
+    "sources": [
+      {
+        "title": "ASME — Process Piping Fundamentals",
+        "url": "https://resources.asme.org/hubfs/L%20and%20D%20Evolution%20Engine/ASM004.001_Piping_Topical%20Guide_Design-1.23%20%281%29.pdf"
+      }
+    ],
+    "related": "piping",
+    "reviewed": true
+  },
+  {
+    "id": "planning",
+    "kind": "article",
+    "lang": "ar",
+    "path": "/ar/blog/planning-industrial-piping",
+    "source": "",
+    "title": "تخطيط مشروع الأنابيب الصناعية",
+    "description": "قرارات النطاق والبيانات والمسؤوليات والتسليم التي تجعل العروض قابلة للمقارنة.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "حدد حدود العمل أولاً"
+      },
+      {
+        "type": "p",
+        "text": "لا يقتصر ملف طلب العرض المفيد على أطوال الأنابيب. اشرح بداية الخط ونهايته ونقاط اتصاله بالمنشأة الحالية والمشكلة التشغيلية المطلوبة معالجتها. افصل مسؤوليات التصميم والتوريد والتصنيع في الورشة والتركيب والعزل والتشغيل. بذلك يتضح إن كان الموردان يسعّران العمل نفسه. ضع علامة «يُؤكد خلال المعاينة» على النطاق غير المحسوم بدلاً من اعتباره نهائياً، حتى تبقى البنود المفتوحة واضحة للنقاش."
+      },
+      {
+        "type": "h2",
+        "text": "اجمع مدخلات التصميم"
+      },
+      {
+        "type": "p",
+        "text": "اجمع اسم المائع وتركيبه وظروف التشغيل المتوقعة ومخططات P&ID والرسومات المتساوية القياس والتخطيط وتواريخ المراجعة. يربط ملخص ASME بين ظروف التصميم واختيار المواد والمكونات والتصنيع والفحص. لذلك لا يكفي قطر الأنبوب لوصف جميع قرارات التصميم. سجّل مالك الوثيقة ومن يؤكد نسختها الحالية، وافصل الملاحظات عن الافتراضات كي لا تُعامل رسمة قديمة كقياس ميداني حديث."
+      },
+      {
+        "type": "h2",
+        "text": "اربط الجدول بظروف المنشأة"
+      },
+      {
+        "type": "p",
+        "text": "حدد إن كان التركيب متوقعاً أثناء الإنتاج أو خلال توقف مخطط. اربط تسليم المواد والتصنيع المسبق ودخول معدات الرفع ومشاركة مناطق العمل بالجدول. دوّن القرارات التي تتطلب مشاركة التشغيل والصيانة والمقاول. بدلاً من طلب موعد نهائي غير مشروط في الاجتماع الأول، اسأل عن المجهول الذي قد يغيره. هذا يدعم التخطيط ولا يعني منح إذن الوصول أو التشغيل."
+      },
+      {
+        "type": "h2",
+        "text": "ماذا تطلب في العرض والتسليم؟"
+      },
+      {
+        "type": "p",
+        "text": "قارن النطاق والاستثناءات والافتراضات وتعريفات المواد ومسؤوليات الفحص ووثائق التسليم في أعمدة مستقلة. حدد من يضع معايير القبول وكيف تُسجل التغييرات. ناقش مبكراً الرسومات التي ستُحدّث وسجلات الفحص والمعلومات التي تحتاجها الصيانة. يمكن مشاركة المواصفات الحالية وموقع المنشأة مع ماب لبدء التقييم. لا تثبت هذه المقالة مطابقة معيار محدد ولا تمنح إذناً للتنفيذ."
+      }
+    ],
+    "images": [
+      {
+        "key": "planning",
+        "alt": "تخطيط مشروع الأنابيب الصناعية",
+        "caption": ""
+      }
+    ],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "seoTitle": "تخطيط مشروع الأنابيب الصناعية — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-14",
+    "sources": [
+      {
+        "title": "ASME — Process Piping Fundamentals",
+        "url": "https://resources.asme.org/hubfs/L%20and%20D%20Evolution%20Engine/ASM004.001_Piping_Topical%20Guide_Design-1.23%20%281%29.pdf"
+      }
+    ],
+    "related": "piping",
+    "reviewed": true
+  },
+  {
+    "id": "planning",
+    "kind": "article",
+    "lang": "ru",
+    "path": "/ru/blog/planirovanie-promyshlennyh-truboprovodov",
+    "source": "",
+    "title": "Планирование промышленного трубопровода",
+    "description": "Объём, исходные данные, ответственность и передача документации для сопоставимых предложений.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "Сначала определите границы"
+      },
+      {
+        "type": "p",
+        "text": "Запрос предложения должен содержать больше, чем метраж труб. Укажите начало и конец линии, подключения к действующему объекту и производственную задачу. Отдельно распределите проектирование, закупку, изготовление, монтаж, изоляцию и ввод в эксплуатацию. Тогда можно понять, предлагают ли подрядчики одинаковый объём. Неуточнённые позиции помечайте «подтвердить при обследовании», чтобы обсуждать их открыто, а не считать заранее согласованными."
+      },
+      {
+        "type": "h2",
+        "text": "Соберите исходные данные"
+      },
+      {
+        "type": "p",
+        "text": "Подготовьте название и состав среды, ожидаемые условия работы, P&ID, изометрические чертежи, планировку и даты редакций. Обзор ASME связывает расчётные условия с выбором материалов и компонентов, изготовлением и контролем. Один диаметр трубы не описывает все проектные решения. Укажите владельца документа и ответственного за актуальность версии. Разделяйте наблюдения и допущения, чтобы старый чертёж не воспринимался как свежий обмер."
+      },
+      {
+        "type": "h2",
+        "text": "Учитывайте режим предприятия"
+      },
+      {
+        "type": "p",
+        "text": "Уточните, предполагаются ли работы во время производства или плановой остановки. Свяжите поставки, предварительное изготовление, доступ подъёмного оборудования и совместное использование зон с графиком. Перечислите решения с участием эксплуатации, обслуживания и подрядчика. Вместо безусловной даты завершения спросите, какие неизвестные могут её изменить. Планирование не означает, что доступ или разрешение на работы уже получены."
+      },
+      {
+        "type": "h2",
+        "text": "Что включить в предложение и передачу?"
+      },
+      {
+        "type": "p",
+        "text": "Сравнивайте объём, исключения, допущения, материалы, ответственность за контроль и комплект передачи в отдельных столбцах. Уточните, кто определяет критерии приёмки и как регистрируются изменения. Заранее обсудите обновление чертежей, передачу протоколов и сведения для обслуживания. Для первого обсуждения с MAB подготовьте техническое задание и расположение объекта. Статья не подтверждает соответствие стандарту и не разрешает выполнение работ."
+      }
+    ],
+    "images": [
+      {
+        "key": "planning",
+        "alt": "Планирование промышленного трубопровода",
+        "caption": ""
+      }
+    ],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "seoTitle": "Планирование промышленного трубопровода — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-14",
+    "sources": [
+      {
+        "title": "ASME — Process Piping Fundamentals",
+        "url": "https://resources.asme.org/hubfs/L%20and%20D%20Evolution%20Engine/ASM004.001_Piping_Topical%20Guide_Design-1.23%20%281%29.pdf"
+      }
+    ],
+    "related": "piping",
+    "reviewed": true
+  },
+  {
+    "id": "steam-condensate",
+    "kind": "article",
+    "lang": "tr",
+    "path": "/tr/blog/buhar-ve-kondens-hatlari",
+    "source": "",
+    "title": "Buhar ve kondens hatlarını birlikte değerlendirmek",
+    "description": "Buhar talebi, dönüş koşulları ve teklif sınırlarını aynı değerlendirme dosyasında buluşturun.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "Talebi kullanım noktasından anlatın"
+      },
+      {
+        "type": "p",
+        "text": "Bir buhar hattı teklifinde yalnızca kazan bilgisi paylaşmak, tüketicilerin ihtiyacını açıklamaya yetmez. Hangi ekipmanların beslendiğini, ne zaman çalıştığını, aynı anda devrede olup olmadığını ve mevcut sorunların hangi zamanlarda görüldüğünü listeleyin. Başlangıç ısıtması ile kararlı üretim dönemini ayrı anlatmak değerlendirmeyi kolaylaştırır. Ölçülen değerlerin tarihi ve ölçüm noktası belli olmalıdır; tahminleri ölçüm olarak yazmayın. Elinizde kayıt yoksa bunu belirtmek, eksik veriye dayalı kesin sonuç istemekten daha yararlıdır."
+      },
+      {
+        "type": "h2",
+        "text": "Kondens dönüşünü aynı kapsamda görün"
+      },
+      {
+        "type": "p",
+        "text": "Buhar ısı verdikten sonra oluşan kondensin dönüşü ayrı bir proje arayüzüdür. Spirax Sarco, kondens geri kazanımını geri dönen suyun ısısı ve yeniden kullanımı bağlamında ele alır. Bu bilgi belirli bir tesis için tasarruf yüzdesi vermez. Mevcut dönüş güzergâhını, toplama noktalarını, işletmenin bildirdiği kirlilik risklerini ve başka sistemlere bağlantıları değerlendirme dosyasına ekleyin. Dönüş hattının teklif kapsamında olup olmadığını açıkça sorun; yalnızca besleme hattının fiyatlandırılması karşılaştırmayı yanıltabilir."
+      },
+      {
+        "type": "h2",
+        "text": "Mevcut sorunları gözlem diliyle kaydedin"
+      },
+      {
+        "type": "p",
+        "text": "“Sistem verimsiz” ifadesi yerine, hangi tüketicide üretim koşulunun sağlanamadığını ve bunun hangi çalışma döneminde tekrarlandığını açıklayın. Ses, titreşim, sızıntı veya düzensiz ısınma gibi gözlemleri tarih ve konum ile yetkili ekibe bildirin. Bu belirtilerin nedenini uzaktan kesinleştirmeyin. Proje görüşmesi sırasında onaylı bakım ve muayene kayıtlarının mevcut olup olmadığını sorun. Bu yazı, basınçlı hatlara müdahale, arıza giderme veya çalışma ayarı değiştirme talimatı değildir."
+      },
+      {
+        "type": "h2",
+        "text": "Teklifte ortak bir değerlendirme sınırı oluşturun"
+      },
+      {
+        "type": "p",
+        "text": "Besleme ve dönüş hatları, vana grupları, izolasyon, taşıyıcılar ve kontrol sorumlulukları için dahil/hariç tablosu isteyin. Tasarım girdilerinin hangi tarafça sağlanacağını ve proje sonrası hangi dokümanların teslim edileceğini netleştirin. Enerji değerlendirmesi isteniyorsa başlangıç verisi ve ölçüm sınırı ayrıca tanımlanmalıdır; kaynak bir yayındaki örnek kazancı kendi tesisinize doğrudan taşımayın. MAB’a başvururken mevcut şema, kullanım noktaları ve tesis konumunu paylaşmak ilk değerlendirmeyi destekler."
+      }
+    ],
+    "images": [
+      {
+        "key": "steam-condensate",
+        "alt": "Buhar ve kondens hatlarını birlikte değerlendirmek",
+        "caption": ""
+      }
+    ],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "seoTitle": "Buhar ve kondens hatlarını birlikte değerlendirmek — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-14",
+    "sources": [
+      {
+        "title": "Spirax Sarco — Introduction to Condensate Recovery",
+        "url": "https://www.spiraxsarco.com/learn-about-steam/condensate-recovery/introduction-to-condensate-recovery"
+      }
+    ],
+    "related": "thermal",
+    "reviewed": true
+  },
+  {
+    "id": "steam-condensate",
+    "kind": "article",
+    "lang": "en",
+    "path": "/en/blog/steam-and-condensate-lines",
+    "source": "",
+    "title": "Assessing steam and condensate lines together",
+    "description": "Bring steam demand, return conditions and proposal boundaries into one assessment.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "Describe demand at the users"
+      },
+      {
+        "type": "p",
+        "text": "Boiler information alone does not describe the needs of every steam consumer. List the equipment supplied, operating times, whether users run simultaneously and when current problems occur. Describe warm-up and steady production separately. Record the date and location of measurements and identify estimates as estimates. If logs are unavailable, say so explicitly. The purpose is to build a reliable assessment brief, not to ask for a definite result from incomplete information."
+      },
+      {
+        "type": "h2",
+        "text": "Include the condensate interface"
+      },
+      {
+        "type": "p",
+        "text": "Condensate return is a distinct project interface after steam has released heat. Spirax Sarco discusses recovery in terms of the heat in returned water and its reuse. This does not establish a saving percentage for an individual facility. Include the return route, collection points, contamination concerns reported by the operator and interfaces with other systems. Ask explicitly whether the return line is included in the proposal; a price covering supply only may not be comparable."
+      },
+      {
+        "type": "h2",
+        "text": "Record observations, not diagnoses"
+      },
+      {
+        "type": "p",
+        "text": "Instead of saying “the system is inefficient,” identify the consumer that does not achieve the required production condition and when this repeats. Report observations such as noise, vibration, leakage or irregular heating with dates and locations to the authorized team. Do not assign a definite cause remotely. During project discussions, ask whether approved maintenance and inspection records are available. This article is not an instruction to intervene in pressurized pipework, troubleshoot faults or change operating settings."
+      },
+      {
+        "type": "h2",
+        "text": "Use a common proposal boundary"
+      },
+      {
+        "type": "p",
+        "text": "Request an inclusion/exclusion table for supply and return lines, valve groups, insulation, supports and inspection responsibilities. Clarify who supplies design inputs and which documents will be handed over. If an energy assessment is required, define the baseline data and measurement boundary separately; do not transfer a saving from a published example directly to your facility. Share the existing diagram, points of use and site location when contacting MAB for an initial assessment."
+      }
+    ],
+    "images": [
+      {
+        "key": "steam-condensate",
+        "alt": "Assessing steam and condensate lines together",
+        "caption": ""
+      }
+    ],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "seoTitle": "Assessing steam and condensate lines together — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-14",
+    "sources": [
+      {
+        "title": "Spirax Sarco — Introduction to Condensate Recovery",
+        "url": "https://www.spiraxsarco.com/learn-about-steam/condensate-recovery/introduction-to-condensate-recovery"
+      }
+    ],
+    "related": "thermal",
+    "reviewed": true
+  },
+  {
+    "id": "steam-condensate",
+    "kind": "article",
+    "lang": "ar",
+    "path": "/ar/blog/steam-and-condensate-lines",
+    "source": "",
+    "title": "تقييم خطوط البخار والمكثفات معاً",
+    "description": "اجمع طلب البخار وظروف الرجوع وحدود العرض في تقييم واحد.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "صف الطلب عند المستهلكين"
+      },
+      {
+        "type": "p",
+        "text": "معلومات الغلاية وحدها لا تصف احتياج كل مستهلك للبخار. اذكر المعدات وأوقات التشغيل وتزامنها ومتى تظهر المشكلات الحالية. افصل وصف التسخين الأولي عن الإنتاج المستقر. دوّن تاريخ القياس ومكانه وميّز التقديرات عن القياسات. إذا لم تتوفر سجلات فاذكر ذلك بوضوح؛ الهدف إعداد ملف تقييم موثوق، لا طلب نتيجة قطعية من معلومات ناقصة."
+      },
+      {
+        "type": "h2",
+        "text": "أدرج واجهة رجوع المكثفات"
+      },
+      {
+        "type": "p",
+        "text": "رجوع المكثفات واجهة مستقلة للمشروع بعد أن يطلق البخار حرارته. تتناول Spirax Sarco الاسترجاع من ناحية حرارة الماء العائد وإعادة استخدامه؛ وهذا لا يحدد نسبة توفير لمنشأة بعينها. أدرج مسار الرجوع ونقاط التجميع ومخاوف التلوث التي يذكرها المشغّل والاتصالات بالأنظمة الأخرى. اسأل صراحة إن كان خط الرجوع مشمولاً؛ فسعر خط التغذية وحده قد لا يصلح للمقارنة."
+      },
+      {
+        "type": "h2",
+        "text": "سجّل الملاحظات لا التشخيص"
+      },
+      {
+        "type": "p",
+        "text": "بدلاً من عبارة «النظام غير كفء»، حدد المستهلك الذي لا يحقق شرط الإنتاج ومتى يتكرر ذلك. أبلغ الفريق المخول عن الضوضاء أو الاهتزاز أو التسرب أو تفاوت التسخين مع التاريخ والموقع. لا تحدد سبباً قطعياً عن بُعد. اسأل خلال المناقشة عن سجلات الصيانة والفحص المعتمدة. هذه المقالة ليست تعليمات للتدخل في أنابيب مضغوطة أو إصلاح أعطال أو تغيير إعدادات التشغيل."
+      },
+      {
+        "type": "h2",
+        "text": "وحّد حدود مقارنة العروض"
+      },
+      {
+        "type": "p",
+        "text": "اطلب جدولاً يبين شمول واستثناء خطوط التغذية والرجوع ومجموعات الصمامات والعزل والدعامات ومسؤوليات الفحص. حدد من يوفر المدخلات والوثائق المطلوبة عند التسليم. إذا طُلب تقييم الطاقة فعرّف بيانات الأساس وحدود القياس بشكل مستقل؛ لا تنقل وفراً من مثال منشور مباشرة إلى منشأتك. شارك المخطط الحالي ونقاط الاستخدام والموقع مع ماب لدعم التقييم الأولي."
+      }
+    ],
+    "images": [
+      {
+        "key": "steam-condensate",
+        "alt": "تقييم خطوط البخار والمكثفات معاً",
+        "caption": ""
+      }
+    ],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "seoTitle": "تقييم خطوط البخار والمكثفات معاً — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-14",
+    "sources": [
+      {
+        "title": "Spirax Sarco — Introduction to Condensate Recovery",
+        "url": "https://www.spiraxsarco.com/learn-about-steam/condensate-recovery/introduction-to-condensate-recovery"
+      }
+    ],
+    "related": "thermal",
+    "reviewed": true
+  },
+  {
+    "id": "steam-condensate",
+    "kind": "article",
+    "lang": "ru",
+    "path": "/ru/blog/linii-para-i-kondensata",
+    "source": "",
+    "title": "Совместная оценка линий пара и конденсата",
+    "description": "Объедините потребность в паре, условия возврата и границы предложения в одной оценке.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "Опишите потребление у оборудования"
+      },
+      {
+        "type": "p",
+        "text": "Сведения о котле не описывают потребности всех потребителей. Перечислите оборудование, часы работы, одновременность нагрузки и время появления проблем. Отдельно опишите прогрев и устойчивое производство. Укажите дату и место измерений, а оценки пометьте как оценки. Если журналов нет, сообщите об этом. Цель — надёжные исходные данные, а не окончательное решение на неполной информации."
+      },
+      {
+        "type": "h2",
+        "text": "Учтите возврат конденсата"
+      },
+      {
+        "type": "p",
+        "text": "После отдачи тепла возврат конденсата становится отдельным интерфейсом проекта. Spirax Sarco рассматривает утилизацию с точки зрения тепла возвращаемой воды и повторного использования. Это не задаёт процент экономии для конкретного предприятия. Приложите маршрут возврата, точки сбора, заявленные риски загрязнения и связи с другими системами. Уточните, включён ли возврат в цену: стоимость одной подачи может быть несопоставимой."
+      },
+      {
+        "type": "h2",
+        "text": "Фиксируйте наблюдения, а не диагнозы"
+      },
+      {
+        "type": "p",
+        "text": "Вместо «система неэффективна» укажите потребителя, который не достигает нужных условий, и время повторения. Сообщайте уполномоченной команде о шуме, вибрации, утечках и неравномерном нагреве с датой и местом. Не определяйте причину окончательно дистанционно. Уточните наличие утверждённых журналов обслуживания и проверок. Статья не является инструкцией по вмешательству в напорные линии, устранению неисправностей или изменению настроек."
+      },
+      {
+        "type": "h2",
+        "text": "Задайте единые границы предложения"
+      },
+      {
+        "type": "p",
+        "text": "Запросите таблицу включений и исключений для подачи, возврата, арматуры, изоляции, опор и контроля. Уточните поставщика исходных данных и комплект документации. Для энергетической оценки отдельно задайте базовые данные и границы измерений; не переносите экономию из опубликованного примера на свой объект. Для первого обсуждения с MAB приложите схему, точки потребления и расположение предприятия."
+      }
+    ],
+    "images": [
+      {
+        "key": "steam-condensate",
+        "alt": "Совместная оценка линий пара и конденсата",
+        "caption": ""
+      }
+    ],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "seoTitle": "Совместная оценка линий пара и конденсата — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-14",
+    "sources": [
+      {
+        "title": "Spirax Sarco — Introduction to Condensate Recovery",
+        "url": "https://www.spiraxsarco.com/learn-about-steam/condensate-recovery/introduction-to-condensate-recovery"
+      }
+    ],
+    "related": "thermal",
+    "reviewed": true
+  },
+  {
+    "id": "thermal-design",
+    "kind": "article",
+    "lang": "tr",
+    "path": "/tr/blog/kizgin-yag-sistemlerinde-tasarim-degerlendirmeleri",
+    "source": "",
+    "title": "Kızgın yağ sistemlerinde tasarım değerlendirmeleri",
+    "description": "Akışkanın kimliği, proses hedefi ve ekipman arayüzleri netleşmeden sıcaklık değerinden tasarım sonucu çıkarmayın.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "Tek sıcaklık değeri yeterli değildir"
+      },
+      {
+        "type": "p",
+        "text": "Bir teklif talebinde “350 derece hat” ifadesi, prosesin tamamını tarif etmez. Bu değerin işletme hedefi mi, bir ekipman sınırı mı yoksa mevcut ölçüm mü olduğunu açıklayın. Mevcut akışkanın ürün adı, üretici veri sayfası, kullanım geçmişi ve işletmenin bildiği çalışma aralığını dosyaya ekleyin. Eastman, ısı transfer akışkanı seçimini farklı ürünler ve çalışma aralıkları üzerinden sunar. Dolayısıyla bütün termal yağları tek bir malzeme gibi değerlendirmek yerine ürünün kendi verileri üzerinden görüşme yapılmalıdır."
+      },
+      {
+        "type": "h2",
+        "text": "Mevcut ve yeni ekipman arasındaki sınırı belirleyin"
+      },
+      {
+        "type": "p",
+        "text": "Isıtıcı, pompalar, tüketiciler, genleşme düzeni ve hatlar arasındaki bağlantıları aynı şemada gösterin. Hangi ekipmanın korunacağı, hangi bağlantının değişeceği ve yeni ekipman için üretici verilerinin kimden geleceği açık olmalıdır. Bir borulama teklifinin mevcut ısıtıcının veya pompanın yeterliliğini otomatik olarak doğruladığını varsaymayın. Her arayüz için sorumlu taraf ve beklenen inceleme çıktısını yazın. Yalnızca fiyat satırına değil, değerlendirmenin hangi parçaları kapsadığına bakın."
+      },
+      {
+        "type": "h2",
+        "text": "Değerlendirme sorularını teklif öncesinde yazın"
+      },
+      {
+        "type": "p",
+        "text": "Tesisin çalışma çevrimi, planlı duruş imkânı, bakım erişimi ve mevcut izolasyon durumu hangi belgelerle açıklanabilir? Akışkan değerlendirmesi, mekanik tasarım ve kontrol sistemine ilişkin incelemeleri kim üstlenecek? İşletmenin hangi varsayımları teyit etmesi gerekiyor? Bu sorular bir tasarım toplantısının gündemini oluşturur. Yerinde ölçüm veya üretici görüşü gerektiren başlıkları açık bırakın; bu yazı genleşme hesabı, pompa seçimi ya da akışkan değiştirme yöntemi vermez."
+      },
+      {
+        "type": "h2",
+        "text": "Kaynak sınırlarını doğru okuyun"
+      },
+      {
+        "type": "p",
+        "text": "MAB’ın kaynak hizmet sayfasında 350°C’ye kadar proses hatları, taşyünü ve alüminyum/paslanmaz sac kaplama belirtilir. Bu, her termal yağın her tesiste aynı sıcaklıkta kullanılabileceği anlamına gelmez. Teklifte proje koşullarını, malzeme tanımlarını, dahil olmayan işleri ve kontrol sorumluluklarını ayrıca isteyin. Tesisinize özel uygunluk, güncel akışkan ve ekipman verileriyle yapılacak mühendislik değerlendirmesine bağlıdır. İlk görüşmeye mevcut şema ve doğrulanmış işletme verileriyle hazırlanmanız kapsamın daha açık kurulmasını sağlar."
+      }
+    ],
+    "images": [
+      {
+        "key": "thermal-design",
+        "alt": "Kızgın yağ sistemlerinde tasarım değerlendirmeleri",
+        "caption": ""
+      }
+    ],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "seoTitle": "Kızgın yağ sistemlerinde tasarım değerlendirmeleri — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-14",
+    "sources": [
+      {
+        "title": "Eastman Therminol — Fluid Selection",
+        "url": "https://www.eastman.com/en/products/brands/therminol/resources/fluid-selection"
+      }
+    ],
+    "related": "thermal",
+    "reviewed": true
+  },
+  {
+    "id": "thermal-design",
+    "kind": "article",
+    "lang": "en",
+    "path": "/en/blog/thermal-oil-design-assessment",
+    "source": "",
+    "title": "Design assessment for thermal oil systems",
+    "description": "Define the fluid, process objective and equipment interfaces before drawing conclusions from a temperature value.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "One temperature is not enough"
+      },
+      {
+        "type": "p",
+        "text": "A request for a “350-degree line” does not describe the whole process. Explain whether the number is an operating target, an equipment limit or an existing measurement. Include the fluid product name, manufacturer data sheet, service history and known operating range. Eastman presents heat-transfer-fluid selection across different products and operating ranges. The discussion should therefore use the particular product’s data rather than treating all thermal oils as an interchangeable material."
+      },
+      {
+        "type": "h2",
+        "text": "Define existing and new interfaces"
+      },
+      {
+        "type": "p",
+        "text": "Show connections between the heater, pumps, consumers, expansion arrangement and pipework on one diagram. Identify equipment to be retained, connections to be changed and who will obtain manufacturer information for new equipment. Do not assume a piping quotation automatically confirms the adequacy of an existing heater or pump. Assign an owner and expected review output to each interface. Compare the coverage of the assessment as well as the price."
+      },
+      {
+        "type": "h2",
+        "text": "Write the review questions before tendering"
+      },
+      {
+        "type": "p",
+        "text": "Which documents describe the operating cycle, shutdown opportunities, maintenance access and existing insulation? Who will review the fluid, mechanical design and controls? Which assumptions must the operator confirm? These questions form an agenda for a design discussion. Leave issues that require measurements or manufacturer advice explicitly unresolved. This article does not provide expansion calculations, pump selection or a method for replacing the fluid."
+      },
+      {
+        "type": "h2",
+        "text": "Read the service limits correctly"
+      },
+      {
+        "type": "p",
+        "text": "MAB’s source service page lists process lines up to 350°C and rock-wool insulation with aluminium or stainless cladding. This does not mean every thermal oil can operate at that temperature in every facility. Request the project conditions, material descriptions, exclusions and inspection responsibilities in the proposal. Suitability depends on engineering assessment using current fluid and equipment information. Preparing the existing diagram and verified operating data makes the initial discussion more precise."
+      }
+    ],
+    "images": [
+      {
+        "key": "thermal-design",
+        "alt": "Design assessment for thermal oil systems",
+        "caption": ""
+      }
+    ],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "seoTitle": "Design assessment for thermal oil systems — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-14",
+    "sources": [
+      {
+        "title": "Eastman Therminol — Fluid Selection",
+        "url": "https://www.eastman.com/en/products/brands/therminol/resources/fluid-selection"
+      }
+    ],
+    "related": "thermal",
+    "reviewed": true
+  },
+  {
+    "id": "thermal-design",
+    "kind": "article",
+    "lang": "ar",
+    "path": "/ar/blog/thermal-oil-design-assessment",
+    "source": "",
+    "title": "تقييم تصميم أنظمة الزيت الحراري",
+    "description": "حدد المائع وهدف العملية وواجهات المعدات قبل استنتاج التصميم من قيمة حرارة واحدة.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "قيمة حرارة واحدة لا تكفي"
+      },
+      {
+        "type": "p",
+        "text": "طلب «خط بدرجة 350» لا يصف العملية كاملة. وضّح هل القيمة هدف تشغيل أم حد معدات أم قياس قائم. أرفق اسم منتج المائع وورقة بيانات المصنع وتاريخ الاستخدام ومجال التشغيل المعروف. تعرض Eastman اختيار موائع نقل الحرارة عبر منتجات ومجالات تشغيل مختلفة. لذا ينبغي مناقشة بيانات المنتج المحدد بدلاً من اعتبار جميع الزيوت الحرارية مادة متبادلة واحدة."
+      },
+      {
+        "type": "h2",
+        "text": "حدد الواجهات القديمة والجديدة"
+      },
+      {
+        "type": "p",
+        "text": "أظهر اتصالات السخان والمضخات والمستهلكين وترتيب التمدد والأنابيب في مخطط واحد. حدد المعدات التي ستبقى والاتصالات التي ستتغير ومن سيجمع بيانات مصنع المعدات الجديدة. لا تفترض أن عرض الأنابيب يؤكد تلقائياً كفاية سخان أو مضخة موجودة. عيّن مسؤولاً ومخرج مراجعة لكل واجهة وقارن نطاق التقييم إلى جانب السعر."
+      },
+      {
+        "type": "h2",
+        "text": "اكتب أسئلة المراجعة قبل العرض"
+      },
+      {
+        "type": "p",
+        "text": "ما الوثائق التي تصف دورة التشغيل وإمكان التوقف والوصول للصيانة وحالة العزل؟ من يراجع المائع والتصميم الميكانيكي والتحكم؟ وما الافتراضات التي يجب أن يؤكدها المشغّل؟ تشكل هذه الأسئلة جدول اجتماع التصميم. اترك المسائل المحتاجة لقياس أو رأي المصنع غير محسومة بوضوح. لا تقدم المقالة حساب تمدد أو اختيار مضخة أو طريقة استبدال المائع."
+      },
+      {
+        "type": "h2",
+        "text": "اقرأ حدود الخدمة بدقة"
+      },
+      {
+        "type": "p",
+        "text": "تذكر صفحة خدمة ماب الأصلية خطوط عمليات حتى 350 درجة مئوية وعزل الصوف الصخري مع تغطية ألمنيوم أو فولاذ مقاوم للصدأ. لا يعني ذلك صلاحية كل زيت لهذه الحرارة في كل منشأة. اطلب ظروف المشروع وتعريف المواد والاستثناءات ومسؤوليات الفحص في العرض. تعتمد الملاءمة على تقييم هندسي ببيانات المائع والمعدات الحالية. تجهيز المخطط والبيانات المتحققة يجعل المناقشة الأولية أوضح."
+      }
+    ],
+    "images": [
+      {
+        "key": "thermal-design",
+        "alt": "تقييم تصميم أنظمة الزيت الحراري",
+        "caption": ""
+      }
+    ],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "seoTitle": "تقييم تصميم أنظمة الزيت الحراري — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-14",
+    "sources": [
+      {
+        "title": "Eastman Therminol — Fluid Selection",
+        "url": "https://www.eastman.com/en/products/brands/therminol/resources/fluid-selection"
+      }
+    ],
+    "related": "thermal",
+    "reviewed": true
+  },
+  {
+    "id": "thermal-design",
+    "kind": "article",
+    "lang": "ru",
+    "path": "/ru/blog/ocenka-sistem-termomasla",
+    "source": "",
+    "title": "Оценка проектирования систем термомасла",
+    "description": "Определите теплоноситель, цель процесса и интерфейсы оборудования до выводов по одной температуре.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "Одной температуры недостаточно"
+      },
+      {
+        "type": "p",
+        "text": "Запрос «линии на 350 градусов» не описывает весь процесс. Уточните, является ли число целью, пределом оборудования или измерением. Приложите название теплоносителя, паспорт производителя, историю использования и известный рабочий диапазон. Eastman предлагает выбор теплоносителя среди разных продуктов и диапазонов работы. Обсуждение должно опираться на данные конкретного продукта, а не считать все термомасла взаимозаменяемыми."
+      },
+      {
+        "type": "h2",
+        "text": "Определите старые и новые интерфейсы"
+      },
+      {
+        "type": "p",
+        "text": "На одной схеме покажите нагреватель, насосы, потребителей, узел расширения и трубопроводы. Укажите сохраняемое оборудование, изменяемые соединения и ответственного за получение данных изготовителей. Предложение на трубопровод не означает автоматической проверки достаточности существующего нагревателя или насоса. Назначьте ответственного и результат проверки для каждого интерфейса. Сравнивайте охват оценки вместе с ценой."
+      },
+      {
+        "type": "h2",
+        "text": "Составьте вопросы до закупки"
+      },
+      {
+        "type": "p",
+        "text": "Какие документы описывают рабочий цикл, возможности остановки, доступ для обслуживания и изоляцию? Кто проверит теплоноситель, механическую часть и управление? Какие допущения должен подтвердить оператор? Это повестка проектного обсуждения. Вопросы, требующие измерений или мнения изготовителя, оставляйте явно открытыми. Статья не содержит расчёта расширения, подбора насоса или процедуры замены жидкости."
+      },
+      {
+        "type": "h2",
+        "text": "Правильно читайте границы услуги"
+      },
+      {
+        "type": "p",
+        "text": "Исходная страница MAB указывает линии до 350°C и каменную вату с алюминиевой или нержавеющей обшивкой. Это не означает пригодности любого масла при такой температуре на любом объекте. Запросите условия проекта, материалы, исключения и ответственность за контроль. Пригодность определяется инженерной оценкой по актуальным данным жидкости и оборудования. Подготовленные схема и проверенные режимы уточняют первое обсуждение."
+      }
+    ],
+    "images": [
+      {
+        "key": "thermal-design",
+        "alt": "Оценка проектирования систем термомасла",
+        "caption": ""
+      }
+    ],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "seoTitle": "Оценка проектирования систем термомасла — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-14",
+    "sources": [
+      {
+        "title": "Eastman Therminol — Fluid Selection",
+        "url": "https://www.eastman.com/en/products/brands/therminol/resources/fluid-selection"
+      }
+    ],
+    "related": "thermal",
+    "reviewed": true
+  },
+  {
+    "id": "material-selection",
+    "kind": "article",
+    "lang": "tr",
+    "path": "/tr/blog/proses-kosullarina-gore-boru-malzemesi-secimi",
+    "source": "",
+    "title": "Proses koşullarına göre boru malzemesi seçimi",
+    "description": "Bir kalite kodunun ötesine geçin: akışkan bileşimi, sıcaklık, temizlik ve belge beklentilerini birlikte tarif edin.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "“Paslanmaz” tek başına bir şartname değildir"
+      },
+      {
+        "type": "p",
+        "text": "Satın alma görüşmesinde bir malzeme ailesinin adını söylemek, kullanım ortamını tanımlamaz. Hattın taşıdığı ana ürünün yanında, temizlik maddeleri, bekleme koşulları ve işletmenin bildiği değişkenleri de yazın. Mevcut bir hatta hangi malzemenin kullanıldığı, yeni uygulama için tek başına uygunluk kanıtı değildir. Kararın hangi veriye dayandığını ve bu verinin kim tarafından teyit edileceğini sorarak başlayın. Yeni bir kalite önerildiğinde yalnızca fiyat farkını değil, değerlendirme gerekçesini de isteyin."
+      },
+      {
+        "type": "h2",
+        "text": "Korozyon verisini bağlamıyla okuyun"
+      },
+      {
+        "type": "p",
+        "text": "Outokumpu’nun korozyon tabloları, sonuçları belirtilen ortam ve test koşullarıyla sunar; malzeme seçimi için koşulların doğru tanımlanması gerekir. Bir tabloda uygun görünen bir hücreyi, bütün üretim çevrimini kapsayan kesin onay gibi kullanmayın. Ürün bileşimi ve konsantrasyon değişimleri, sıcaklık bilgisi ve temizlik çevrimi değerlendirme dosyasında açıkça yer almalıdır. Kaynak veya birleştirme koşullarını yorumlama sorumluluğunu uzman ekipte bırakın. Bu yazı belirli bir kimyasal için malzeme reçetesi vermez."
+      },
+      {
+        "type": "h2",
+        "text": "Malzeme ve belge kapsamını aynı anda karşılaştırın"
+      },
+      {
+        "type": "p",
+        "text": "İki teklif aynı kalite adını yazsa da ürün biçimi, et kalınlığı, bağlantı elemanları ve istenen kayıtlar farklı olabilir. Karşılaştırma dosyasında boru, fitting, vana, conta ve destek arayüzlerini ayrı başlıklarla ele alın. Malzemenin izlenebilirliğine ilişkin hangi belgelerin verileceğini, kontrol planının hangi kısmının teklife dahil olduğunu sorun. Bunlar otomatik sertifika taahhüdü değildir; beklenen teslim kapsamının yazılı olarak anlaşılması için sorulardır. Belirsiz bir belge adını kabul ölçütü olarak bırakmayın."
+      },
+      {
+        "type": "h2",
+        "text": "MAB’ın hizmet tablosunu nasıl kullanabilirsiniz?"
+      },
+      {
+        "type": "p",
+        "text": "Kaynakta AISI 304, AISI 316 ve karbon çelik P235GH yer alır. Bu liste bir kimyasal uyumluluk tablosu değildir. Talebinizi iletirken elinizdeki teknik şartnameyi, proses açıklamasını ve varsa işletmenin onaylı malzeme tercihlerini ekleyin. Malzeme değişikliği isteniyorsa bunun gerekçesini ve hangi koşulların yeniden değerlendirileceğini belirtin. En yararlı ilk çıktı, eksikleri ve sorumluları belirli bir değerlendirme listesidir; eksik girdilerle verilecek kesin kalite tavsiyesi değildir."
+      }
+    ],
+    "images": [
+      {
+        "key": "material-selection",
+        "alt": "Proses koşullarına göre boru malzemesi seçimi",
+        "caption": ""
+      }
+    ],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "seoTitle": "Proses koşullarına göre boru malzemesi seçimi — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-14",
+    "sources": [
+      {
+        "title": "Outokumpu — Corrosion Tables",
+        "url": "https://www.outokumpu.com/en/products/corrosion-tables"
+      }
+    ],
+    "related": "piping",
+    "reviewed": true
+  },
+  {
+    "id": "material-selection",
+    "kind": "article",
+    "lang": "en",
+    "path": "/en/blog/pipe-material-selection",
+    "source": "",
+    "title": "Selecting pipe material for process conditions",
+    "description": "Look beyond a grade code: describe fluid chemistry, temperature, cleaning and documentation needs together.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "“Stainless” is not a complete specification"
+      },
+      {
+        "type": "p",
+        "text": "Naming a material family during procurement does not define the service environment. Alongside the main product, describe cleaning agents, idle conditions and known operating variations. A material used in an existing line is not, by itself, evidence of suitability for a new application. Ask which data support the decision and who confirms those data. If a different grade is proposed, request the reasoning behind the assessment, not only the price difference."
+      },
+      {
+        "type": "h2",
+        "text": "Read corrosion data in context"
+      },
+      {
+        "type": "p",
+        "text": "Outokumpu’s corrosion tables present results for stated media and test conditions; selecting a material requires the conditions to be defined correctly. Do not treat a favourable table entry as approval for an entire production cycle. Document composition and concentration changes, temperature information and the cleaning cycle. Interpretation of welding or joining conditions belongs with the specialist team. This article does not prescribe a material for any particular chemical."
+      },
+      {
+        "type": "h2",
+        "text": "Compare material and documentation together"
+      },
+      {
+        "type": "p",
+        "text": "Two quotations can name the same grade while differing in product form, wall thickness, fittings and expected records. Compare pipe, fittings, valves, gaskets and support interfaces separately. Ask what traceability documents will be supplied and which part of the inspection plan is included. These questions do not create an automatic certification promise; they help establish the expected handover in writing. Do not leave an ambiguous document label as an acceptance criterion."
+      },
+      {
+        "type": "h2",
+        "text": "How to use MAB’s service table"
+      },
+      {
+        "type": "p",
+        "text": "The source lists AISI 304, AISI 316 and P235GH carbon steel. That list is not a chemical compatibility table. Supply the existing specification, process description and any approved material preferences with your request. If a change of material is proposed, explain why and identify conditions requiring reassessment. The most useful first outcome is an assessment list with named owners and open inputs, rather than a definitive grade recommendation based on missing information."
+      }
+    ],
+    "images": [
+      {
+        "key": "material-selection",
+        "alt": "Selecting pipe material for process conditions",
+        "caption": ""
+      }
+    ],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "seoTitle": "Selecting pipe material for process conditions — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-14",
+    "sources": [
+      {
+        "title": "Outokumpu — Corrosion Tables",
+        "url": "https://www.outokumpu.com/en/products/corrosion-tables"
+      }
+    ],
+    "related": "piping",
+    "reviewed": true
+  },
+  {
+    "id": "material-selection",
+    "kind": "article",
+    "lang": "ar",
+    "path": "/ar/blog/pipe-material-selection",
+    "source": "",
+    "title": "اختيار مادة الأنبوب حسب ظروف العملية",
+    "description": "تجاوز رمز الدرجة وحدد تركيب المائع والحرارة والتنظيف والوثائق معاً.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "«مقاوم للصدأ» ليس مواصفة كاملة"
+      },
+      {
+        "type": "p",
+        "text": "ذكر عائلة المادة عند الشراء لا يحدد بيئة الاستخدام. صف المنتج الرئيسي ومواد التنظيف وظروف التوقف وتغيرات التشغيل المعروفة. استخدام مادة في خط قائم ليس وحده دليلاً على ملاءمتها لتطبيق جديد. اسأل عن البيانات التي تدعم القرار ومن يؤكدها. عند اقتراح درجة أخرى، اطلب سبب التقييم إلى جانب فرق السعر."
+      },
+      {
+        "type": "h2",
+        "text": "اقرأ بيانات التآكل في سياقها"
+      },
+      {
+        "type": "p",
+        "text": "تعرض جداول Outokumpu النتائج لوسط وظروف اختبار محددة؛ ويستلزم الاختيار تعريف الظروف بدقة. لا تعتبر خانة ملائمة في جدول موافقة على دورة إنتاج كاملة. وثّق تغير التركيب والتركيز والحرارة ودورة التنظيف. اترك تفسير ظروف اللحام أو الوصل للفريق المختص. لا توصي هذه المقالة بمادة محددة لمادة كيميائية بعينها."
+      },
+      {
+        "type": "h2",
+        "text": "قارن المواد والوثائق معاً"
+      },
+      {
+        "type": "p",
+        "text": "قد يسمي عرضان الدرجة نفسها مع اختلاف شكل المنتج وسماكة الجدار والوصلات والسجلات المطلوبة. قارن الأنابيب والقطع والصمامات والحشيات وواجهات الدعامات بصورة مستقلة. اسأل عن وثائق التتبع ونطاق خطة الفحص المشمول. لا تشكل الأسئلة تعهداً تلقائياً بالشهادات؛ بل توضح التسليم المتوقع كتابةً. لا تترك اسماً غامضاً لوثيقة معياراً للقبول."
+      },
+      {
+        "type": "h2",
+        "text": "كيف تستخدم جدول خدمة ماب؟"
+      },
+      {
+        "type": "p",
+        "text": "يسرد المصدر AISI 304 وAISI 316 والفولاذ الكربوني P235GH. ليست القائمة جدول توافق كيميائي. أرفق المواصفات ووصف العملية وتفضيلات المواد المعتمدة إن وجدت. عند اقتراح تغيير، اشرح سببه والظروف التي تحتاج إعادة تقييم. أفضل نتيجة أولية قائمة تقييم تُحدد المعلومات الناقصة والمسؤولين، وليست توصية قطعية بدرجة اعتماداً على معلومات غير مكتملة."
+      }
+    ],
+    "images": [
+      {
+        "key": "material-selection",
+        "alt": "اختيار مادة الأنبوب حسب ظروف العملية",
+        "caption": ""
+      }
+    ],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "seoTitle": "اختيار مادة الأنبوب حسب ظروف العملية — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-14",
+    "sources": [
+      {
+        "title": "Outokumpu — Corrosion Tables",
+        "url": "https://www.outokumpu.com/en/products/corrosion-tables"
+      }
+    ],
+    "related": "piping",
+    "reviewed": true
+  },
+  {
+    "id": "material-selection",
+    "kind": "article",
+    "lang": "ru",
+    "path": "/ru/blog/vybor-materiala-trub",
+    "source": "",
+    "title": "Выбор материала труб по условиям процесса",
+    "description": "Не ограничивайтесь маркой: опишите состав среды, температуру, очистку и документацию.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "«Нержавейка» — не полная спецификация"
+      },
+      {
+        "type": "p",
+        "text": "Название семейства материала не определяет среду эксплуатации. Помимо продукта опишите моющие вещества, простои и известные изменения режима. Материал существующей линии сам по себе не доказывает пригодность для новой задачи. Спросите, на каких данных основан выбор и кто их подтверждает. При предложении другой марки запросите обоснование оценки, а не только разницу в цене."
+      },
+      {
+        "type": "h2",
+        "text": "Читайте данные о коррозии в контексте"
+      },
+      {
+        "type": "p",
+        "text": "Таблицы Outokumpu приводят результаты для заданных сред и условий испытаний; выбор требует точного описания условий. Благоприятная ячейка не является одобрением для полного производственного цикла. Зафиксируйте изменения состава и концентрации, температуру и очистку. Интерпретацию сварки и соединений оставьте специалистам. Статья не назначает материал для конкретного химического вещества."
+      },
+      {
+        "type": "h2",
+        "text": "Сравнивайте материал и документы вместе"
+      },
+      {
+        "type": "p",
+        "text": "Два предложения могут содержать одну марку, но различаться формой продукции, толщиной, фитингами и документами. Раздельно сравните трубы, фасонные части, арматуру, прокладки и интерфейсы опор. Запросите документы прослеживаемости и включённую часть плана контроля. Это не автоматическое обещание сертификации, а уточнение комплекта передачи. Не оставляйте неопределённое название документа критерием приёмки."
+      },
+      {
+        "type": "h2",
+        "text": "Как использовать таблицу MAB"
+      },
+      {
+        "type": "p",
+        "text": "Источник перечисляет AISI 304, AISI 316 и углеродистую сталь P235GH. Это не таблица химической совместимости. Передайте задание, описание процесса и утверждённые предпочтения по материалам. При замене объясните причину и условия для повторной оценки. Полезный первый результат — перечень открытых данных и ответственных, а не окончательная рекомендация марки при недостаточной информации."
+      }
+    ],
+    "images": [
+      {
+        "key": "material-selection",
+        "alt": "Выбор материала труб по условиям процесса",
+        "caption": ""
+      }
+    ],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "seoTitle": "Выбор материала труб по условиям процесса — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-14",
+    "sources": [
+      {
+        "title": "Outokumpu — Corrosion Tables",
+        "url": "https://www.outokumpu.com/en/products/corrosion-tables"
+      }
+    ],
+    "related": "piping",
+    "reviewed": true
+  },
+  {
+    "id": "cabin-needs",
+    "kind": "article",
+    "lang": "tr",
+    "path": "/tr/blog/ergitme-kabini-ihtiyac-analizi",
+    "source": "",
+    "title": "Ergitme kabini için ihtiyaç analizi",
+    "description": "Hammadde, ambalaj, işlem hedefi ve tesis altyapısıyla başlayan bir ön değerlendirme dosyası hazırlayın.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "Hammaddeyi ve hedefi ayrı ayrı tarif edin"
+      },
+      {
+        "type": "p",
+        "text": "“Ergitme kabini istiyoruz” ifadesinin ardından önce hangi malzemenin işleneceğini açıklayın. Ürün adı, ambalaj biçimi, tedarikçi veri sayfası ve mevcut depolama koşulları başlangıç dosyasında bulunmalıdır. Hedefinizin tam ergitme, işlenebilir hale getirme veya belirli bir sonraki prosese hazırlama olup olmadığını yazın. İşletmenin kullandığı terimler aynı anlama gelmeyebilir; beklenen son durumu kendi üretim bağlamınızla tarif edin. Bu bilgiler olmadan kapasite veya işlem süresi sonucu istemek doğru karşılaştırmayı zorlaştırır."
+      },
+      {
+        "type": "h2",
+        "text": "Kapasiteyi yalnızca kabin hacmi olarak düşünmeyin"
+      },
+      {
+        "type": "p",
+        "text": "Bir seferde kaç ambalajın işleneceği, işletmenin hedeflediği günlük akış ve yükleme/boşaltma düzeni farklı ihtiyaçları anlatır. Varil, IBC veya başka bir ambalaj kullanılıyorsa boyut ve taşıma yöntemi bilgilerini paylaşın. Sahada ayrılabilen alan ile işlem hedefini aynı çizimde gösterin. Üreticiye “bu alana ne sığar?” sorusunun yanında “bu akış için hangi veriyi doğrulamamız gerekiyor?” sorusunu da yöneltin. Burada sayısal kapasite hesabı veya belirli bir işlem süresi taahhüdü verilmez."
+      },
+      {
+        "type": "h2",
+        "text": "Enerji ve yapı seçeneklerini mevcut tesisle eşleştirin"
+      },
+      {
+        "type": "p",
+        "text": "MAB’ın kaynak çözümünde beton, çelik veya hibrit yapı; buhar, kızgın yağ, elektrik veya doğal gaz ile ısıtma seçenekleri belirtilir. Bunlar her tesise aynı biçimde uygulanacak hazır bir paket değildir. Mevcut enerji altyapısını, bağlantı noktalarını ve işletmenin tercihlerini ön bilgi olarak paylaşın. Kontrolün lokal veya uzaktan olması ve bağımsız sıcaklık bölümlerinin gerekip gerekmediği ayrıca görüşülmelidir. Seçim, tesis ve hammadde koşullarını değerlendiren yetkili teknik ekibin çalışmasına bağlıdır."
+      },
+      {
+        "type": "h2",
+        "text": "İhtiyaç formunun çıktısını doğru kullanın"
+      },
+      {
+        "type": "p",
+        "text": "Sitedeki ihtiyaç aracı, girdilerinizi okunabilir bir özet halinde teklif talebine ekler. Fiyat, enerji tasarrufu, uygunluk onayı veya mühendislik hesabı üretmez. İlk görüşmede bilinmeyen alanları açıkça belirtin; sonradan değişen hammadde veya ambalaj bilgisinin dosyada güncellenmesini isteyin. Teklifte boyutlandırma sorumluluğu, inceleme kapsamı, kontrol seçenekleri, imalat sınırı ve teslim belgelerinin ayrı tanımlanması kararınızı kolaylaştırır. Doğrulanmış şartname hazır olduğunda, karşılaştırmayı aynı teknik kapsam üzerinden yapabilirsiniz."
+      }
+    ],
+    "images": [
+      {
+        "key": "cabin-needs",
+        "alt": "Ergitme kabini için ihtiyaç analizi",
+        "caption": ""
+      }
+    ],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "seoTitle": "Ergitme kabini için ihtiyaç analizi — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-14",
+    "sources": [
+      {
+        "title": "MAB Teknoloji — Özel Tasarım Ergitme Kabinleri",
+        "url": "https://mabteknoloji.com.tr/tr/ozel-cozumler/ozel-tasarim-ergitme-kabinleri"
+      },
+      {
+        "title": "Eastman Therminol — Fluid Selection",
+        "url": "https://www.eastman.com/en/products/brands/therminol/resources/fluid-selection"
+      }
+    ],
+    "related": "melting",
+    "reviewed": true
+  },
+  {
+    "id": "cabin-needs",
+    "kind": "article",
+    "lang": "en",
+    "path": "/en/blog/melting-cabin-requirements",
+    "source": "",
+    "title": "Defining melting cabin requirements",
+    "description": "Prepare an initial brief around raw material, packaging, process objective and site infrastructure.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "Describe the material and objective separately"
+      },
+      {
+        "type": "p",
+        "text": "After stating that you need a melting cabin, explain which material will be handled. Include the product name, packaging, supplier data sheet and current storage conditions. State whether the objective is melting, making the material workable or preparing it for a subsequent process. Different teams may use the same term differently, so describe the desired final condition in your production context. Asking for capacity or processing time without these inputs makes meaningful comparison difficult."
+      },
+      {
+        "type": "h2",
+        "text": "Capacity is more than enclosure volume"
+      },
+      {
+        "type": "p",
+        "text": "The number of packages per batch, intended daily flow and loading/unloading arrangement describe different needs. For drums, IBCs or other packaging, share dimensions and handling methods. Show the available footprint alongside the process objective. In addition to asking what fits in the space, ask which information needs verification for the intended workflow. This guide does not calculate numerical capacity or promise a specific processing time."
+      },
+      {
+        "type": "h2",
+        "text": "Relate options to the existing facility"
+      },
+      {
+        "type": "p",
+        "text": "MAB’s source solution lists concrete, steel or hybrid structures and steam, thermal oil, electricity or natural gas heating. These are options, not a package that applies identically to every facility. Describe available energy services, connection points and operating preferences. Local or remote control and the need for separate temperature zones should be discussed explicitly. The selection depends on the authorized technical team’s assessment of the site and material conditions."
+      },
+      {
+        "type": "h2",
+        "text": "Use the requirements summary correctly"
+      },
+      {
+        "type": "p",
+        "text": "The website tool adds your entries to a quote request as a readable summary. It does not produce prices, energy savings, suitability approval or engineering calculations. Identify unknowns during the first discussion and request updates when material or packaging information changes. Ask proposals to distinguish sizing responsibility, assessment scope, control options, fabrication boundaries and handover documents. Once a verified specification is ready, compare proposals against the same technical scope."
+      }
+    ],
+    "images": [
+      {
+        "key": "cabin-needs",
+        "alt": "Defining melting cabin requirements",
+        "caption": ""
+      }
+    ],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "seoTitle": "Defining melting cabin requirements — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-14",
+    "sources": [
+      {
+        "title": "MAB Teknoloji — Özel Tasarım Ergitme Kabinleri",
+        "url": "https://mabteknoloji.com.tr/tr/ozel-cozumler/ozel-tasarim-ergitme-kabinleri"
+      },
+      {
+        "title": "Eastman Therminol — Fluid Selection",
+        "url": "https://www.eastman.com/en/products/brands/therminol/resources/fluid-selection"
+      }
+    ],
+    "related": "melting",
+    "reviewed": true
+  },
+  {
+    "id": "cabin-needs",
+    "kind": "article",
+    "lang": "ar",
+    "path": "/ar/blog/melting-cabin-requirements",
+    "source": "",
+    "title": "تحليل احتياجات كابينة الصهر",
+    "description": "جهّز ملفاً أولياً للمادة الخام والعبوة وهدف المعالجة والبنية التحتية.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "صف المادة والهدف بصورة منفصلة"
+      },
+      {
+        "type": "p",
+        "text": "بعد طلب كابينة صهر، اشرح المادة المراد معالجتها. أدرج اسم المنتج والعبوة وبيانات المورد وظروف التخزين. حدد هل الهدف الصهر أم جعل المادة قابلة للمعالجة أم إعدادها لعملية لاحقة. قد تستخدم الفرق المصطلح نفسه بمعانٍ مختلفة، لذا صف الحالة النهائية المطلوبة في سياق إنتاجك. طلب السعة أو الزمن دون هذه المدخلات يصعّب المقارنة المفيدة."
+      },
+      {
+        "type": "h2",
+        "text": "السعة أكثر من حجم الحيز"
+      },
+      {
+        "type": "p",
+        "text": "عدد العبوات في الدفعة والتدفق اليومي المطلوب وترتيب التحميل والتفريغ احتياجات مختلفة. للبراميل أو حاويات IBC أو غيرها، شارك الأبعاد وطريقة المناولة. أظهر المساحة المتاحة بجانب هدف العملية. لا تسأل فقط عما يتسع في المكان، بل عن البيانات التي يجب تأكيدها للتدفق المطلوب. لا يحسب هذا الدليل سعة رقمية ولا يتعهد بزمن معالجة محدد."
+      },
+      {
+        "type": "h2",
+        "text": "اربط الخيارات بالمنشأة"
+      },
+      {
+        "type": "p",
+        "text": "يسرد حل ماب الأصلي هياكل خرسانية أو فولاذية أو هجينة وتسخيناً بالبخار أو الزيت الحراري أو الكهرباء أو الغاز. هذه خيارات وليست حزمة موحدة لكل منشأة. صف الطاقة المتاحة ونقاط الاتصال وتفضيلات التشغيل. ناقش التحكم المحلي أو البعيد والحاجة لمناطق حرارة مستقلة. يعتمد الاختيار على تقييم الفريق الفني المخول للموقع والمادة."
+      },
+      {
+        "type": "h2",
+        "text": "استخدم الملخص بصورة صحيحة"
+      },
+      {
+        "type": "p",
+        "text": "تضيف أداة الموقع مدخلاتك لطلب العرض في ملخص مقروء. لا تنتج سعراً أو توفير طاقة أو موافقة ملاءمة أو حسابات هندسية. حدد المجهول في النقاش الأول وحدّث الملف عند تغير المادة أو العبوة. اطلب فصل مسؤولية تحديد الأبعاد ونطاق التقييم والتحكم والتصنيع ووثائق التسليم. بعد إعداد مواصفات متحققة، يمكن مقارنة العروض على النطاق الفني نفسه."
+      }
+    ],
+    "images": [
+      {
+        "key": "cabin-needs",
+        "alt": "تحليل احتياجات كابينة الصهر",
+        "caption": ""
+      }
+    ],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "seoTitle": "تحليل احتياجات كابينة الصهر — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-14",
+    "sources": [
+      {
+        "title": "MAB Teknoloji — Özel Tasarım Ergitme Kabinleri",
+        "url": "https://mabteknoloji.com.tr/tr/ozel-cozumler/ozel-tasarim-ergitme-kabinleri"
+      },
+      {
+        "title": "Eastman Therminol — Fluid Selection",
+        "url": "https://www.eastman.com/en/products/brands/therminol/resources/fluid-selection"
+      }
+    ],
+    "related": "melting",
+    "reviewed": true
+  },
+  {
+    "id": "cabin-needs",
+    "kind": "article",
+    "lang": "ru",
+    "path": "/ru/blog/trebovaniya-k-plavilnoy-kabine",
+    "source": "",
+    "title": "Определение требований к плавильной кабине",
+    "description": "Подготовьте исходное описание сырья, упаковки, цели процесса и инфраструктуры.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "Разделите описание сырья и цели"
+      },
+      {
+        "type": "p",
+        "text": "После запроса кабины поясните, какой материал будет обрабатываться. Укажите продукт, упаковку, паспорт поставщика и условия хранения. Определите цель: плавление, получение обрабатываемого состояния или подготовка к следующему процессу. Одинаковые термины могут пониматься по-разному; опишите конечное состояние в контексте производства. Запрос вместимости или времени без исходных данных мешает корректному сравнению."
+      },
+      {
+        "type": "h2",
+        "text": "Вместимость — не только объём"
+      },
+      {
+        "type": "p",
+        "text": "Число упаковок в партии, суточный поток и порядок загрузки описывают разные потребности. Для бочек, IBC и другой тары предоставьте размеры и способ перемещения. Покажите доступную площадь вместе с целью процесса. Помимо вопроса «что поместится», спросите, какие данные проверить для нужного потока. Руководство не рассчитывает производительность и не обещает конкретное время обработки."
+      },
+      {
+        "type": "h2",
+        "text": "Соотнесите варианты с объектом"
+      },
+      {
+        "type": "p",
+        "text": "Источник MAB перечисляет бетонные, стальные и гибридные конструкции, нагрев паром, термомаслом, электричеством или газом. Это варианты, а не одинаковый пакет для всех площадок. Опишите энергоносители, подключения и предпочтения эксплуатации. Отдельно обсудите местное или дистанционное управление и независимые температурные зоны. Выбор зависит от оценки объекта и материала уполномоченными специалистами."
+      },
+      {
+        "type": "h2",
+        "text": "Правильно используйте сводку"
+      },
+      {
+        "type": "p",
+        "text": "Инструмент сайта добавляет введённые данные в запрос предложения. Он не определяет цену, экономию энергии, пригодность или инженерные расчёты. Отметьте неизвестные и обновляйте сведения при изменении сырья или упаковки. Разделите в предложении ответственность за размеры, оценку, управление, изготовление и документацию. После подготовки проверенного задания сравнивайте предложения по одному техническому объёму."
+      }
+    ],
+    "images": [
+      {
+        "key": "cabin-needs",
+        "alt": "Определение требований к плавильной кабине",
+        "caption": ""
+      }
+    ],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "seoTitle": "Определение требований к плавильной кабине — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-14",
+    "sources": [
+      {
+        "title": "MAB Teknoloji — Özel Tasarım Ergitme Kabinleri",
+        "url": "https://mabteknoloji.com.tr/tr/ozel-cozumler/ozel-tasarim-ergitme-kabinleri"
+      },
+      {
+        "title": "Eastman Therminol — Fluid Selection",
+        "url": "https://www.eastman.com/en/products/brands/therminol/resources/fluid-selection"
+      }
+    ],
+    "related": "melting",
+    "reviewed": true
+  },
+  {
+    "id": "site-survey",
+    "kind": "article",
+    "lang": "tr",
+    "path": "/tr/blog/mekanik-tesisat-oncesi-saha-kesfi",
+    "source": "",
+    "title": "Mekanik tesisat öncesi saha keşfine hazırlık",
+    "description": "Keşfin amacını, katılımcılarını, mevcut belgeleri ve beklenen çıktıları ziyaret öncesinde netleştirin.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "Keşif, yalnızca fotoğraf toplamak değildir"
+      },
+      {
+        "type": "p",
+        "text": "Saha ziyaretinden beklenen kararları önceden yazın: mevcut güzergâhın değerlendirilmesi, bağlantı noktalarının belirlenmesi, yerleşim seçeneklerinin görüşülmesi veya teklif kapsamının netleştirilmesi gibi. Her ziyaretin bütün mühendislik sorularını aynı anda çözeceğini varsaymayın. İşletmenin yetkili irtibat kişisini, ilgili bakım ve üretim temsilcilerini ve belge erişimini organize edin. Fotoğraf izni ve erişilebilir alanlar şirketin kendi prosedürlerine göre belirlenmelidir. Bu hazırlık, sahada toplanan bilgiyi somut bir proje çıktısına bağlamayı kolaylaştırır."
+      },
+      {
+        "type": "h2",
+        "text": "Belge ve saha bilgisini ayırın"
+      },
+      {
+        "type": "p",
+        "text": "Mevcut yerleşim planı, P&ID, izometrikler, ekipman listesi ve işletmenin paylaşabileceği kontrol kayıtlarını sürüm tarihleriyle hazırlayın. Çizim üzerinde görünen fakat sahada doğrulanmamış bilgileri ayrı işaretleyin. Ölçümlerin kim tarafından ve hangi kapsamda alınacağını önceden konuşun. Kullanıcı tarafından gönderilen fotoğraflar ilk görüşmeye yardımcı olabilir; yine de görünmeyen alanları veya ekipmanın iç durumunu doğrulamaz. Bu nedenle fotoğraf üzerinden kesin metraj, müdahale planı veya uygunluk kararı beklemeyin."
+      },
+      {
+        "type": "h2",
+        "text": "Değişikliklerin kim tarafından onaylanacağını belirleyin"
+      },
+      {
+        "type": "p",
+        "text": "HSE, tesis ve proses değişikliklerinin resmi yönetim süreçleriyle ele alınmasını vurgular. Bir saha notu veya teklif, işletmenin değişiklik onayının yerine geçmez. Yeni hat ile mevcut üretim arasındaki arayüzlerde işletme, bakım ve teknik ekibin sorumluluklarını belirleyin. Keşif sonrası ortaya çıkan alternatiflerin hangilerinin yeniden inceleme gerektirdiği yazılı olmalıdır. Bu yaklaşım karar takibini destekler; çalışır tesis içinde söküm, kesme, test veya izolasyon yapma talimatı sağlamaz."
+      },
+      {
+        "type": "h2",
+        "text": "Keşif sonrasında kullanılabilir bir çıktı isteyin"
+      },
+      {
+        "type": "p",
+        "text": "Ziyaretin sonunda doğrulanan bilgiler, açık kalan sorular, ilave belge ihtiyaçları ve sonraki karar sahipleri ayrı listelenmelidir. Metraj, malzeme listesi veya iş planı hazırlanacaksa bunların hangi varsayımlara dayandığını sorun. Teklif ile keşif raporunun aynı revizyonu esas almasını sağlayın. MAB’ın keşif formunda tesis konumu, tercih edilen tarih ve ihtiyacınızı paylaşabilirsiniz; ziyaret tarihi tesis uygunluğuna göre birlikte belirlenir. Böylece bir randevu talebi ile teknik olarak onaylanmış uygulama planını birbirine karıştırmamış olursunuz."
+      }
+    ],
+    "images": [
+      {
+        "key": "site-survey",
+        "alt": "Mekanik tesisat öncesi saha keşfine hazırlık",
+        "caption": ""
+      }
+    ],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "seoTitle": "Mekanik tesisat öncesi saha keşfine hazırlık — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-14",
+    "sources": [
+      {
+        "title": "HSE — Plant Modification / Change Procedures",
+        "url": "https://www.hse.gov.uk/comah/sragtech/techmeasplantmod.htm"
+      }
+    ],
+    "related": "piping",
+    "reviewed": true
+  },
+  {
+    "id": "site-survey",
+    "kind": "article",
+    "lang": "en",
+    "path": "/en/blog/site-survey-before-mechanical-installation",
+    "source": "",
+    "title": "Preparing a site survey before mechanical installation",
+    "description": "Clarify survey objectives, participants, existing documents and expected outputs before the visit.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "A survey is more than collecting photos"
+      },
+      {
+        "type": "p",
+        "text": "Write down the decisions expected from the visit: assessing a route, identifying interfaces, discussing layout options or clarifying quotation scope. Do not assume one visit will resolve every engineering question. Organize an authorized site contact, relevant maintenance and production representatives and access to documents. Photography permission and accessible areas must follow the operator’s procedures. This preparation helps connect observations to specific project outputs."
+      },
+      {
+        "type": "h2",
+        "text": "Separate records from field verification"
+      },
+      {
+        "type": "p",
+        "text": "Prepare layout drawings, P&IDs, isometrics, equipment lists and available inspection records with revision dates. Mark information shown on drawings but not verified on site. Agree who will take measurements and within what scope. User-supplied photos can help the first discussion, but they cannot verify hidden areas or the internal condition of equipment. Do not expect definitive quantities, intervention plans or suitability decisions from photographs alone."
+      },
+      {
+        "type": "h2",
+        "text": "Identify who approves changes"
+      },
+      {
+        "type": "p",
+        "text": "HSE emphasizes formal management processes for plant and process changes. A site note or quotation does not replace the operator’s change approval. Assign responsibilities across operations, maintenance and the technical team where new lines meet existing production. Record which alternatives found during the survey require further review. This supports decision tracking; it is not an instruction to dismantle, cut, test or isolate equipment in a working facility."
+      },
+      {
+        "type": "h2",
+        "text": "Request an actionable survey output"
+      },
+      {
+        "type": "p",
+        "text": "Separate verified information, open questions, additional documents and owners of the next decisions. If quantities, a material list or a work plan are prepared, ask which assumptions they use. Ensure the quotation and survey report refer to the same revision. MAB’s survey form accepts the facility location, preferred date and requirements; the visit date is agreed according to site availability. A booking request must remain distinct from a technically approved execution plan."
+      }
+    ],
+    "images": [
+      {
+        "key": "site-survey",
+        "alt": "Preparing a site survey before mechanical installation",
+        "caption": ""
+      }
+    ],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "seoTitle": "Preparing a site survey before mechanical installation — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-14",
+    "sources": [
+      {
+        "title": "HSE — Plant Modification / Change Procedures",
+        "url": "https://www.hse.gov.uk/comah/sragtech/techmeasplantmod.htm"
+      }
+    ],
+    "related": "piping",
+    "reviewed": true
+  },
+  {
+    "id": "site-survey",
+    "kind": "article",
+    "lang": "ar",
+    "path": "/ar/blog/site-survey-before-mechanical-installation",
+    "source": "",
+    "title": "التحضير للمعاينة قبل التركيبات الميكانيكية",
+    "description": "حدد هدف المعاينة والمشاركين والوثائق والمخرجات قبل الزيارة.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "المعاينة ليست جمع صور فقط"
+      },
+      {
+        "type": "p",
+        "text": "دوّن القرارات المنتظرة من الزيارة: تقييم المسار أو تحديد الواجهات أو مناقشة التخطيط أو توضيح نطاق العرض. لا تفترض أن زيارة واحدة تحل كل الأسئلة الهندسية. نظم جهة اتصال مخولة ومشاركة الصيانة والإنتاج والوصول للوثائق. تخضع أذونات التصوير والمناطق المتاحة لإجراءات المشغّل. يربط هذا التحضير الملاحظات بمخرجات مشروع محددة."
+      },
+      {
+        "type": "h2",
+        "text": "افصل الوثائق عن التحقق الميداني"
+      },
+      {
+        "type": "p",
+        "text": "جهز التخطيط وP&ID والرسومات المتساوية القياس وقائمة المعدات وسجلات الفحص المتاحة مع تواريخ النسخ. ميّز ما يظهر على الرسم ولم يُتحقق منه ميدانياً. اتفق على من سيقيس ونطاق القياس. تساعد الصور في النقاش الأول لكنها لا تؤكد المناطق المخفية أو الحالة الداخلية للمعدات. لا تتوقع كميات نهائية أو خطة تدخل أو قرار ملاءمة من الصور وحدها."
+      },
+      {
+        "type": "h2",
+        "text": "حدد من يعتمد التغييرات"
+      },
+      {
+        "type": "p",
+        "text": "تؤكد HSE إدارة تغييرات المنشآت والعمليات بإجراءات رسمية. لا تحل ملاحظة ميدانية أو عرض محل اعتماد المشغّل. وزع المسؤوليات بين التشغيل والصيانة والفريق الفني عند اتصال الخط الجديد بالإنتاج الحالي. سجّل البدائل التي تتطلب مراجعة إضافية. يدعم ذلك تتبع القرار ولا يقدم تعليمات لفك أو قطع أو اختبار أو عزل معدات في منشأة عاملة."
+      },
+      {
+        "type": "h2",
+        "text": "اطلب مخرجات قابلة للاستخدام"
+      },
+      {
+        "type": "p",
+        "text": "افصل المعلومات المتحققة والأسئلة المفتوحة والوثائق الإضافية وأصحاب القرار التالي. عند إعداد كميات أو قائمة مواد أو خطة، اسأل عن افتراضاتها. تأكد من تطابق نسخة العرض مع تقرير المعاينة. يستقبل نموذج ماب الموقع والتاريخ المفضل والاحتياجات، ويُتفق على الموعد وفق جاهزية المنشأة. يجب التمييز بين طلب موعد وخطة تنفيذ معتمدة فنياً."
+      }
+    ],
+    "images": [
+      {
+        "key": "site-survey",
+        "alt": "التحضير للمعاينة قبل التركيبات الميكانيكية",
+        "caption": ""
+      }
+    ],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "seoTitle": "التحضير للمعاينة قبل التركيبات الميكانيكية — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-14",
+    "sources": [
+      {
+        "title": "HSE — Plant Modification / Change Procedures",
+        "url": "https://www.hse.gov.uk/comah/sragtech/techmeasplantmod.htm"
+      }
+    ],
+    "related": "piping",
+    "reviewed": true
+  },
+  {
+    "id": "site-survey",
+    "kind": "article",
+    "lang": "ru",
+    "path": "/ru/blog/obsledovanie-pered-montazhom",
+    "source": "",
+    "title": "Подготовка обследования перед механическим монтажом",
+    "description": "Уточните цели, участников, документы и результаты обследования до визита.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "Обследование — больше, чем фотографии"
+      },
+      {
+        "type": "p",
+        "text": "Запишите ожидаемые решения: оценка маршрута, выявление подключений, обсуждение планировки или уточнение предложения. Не считайте, что один визит решит все инженерные вопросы. Организуйте уполномоченного контактного сотрудника, представителей обслуживания и производства, доступ к документам. Фотосъёмка и доступные зоны определяются процедурами предприятия. Подготовка связывает наблюдения с конкретным результатом проекта."
+      },
+      {
+        "type": "h2",
+        "text": "Разделяйте документы и проверку на месте"
+      },
+      {
+        "type": "p",
+        "text": "Подготовьте планы, P&ID, изометрии, перечни оборудования и доступные протоколы с датами редакций. Отметьте показанное на чертеже, но не проверенное на объекте. Согласуйте ответственного за обмер и его объём. Фотографии помогают первому обсуждению, но не подтверждают скрытые зоны и внутреннее состояние оборудования. Не ожидайте окончательных объёмов, плана вмешательства или пригодности по одним снимкам."
+      },
+      {
+        "type": "h2",
+        "text": "Определите согласование изменений"
+      },
+      {
+        "type": "p",
+        "text": "HSE подчёркивает формальные процессы управления изменениями объекта и технологии. Запись обследования или предложение не заменяет согласование оператором. Распределите ответственность эксплуатации, обслуживания и технической команды на стыке новой линии и производства. Зафиксируйте варианты, требующие дальнейшей проверки. Это помогает отслеживать решения, но не инструктирует разбирать, резать, испытывать или изолировать действующее оборудование."
+      },
+      {
+        "type": "h2",
+        "text": "Запросите пригодный для работы результат"
+      },
+      {
+        "type": "p",
+        "text": "Раздельно перечислите проверенные сведения, открытые вопросы, дополнительные документы и ответственных за следующие решения. При подготовке метража, материалов или плана спросите об исходных допущениях. Предложение и отчёт должны ссылаться на одну редакцию. Форма MAB принимает местоположение, желаемую дату и потребности; дата согласовывается по доступности объекта. Запрос визита отличается от технически утверждённого плана выполнения."
+      }
+    ],
+    "images": [
+      {
+        "key": "site-survey",
+        "alt": "Подготовка обследования перед механическим монтажом",
+        "caption": ""
+      }
+    ],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "seoTitle": "Подготовка обследования перед механическим монтажом — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-14",
+    "sources": [
+      {
+        "title": "HSE — Plant Modification / Change Procedures",
+        "url": "https://www.hse.gov.uk/comah/sragtech/techmeasplantmod.htm"
+      }
+    ],
+    "related": "piping",
+    "reviewed": true
+  }
+]

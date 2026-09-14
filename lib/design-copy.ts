@@ -1,0 +1,31 @@
+import type {Lang} from './i18n';
+const rows={
+contactTitle:['Bir ihtiyacınız var.\nBirlikte netleştirelim.','Your next project.\nLet’s make it clear.','مشروعك القادم.\nلنحدد احتياجاته معًا.','Ваш следующий проект.\nОбсудим детали.'],
+contactLead:['Tesisinizi, sürecinizi ve hedefinizi anlatın. Doğru başlangıç, iyi bir görüşmeyle olur.','Tell us about your facility, process and goals. A good conversation is the first step.','حدثنا عن منشأتك وعملياتك وأهدافك. الحوار الجيد هو الخطوة الأولى.','Расскажите об объекте, процессе и целях. Хороший разговор — первый шаг.'],
+mailDraft:['E-posta taslağı hazırla','Prepare email draft','إعداد مسودة بريد','Подготовить письмо'],
+mailHint:['Bilgileriniz e-posta uygulamanızda taslak olarak açılır. Gönderimi oradan tamamlarsınız.','Your details open as a draft in your email app. Send the message from there.','تُفتح بياناتك كمسودة في تطبيق البريد؛ أرسل الرسالة من هناك.','Данные откроются в черновике почтового приложения. Отправьте письмо оттуда.'],
+mailReady:['E-posta taslağı hazırlandı. Gönderimi e-posta uygulamanızdan tamamlayın.','Email draft prepared. Complete sending in your email app.','تم إعداد المسودة. أكمل الإرسال من تطبيق البريد.','Черновик подготовлен. Завершите отправку в почтовом приложении.'],
+chooseLanguage:['Görüntüleme dili','Display language','لغة العرض','Язык сайта'],
+ideasTitle:['Tesisinizin sıradaki adımı.','The next step for your facility.','الخطوة التالية لمنشأتك.','Следующий шаг для вашего объекта.'],
+ideasLead:['Sahadaki gerçek ihtiyaçlardan başlayan üç görüşme konusu.','Three conversations that start with real site needs.','ثلاثة محاور تبدأ من احتياجات الموقع الفعلية.','Три темы, основанные на реальных потребностях объекта.'],
+idea1:['Planlı duruşa hazırlık','Preparing for a shutdown','الاستعداد للتوقف المخطط','Подготовка к плановому останову'],
+idea1Text:['İş kapsamı, saha erişimi ve montaj sırasını duruş öncesinde birlikte netleştirelim.','Clarify scope, site access and installation sequence before the shutdown.','حدد نطاق العمل والوصول للموقع وتسلسل التركيب قبل التوقف.','Уточним объём, доступ к площадке и порядок монтажа до останова.'],
+idea2:['Buhar ve kondens değerlendirmesi','Steam and condensate review','تقييم البخار والمكثفات','Оценка пара и конденсата'],
+idea2Text:['Mevcut hat bilgileri ve proses ihtiyaçlarıyla teknik değerlendirme dosyanızı hazırlayın.','Prepare a review brief with existing line data and process needs.','جهّز ملف التقييم ببيانات الخطوط الحالية واحتياجات العملية.','Подготовьте данные существующих линий и потребности процесса для оценки.'],
+idea3:['Hammaddeye özel kabin','A cabin for your raw material','كابينة تناسب المادة الخام','Кабина под ваше сырьё'],
+idea3Text:['Hammadde, ambalaj, kapasite ve enerji altyapısını tek ihtiyaç dosyasında toplayın.','Bring material, packaging, capacity and energy infrastructure into one brief.','اجمع بيانات المادة والتعبئة والسعة ومصدر الطاقة في ملف واحد.','Соберите сведения о сырье, упаковке, объёме и энергоснабжении в одном задании.'],
+
+expertise:['Uzmanlık alanlarımız','Our expertise','مجالات خبرتنا','Наша экспертиза'],knowledge:['Bilgi merkezi','Knowledge hub','مركز المعرفة','База знаний'],
+search:['Sitede ara','Search the site','البحث في الموقع','Поиск по сайту'],searchHint:['Hizmet, proje veya konu arayın…','Find a service, project or topic…','ابحث عن خدمة أو مشروع أو موضوع…','Найдите услугу, проект или тему…'],searchEmpty:['Bu aramayla eşleşen içerik yok.','No matching content found.','لا توجد نتائج مطابقة.','Совпадений не найдено.'],
+light:['Açık temaya geç','Switch to light theme','التبديل إلى المظهر الفاتح','Включить светлую тему'],dark:['Koyu temaya geç','Switch to dark theme','التبديل إلى المظهر الداكن','Включить тёмную тему'],loading:['Sayfa yükleniyor','Loading page','جارٍ تحميل الصفحة','Загрузка страницы'],
+journalTitle:['Mühendisliğin\nbilgi birikimi.','Engineering\nworth understanding.','معرفة هندسية\nتستحق الاطلاع.','Знания, которые\nпомогают создавать.'],featured:['Öne çıkan yazı','Featured story','المقال المميز','Главный материал'],latest:['Teknik notlar & içgörüler','Technical notes & insights','ملاحظات ورؤى تقنية','Технические заметки и идеи'],all:['Tüm yazılar','All articles','جميع المقالات','Все статьи'],
+minutes:['dk okuma','min read','دقائق للقراءة','мин чтения'],
+copyLink:['Bağlantıyı kopyala','Copy link','نسخ الرابط','Копировать ссылку'],copied:['Bağlantı kopyalandı','Link copied','تم نسخ الرابط','Ссылка скопирована'],copyError:['Bağlantı kopyalanamadı','Could not copy the link','تعذر نسخ الرابط','Не удалось скопировать ссылку'],print:['Yazdır / PDF','Print / PDF','طباعة / PDF','Печать / PDF'],relatedReading:['Okumaya devam edin','Continue exploring','تابع القراءة','Читайте дальше'],
+method:['Her adımda aynı özen.','Care at every step.','عناية في كل خطوة.','Внимание на каждом этапе.'],methodLead:['İhtiyacı anlamaktan saha uygulamasına; açık bir kapsam, doğru planlama ve birlikte yürütülen bir süreç.','From understanding the need to site execution: clear scope, thoughtful planning and a collaborative process.','من فهم الاحتياج إلى التنفيذ الميداني: نطاق واضح وتخطيط مدروس وعمل مشترك.','От понимания задачи до работ на объекте: чёткий объём, продуманное планирование и совместная работа.'],
+startProject:['Projenizi konuşalım','Let’s discuss your project','لنتحدث عن مشروعك','Обсудим ваш проект'],quickContact:['Hızlı iletişim','Quick contact','تواصل سريع','Быстрая связь'],discover:['Daha yakından bakın','Take a closer look','ألقِ نظرة أقرب','Узнайте больше'],
+fieldNotes:['Sahadan bir kesit','From the field','من أرض الواقع','С нашего объекта'],approach:['Yaklaşımımız','Our approach','نهجنا','Наш подход'],
+introLine:['Fikirden tesise.','From idea to facility.','من الفكرة إلى المنشأة.','От идеи до объекта.'],
+heroTitle:['Mühendislikte hassasiyet.\nSahada güçlü sonuçlar.','Precision in engineering.\nStrength in execution.','دقة في الهندسة.\nقوة في التنفيذ.','Точность в инжиниринге.\nНадёжность в исполнении.'],
+reading:['Okuma ilerlemesi','Reading progress','تقدم القراءة','Прогресс чтения'],
+} as const;
+export function designCopy(lang:Lang){const i=['tr','en','ar','ru'].indexOf(lang);return Object.fromEntries(Object.entries(rows).map(([k,v])=>[k,v[i]])) as Record<keyof typeof rows,string>}

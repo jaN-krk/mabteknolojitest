@@ -1,0 +1,2 @@
+import {chromium} from '@playwright/test';
+const b=await chromium.launch();const c=await b.newContext({viewport:{width:1440,height:1000}});const p=await c.newPage();await p.goto('http://localhost:5173/tr',{waitUntil:'networkidle'});await p.locator('.mega-trigger').first().click();await p.waitForTimeout(500);console.log('Panel after .5 sec',await p.locator('.mega-panel').count(),await p.locator('.mega-trigger').first().getAttribute('aria-expanded'));await p.screenshot({path:'reports/redesign/screenshots/mega-open.png'});await b.close();

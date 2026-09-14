@@ -1,0 +1,7 @@
+import {sqliteTable,text,integer,index} from 'drizzle-orm/sqlite-core';
+export const documents=sqliteTable('documents',{key:text('key').primaryKey(),draft:text('draft').notNull(),published:text('published'),updated:text('updated').notNull(),editor:text('editor').notNull()});
+export const submissions=sqliteTable('submissions',{id:text('id').primaryKey(),payload:text('payload').notNull(),status:text('status').notNull(),attachment:text('attachment'),filename:text('filename'),created:integer('created').notNull(),payloadHash:text('payload_hash'),claimId:text('claim_id'),leaseUntil:integer('lease_until').notNull().default(0)},t=>[index('idx_submissions_created').on(t.created)]);
+export const limits=sqliteTable('rate_limits',{key:text('key').primaryKey(),count:integer('count').notNull(),expires:integer('expires').notNull()});
+
+export const leadFollowups=sqliteTable('lead_followups',{submissionId:text('submission_id').primaryKey().references(()=>submissions.id),stage:text('stage').notNull().default('new'),owner:text('owner').notNull().default(''),note:text('note').notNull().default(''),nextContact:text('next_contact').notNull().default(''),updated:integer('updated').notNull(),version:integer('version').notNull().default(1)});
+export const adminEvents=sqliteTable('admin_events',{id:text('id').primaryKey(),entityId:text('entity_id').notNull(),action:text('action').notNull(),actor:text('actor').notNull(),created:integer('created').notNull()},t=>[index('idx_admin_events_entity').on(t.entityId,t.created)]);

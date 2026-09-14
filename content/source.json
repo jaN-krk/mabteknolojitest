@@ -1,0 +1,3834 @@
+[
+  {
+    "id": "home",
+    "kind": "home",
+    "lang": "tr",
+    "path": "/tr",
+    "source": "https://mabteknoloji.com.tr/tr",
+    "title": "Endüstriyel tesisler için doğru mühendislik, güvenilir uygulama ve sahaya özel çözümler.",
+    "description": "Mekanik tesisat, borulama, izolasyon, HVAC ve özel endüstriyel ekipman projelerinde saha tecrübesi ve mühendislik disipliniyle anahtar teslim çözümler sunuyoruz.",
+    "blocks": [],
+    "images": [
+      {
+        "key": "1-44-kspMeuvS",
+        "alt": "Paslanmaz boru hatları ve flanşlı bağlantılar",
+        "caption": ""
+      },
+      {
+        "key": "1-38-pvQ8DSzu",
+        "alt": "Yeraltı boru hattı ve debimetre montajı",
+        "caption": ""
+      },
+      {
+        "key": "1-27-ceoK89re",
+        "alt": "Çelik konstrüksiyon kanopi",
+        "caption": ""
+      }
+    ],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "forms": [],
+    "seoTitle": "MAB Teknoloji — Endüstriyel Tesis ve Borulama Mühendisliği",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "about",
+    "kind": "about",
+    "lang": "tr",
+    "path": "/tr/hakkimizda",
+    "source": "https://mabteknoloji.com.tr/tr/hakkimizda",
+    "title": "Kurumsal Profil",
+    "description": "MAB Teknoloji, kurucusu Mehmet Adil Baran'ın 20 yılı aşkın endüstriyel saha ve proje tecrübesi üzerine Nisan 2023'te kurulmuştur.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "Endüstriyel Sahada 20+ Yıllık Tecrübe ve Mühendislik Disiplini"
+      },
+      {
+        "type": "p",
+        "text": "MAB Teknoloji, Nisan 2023 tarihinde kurulmuş olup endüstriyel tesis kurulumu, mekanik borulama ve proses ekipmanları alanında faaliyet göstermektedir. Şirketimiz dinamik bir kurumsal yapıya sahip olmakla birlikte, kurucusu Mehmet Adil Baran 'ın (Kocaeli Üniversitesi Kontrol Sistemleri Teknolojisi ve Sakarya Üniversitesi Makine Mühendisliği) yaklaşık 2000 yılında başlayan saha mühendisliği, şantiye yönetimi ve proje yöneticiliği (Project Manager) geçmişine dayanan 20 yılı aşkın endüstriyel tecrübesi üzerine inşa edilmiştir."
+      },
+      {
+        "type": "p",
+        "text": "Endüstriyel borulama, mekanik tesisat, buhar ve kızgın yağ hatları ile sahaya özel mühendislik çözümlerinde hassas, güvenilir ve disiplinli çözümler üretiyoruz."
+      },
+      {
+        "type": "p",
+        "text": "Kimya, petrokimya, gıda, enerji ve ağır sanayi sektörlerinde edindiğimiz saha deneyimi; her projeye sahaya ve işletme gereksinimlerine özel bir mühendislik yaklaşımıyla odaklanmamızı sağlamaktadır."
+      },
+      {
+        "type": "h2",
+        "text": "Çalışma İlkelerimiz ve Mühendislik Yaklaşımımız"
+      },
+      {
+        "type": "p",
+        "text": "Uyguladığımız borulama ve montaj operasyonlarında teknik şartnamelere ve mühendislik ilkelerine bağlı kalarak çalışıyoruz:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Proses Borulama ve Hat İmalatı: Tesis yerleşimi ve akışkan parametrelerine uygun borulama, montaj ve vana grubu entegrasyonu.",
+          "Kalite ve Kontrol: Proje şartnamesi doğrultusunda gerekli tahribatsız muayene (NDT) yöntemleri ile kaynak kontrolleri.",
+          "İş Sağlığı ve Güvenliği: Ağır sanayi şantiyelerinde tavizsiz iş güvenliği ve çevre emniyeti prosedürleri.",
+          "Zamanında ve Planlı Teslim: Şantiye planlamasına sadık kalarak operasyonel duruş sürelerini minimumda tutan disiplinli montaj."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Özel Çözüm ve Sahaya Özel Mühendislik"
+      },
+      {
+        "type": "p",
+        "text": "Mekanik borulama ve montaj hizmetlerinin yanı sıra, tesislerin spesifik hammadde eritme ihtiyaçlarına yönelik olarak sahaya özel Özel Tasarım Ergitme Kabinleri projelendirilmekte, imalatı ve montajı gerçekleştirilmektedir."
+      }
+    ],
+    "images": [],
+    "tables": [],
+    "options": [],
+    "values": [
+      {
+        "title": "Teknik Disiplin",
+        "description": "Proje şartnamelerine ve mühendislik hesaplarına tam uyumlu, titiz ve ölçülebilir uygulama yaklaşımı."
+      },
+      {
+        "title": "Saha Gerçekçiliği",
+        "description": "20+ yıllık şantiye tecrübesiyle tasarımları saha şartlarına ve proses akışına uyumlu hayata geçirme."
+      },
+      {
+        "title": "İSG ve Çevre",
+        "description": "Ağır sanayi ortamlarında insan hayatını, çalışan sağlığını ve çevre emniyetini öncelikli tutma."
+      },
+      {
+        "title": "Sahaya Özel Çözüm",
+        "description": "Tesis gereksinimlerine göre esnek boyutlandırma ve amaca yönelik mühendislik desteği."
+      }
+    ],
+    "meta": [
+      {
+        "key": "Kuruluş Yılı",
+        "value": "Nisan 2023"
+      },
+      {
+        "key": "Kurucu & Yönetim",
+        "value": "Mehmet Adil Baran"
+      },
+      {
+        "key": "Kurucunun Saha Deneyimi",
+        "value": "20+ Yıl"
+      },
+      {
+        "key": "Uzmanlık Alanı",
+        "value": "Endüstriyel Borulama & Mekanik Tesisat"
+      }
+    ],
+    "forms": [],
+    "seoTitle": "Kurumsal Profil — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "services",
+    "kind": "services",
+    "lang": "tr",
+    "path": "/tr/hizmetler",
+    "source": "https://mabteknoloji.com.tr/tr/hizmetler",
+    "title": "Endüstriyel Hizmetlerimiz",
+    "description": "Endüstriyel mekanik borulama, tesisat montajı ve enerji sistemlerinde saha tecrübesine dayalı mühendislik çözümleri.",
+    "blocks": [],
+    "images": [],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "forms": [],
+    "seoTitle": "Hizmetler — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "projects",
+    "kind": "projects",
+    "lang": "tr",
+    "path": "/tr/projeler",
+    "source": "https://mabteknoloji.com.tr/tr/projeler",
+    "title": "Projelerimiz ve Saha Referanslarımız",
+    "description": "MAB Teknoloji'nin endüstriyel borulama, buhar ve enerji hatları, çelik konstrüksiyon ve saha montajı alanlarında titiz mühendislikle tamamladığı uygulamalar.",
+    "blocks": [],
+    "images": [
+      {
+        "key": "1-44-kspMeuvS",
+        "alt": "Paslanmaz boru hatları ve flanşlı bağlantılar",
+        "caption": ""
+      },
+      {
+        "key": "1-38-pvQ8DSzu",
+        "alt": "Yeraltı boru hattı ve debimetre montajı",
+        "caption": ""
+      },
+      {
+        "key": "1-27-ceoK89re",
+        "alt": "Çelik konstrüksiyon kanopi",
+        "caption": ""
+      }
+    ],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "forms": [],
+    "seoTitle": "Projeler — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "melting",
+    "kind": "solution",
+    "lang": "tr",
+    "path": "/tr/ozel-cozumler/ozel-tasarim-ergitme-kabinleri",
+    "source": "https://mabteknoloji.com.tr/tr/ozel-cozumler/ozel-tasarim-ergitme-kabinleri",
+    "title": "Özel Tasarım Ergitme Kabinleri",
+    "description": "Kimya, gıda, madeni yağ ve hammadde ergitme proseslerinde ihtiyaç duyulan ergitme süreçleri için sahaya özel projelendirilen ve devreye alınan kabin çözümlerimizdir.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "Endüstriyel Hammadde Isıtma ve Ergitme Çözümleri"
+      },
+      {
+        "type": "p",
+        "text": "Kimya, petrokimya, gıda, madeni yağ ve hammadde ergitme proseslerinde kullanılan katılaşmış veya yüksek viskoziteli malzemelerin kontrollü, homojen ve emniyetli biçimde eritilmesi amacıyla sahaya özel kabin çözümleri geliştirilmektedir."
+      },
+      {
+        "type": "p",
+        "text": "MAB Teknoloji, tesislerin yerleşim alanı ve enerji altyapısına göre Özel Tasarım Ergitme Kabinleri projelendirmekte ve imalatını gerçekleştirmektedir."
+      }
+    ],
+    "images": [],
+    "tables": [],
+    "options": [
+      {
+        "title": "Kapasite Seçenekleri",
+        "description": "Tesis gereksinimlerine ve proses akış hacmine göre sahaya özel kapasite boyutlandırması.",
+        "items": [
+          "Müşteriye özel kapasite tasarımı",
+          "Tesis yerleşimine uygun hacim ve ölçü planlaması",
+          "Hammadde yükleme ergonomisine uygun yerleşim"
+        ]
+      },
+      {
+        "title": "Yapısal Seçenekler",
+        "description": "İşletme şartlarına ve bina altyapısına uygun kabin konstrüksiyonu.",
+        "items": [
+          "Beton kabin yapısı",
+          "Çelik konstrüksiyon kabin yapısı",
+          "Beton ve/veya Çelik hibrit yapı alternatifleri"
+        ]
+      },
+      {
+        "title": "Enerji ve Isıtma Çözümleri",
+        "description": "Tesiste mevcut enerji altyapısına entegre edilebilir ısıtma kaynakları.",
+        "items": [
+          "Buhar ile ısıtma",
+          "Kızgın yağ ile ısıtma",
+          "Elektrik ile ısıtma",
+          "Doğal gaz ile ısıtma"
+        ]
+      },
+      {
+        "title": "Kontrol ve Otomasyon",
+        "description": "Hammadde yapısına uygun hassas sıcaklık yönetimi ve kontrol mimarisi.",
+        "items": [
+          "Hassas sıcaklık kontrolü",
+          "Lokal ve/veya uzaktan kontrol",
+          "Farklı sıcaklık kontrollü ayrı bölümler"
+        ]
+      }
+    ],
+    "values": [],
+    "meta": [
+      {
+        "key": "Yapı Tipi",
+        "value": "Beton / Çelik / Hibrit"
+      },
+      {
+        "key": "Isıtma Kaynağı",
+        "value": "Buhar, Yağ, Elektrik, Gaz"
+      },
+      {
+        "key": "Sıcaklık Yönetimi",
+        "value": "Bağımsız Çoklu Bölüm"
+      },
+      {
+        "key": "Kontrol",
+        "value": "Lokal / Uzaktan"
+      }
+    ],
+    "forms": [],
+    "seoTitle": "Özel Tasarım Ergitme Kabinleri — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "contact",
+    "kind": "contact",
+    "lang": "tr",
+    "path": "/tr/iletisim",
+    "source": "https://mabteknoloji.com.tr/tr/iletisim",
+    "title": "Bizimle İletişime Geçin",
+    "description": "Projeleriniz, teknik danışmanlık talepleriniz veya saha keşfi için bizimle iletişime geçebilirsiniz.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "Hızlı İşlem Kanalları"
+      },
+      {
+        "type": "p",
+        "text": "Detaylı proje teklifi veya saha keşif randevusu almak istiyorsanız özel formlarımızı kullanabilirsiniz:"
+      },
+      {
+        "type": "p",
+        "text": "MAB Teknoloji, endüstriyel tesisler için sahada yerinde inceleme yaparak en doğru mühendislik yaklaşımını belirler. Borulama izometrikleri, P&ID diyagramları ve teknik şartnamelerinizi e-posta veya telefon ile tarafımıza iletebilirsiniz. Mühendis kadromuz talebinizi inceleyerek en kısa sürede teknik keşif veya teklif çalışması ile geri dönüş sağlayacaktır."
+      }
+    ],
+    "images": [],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "forms": [
+      {
+        "fields": [
+          {
+            "name": "website",
+            "type": "text",
+            "label": "",
+            "options": []
+          },
+          {
+            "name": "name",
+            "type": "text",
+            "label": "Ad Soyad *",
+            "options": []
+          },
+          {
+            "name": "company",
+            "type": "text",
+            "label": "Firma / Kurum Adı",
+            "options": []
+          },
+          {
+            "name": "email",
+            "type": "email",
+            "label": "E-posta Adresi *",
+            "options": []
+          },
+          {
+            "name": "phone",
+            "type": "tel",
+            "label": "Telefon Numarası",
+            "options": []
+          },
+          {
+            "name": "message",
+            "type": "textarea",
+            "label": "Mesajınız *",
+            "options": []
+          },
+          {
+            "name": "kvkk",
+            "type": "checkbox",
+            "label": "KVKK Aydınlatma Metni'ni okudum. *",
+            "options": []
+          }
+        ]
+      }
+    ],
+    "seoTitle": "İletişim — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "home",
+    "kind": "home",
+    "lang": "en",
+    "path": "/en",
+    "source": "https://mabteknoloji.com.tr/en",
+    "title": "Reliable engineering, dependable execution and site-specific solutions for industrial facilities.",
+    "description": "We deliver turnkey solutions with rigorous engineering discipline and extensive field experience in mechanical installation, industrial piping, thermal insulation, HVAC, and custom equipment.",
+    "blocks": [],
+    "images": [
+      {
+        "key": "1-44-kspMeuvS",
+        "alt": "Stainless steel piping and flanges",
+        "caption": ""
+      },
+      {
+        "key": "1-38-pvQ8DSzu",
+        "alt": "Underground pipeline and flowmeter",
+        "caption": ""
+      },
+      {
+        "key": "1-27-ceoK89re",
+        "alt": "Structural steel canopy",
+        "caption": ""
+      }
+    ],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "forms": [],
+    "seoTitle": "MAB Teknoloji — Industrial Engineering & Contracting",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "home",
+    "kind": "home",
+    "lang": "ar",
+    "path": "/ar",
+    "source": "https://mabteknoloji.com.tr/ar",
+    "title": "هندسة دقيقة، وتنفيذ موثوق، وحلول مخصصة للمنشآت الصناعية.",
+    "description": "نقدم حلولاً متكاملة تسليم مفتاح بانضباط هندسي صارم وخبرة ميدانية واسعة في التركيبات الميكانيكية، والأنابيب الصناعية، والعزل الحراري، وأنظمة التدفئة والتهوية وتكييف الهواء، والمعدات المخصصة.",
+    "blocks": [],
+    "images": [
+      {
+        "key": "1-44-kspMeuvS",
+        "alt": "أنابيب مقاومة للصدأ ووصلات فلنجية",
+        "caption": ""
+      },
+      {
+        "key": "1-38-pvQ8DSzu",
+        "alt": "خط أنابيب تحت الأرض ومقياس تدفق",
+        "caption": ""
+      },
+      {
+        "key": "1-27-ceoK89re",
+        "alt": "مظلة فولاذية إنشائية",
+        "caption": ""
+      }
+    ],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "forms": [],
+    "seoTitle": "MAB Teknoloji — الهندسة الصناعية والمقاولات",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "home",
+    "kind": "home",
+    "lang": "ru",
+    "path": "/ru",
+    "source": "https://mabteknoloji.com.tr/ru",
+    "title": "Точный инжиниринг, надежное исполнение и индивидуальные решения для промышленных объектов.",
+    "description": "Мы предлагаем комплексные решения «под ключ» со строгой инженерной дисциплиной и обширным практическим опытом в области механического монтажа, промышленных трубопроводов, теплоизоляции, систем ОВиК и нестандартного оборудования.",
+    "blocks": [],
+    "images": [
+      {
+        "key": "1-44-kspMeuvS",
+        "alt": "Нержавеющие трубопроводы и фланцы",
+        "caption": ""
+      },
+      {
+        "key": "1-38-pvQ8DSzu",
+        "alt": "Подземный трубопровод и расходомер",
+        "caption": ""
+      },
+      {
+        "key": "1-27-ceoK89re",
+        "alt": "Стальной навес",
+        "caption": ""
+      }
+    ],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "forms": [],
+    "seoTitle": "MAB Teknoloji — Промышленный инжиниринг и трубопроводные системы",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "quote",
+    "kind": "quote",
+    "lang": "tr",
+    "path": "/tr/teklif-al",
+    "source": "https://mabteknoloji.com.tr/tr/teklif-al",
+    "title": "Teklif Talebinde Bulunun",
+    "description": "Endüstriyel borulama, mekanik montaj ve özel proses projeleriniz için teknik şartname veya proje detaylarınızı iletebilirsiniz. Mühendis kadromuz talebinizi en kısa sürede inceleyerek detaylı teklif çalışması ile geri dönüş sağlayacaktır.",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Acil teknik danışmanlık, acil keşif veya doğrudan mühendislik görüşmesi için bizi doğrudan arayabilirsiniz."
+      },
+      {
+        "type": "h2",
+        "text": "Gizlilik ve Güvenlik"
+      },
+      {
+        "type": "p",
+        "text": "İlettiğiniz teknik şartnameler, izometrik çizimler ve şirket bilgileriniz gizli tutulmakta olup yalnızca teklif hazırlığı ve teknik fizibilite amacıyla yetkili mühendis kadromuz tarafından incelenmektedir."
+      }
+    ],
+    "images": [],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "forms": [
+      {
+        "fields": [
+          {
+            "name": "website",
+            "type": "text",
+            "label": "",
+            "options": []
+          },
+          {
+            "name": "name",
+            "type": "text",
+            "label": "Ad Soyad *",
+            "options": []
+          },
+          {
+            "name": "company",
+            "type": "text",
+            "label": "Firma / Kurum Adı",
+            "options": []
+          },
+          {
+            "name": "job_title",
+            "type": "text",
+            "label": "Göreviniz / Pozisyonunuz",
+            "options": []
+          },
+          {
+            "name": "phone",
+            "type": "tel",
+            "label": "Telefon Numarası *",
+            "options": []
+          },
+          {
+            "name": "email",
+            "type": "email",
+            "label": "E-posta Adresi *",
+            "options": []
+          },
+          {
+            "name": "service_id",
+            "type": "select",
+            "label": "İlgili Hizmet / Çözüm Alanı",
+            "options": [
+              "— Hizmet seçiniz (İsteğe bağlı) —",
+              "Endüstriyel Mekanik Borulama",
+              "Kızgın Yağ ve Buhar Hatları"
+            ]
+          },
+          {
+            "name": "city",
+            "type": "text",
+            "label": "Şehir / Tesis Konumu",
+            "options": []
+          },
+          {
+            "name": "preferred_contact_method",
+            "type": "select",
+            "label": "Tercih Edilen İletişim Kanalı",
+            "options": [
+              "— Fark Etmez —",
+              "Telefon İle Arama",
+              "E-posta İle Bilgilendirme",
+              "WhatsApp İle Mesaj"
+            ]
+          },
+          {
+            "name": "message",
+            "type": "textarea",
+            "label": "Proje / Talep Detayları *",
+            "options": []
+          },
+          {
+            "name": "attachment",
+            "type": "file",
+            "label": "Teknik Çizim / Şartname / Görsel Ekleyin (İsteğe bağlı)",
+            "options": []
+          },
+          {
+            "name": "kvkk",
+            "type": "checkbox",
+            "label": "KVKK Aydınlatma Metni'ni okudum. *",
+            "options": []
+          }
+        ]
+      }
+    ],
+    "seoTitle": "Teklif Al — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "piping",
+    "kind": "service",
+    "lang": "tr",
+    "path": "/tr/hizmetler/endustriyel-mekanik-borulama",
+    "source": "https://mabteknoloji.com.tr/tr/hizmetler/endustriyel-mekanik-borulama",
+    "title": "Endüstriyel Mekanik Borulama",
+    "description": "Fabrika proses hatları, hidrokarbon, kimyasal ve yardımcı tesis borulaması montaj ve devreye alma.",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Endüstriyel tesislerin borulama sistemlerinde projelendirme, izometrik inceleme, prefabrikasyon ve saha montajı süreçlerini hassas kaynak işçiliğiyle gerçekleştiriyoruz."
+      },
+      {
+        "type": "p",
+        "text": "Tüm kaynak ve montaj işlemleri saha deneyimli kadromuz tarafından uygulanmakta ve tahribatsız muayene yöntemleriyle kontrol edilmektedir."
+      }
+    ],
+    "images": [],
+    "tables": [
+      [
+        [
+          "Teknik Parametre",
+          "Standart / Uygulama Değeri"
+        ],
+        [
+          "Malzeme Standartları",
+          "AISI 304, AISI 316, Karbon Çelik P235GH"
+        ],
+        [
+          "Kaynak Yöntemleri",
+          "TIG (141), Elektrot (111), MIG/MAG"
+        ],
+        [
+          "Boru Çap Aralığı",
+          "DN15 - DN500"
+        ],
+        [
+          "Basınç Sınıfı",
+          "PN16 / PN40 / PN100 (Class 150-600)"
+        ]
+      ]
+    ],
+    "options": [],
+    "values": [],
+    "meta": [
+      {
+        "key": "Kategori",
+        "value": "Endüstriyel Borulama & Mekanik Tesisat"
+      },
+      {
+        "key": "Saha Deneyimi",
+        "value": "20+ Yıl"
+      },
+      {
+        "key": "Uygulama Esası",
+        "value": "Teknik Şartnameye Uygun"
+      },
+      {
+        "key": "Kapsam",
+        "value": "Projelendirme, İmalat, Montaj"
+      }
+    ],
+    "forms": [],
+    "seoTitle": "Endüstriyel Mekanik Borulama — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "thermal",
+    "kind": "service",
+    "lang": "tr",
+    "path": "/tr/hizmetler/kizgin-yag-ve-buhar-hatlari",
+    "source": "https://mabteknoloji.com.tr/tr/hizmetler/kizgin-yag-ve-buhar-hatlari",
+    "title": "Kızgın Yağ ve Buhar Hatları",
+    "description": "Enerji iletim borulaması, kompansatör ve vana grubu montajları.",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Buhar ve kızgın yağ hatları endüstriyel tesislerin enerji omurgalarıdır. Termal genleşme hesapları, doğru kompansatör yerleşimi ve armatür montajlarıyla güvenli çalışma sağlıyoruz."
+      }
+    ],
+    "images": [],
+    "tables": [
+      [
+        [
+          "Teknik Parametre",
+          "Standart / Uygulama Değeri"
+        ],
+        [
+          "Akışkan Tipleri",
+          "Doymuş Buhar, Kızgın Buhar, Termal Yağ"
+        ],
+        [
+          "Çalışma Sıcaklığı",
+          "350°C'ye kadar proses hatları"
+        ],
+        [
+          "Yalıtım Standardı",
+          "Taşyünü ve Alüminyum / Paslanmaz Sac Kaplama"
+        ]
+      ]
+    ],
+    "options": [],
+    "values": [],
+    "meta": [
+      {
+        "key": "Kategori",
+        "value": "Buhar ve Isı Sistemleri"
+      },
+      {
+        "key": "Saha Deneyimi",
+        "value": "20+ Yıl"
+      },
+      {
+        "key": "Uygulama Esası",
+        "value": "Teknik Şartnameye Uygun"
+      },
+      {
+        "key": "Kapsam",
+        "value": "Projelendirme, İmalat, Montaj"
+      }
+    ],
+    "forms": [],
+    "seoTitle": "Kızgın Yağ ve Buhar Hatları — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "stainless",
+    "kind": "project",
+    "lang": "tr",
+    "path": "/tr/projeler/endustriyel-paslanmaz-borulama-ve-kolon-dagitim-hatti",
+    "source": "https://mabteknoloji.com.tr/tr/projeler/endustriyel-paslanmaz-borulama-ve-kolon-dagitim-hatti",
+    "title": "Endüstriyel Paslanmaz Borulama ve Kolon Dağıtım Hattı",
+    "description": "Proses hatlarında yüksek saflıkta akışkan transferi sağlayan paslanmaz boru kolonları ve flanşlı branşman montajı.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "Proje Kapsamı & Saha Koşulları"
+      },
+      {
+        "type": "p",
+        "text": "Mevcut tesis mimarisinde dar montaj koridorları ve kesintisiz operasyon gereksinimi nedeniyle saha montajı yüksek hassasiyet gerektirmiştir. Farklı kat seviyeleri arasında dikey boru hatlarının titreşim sönümleyici mesnetlerle sabitlenmesi zorunluluk arz etmiştir."
+      },
+      {
+        "type": "h2",
+        "text": "Mühendislik & İmalat Çözümü"
+      },
+      {
+        "type": "p",
+        "text": "Ön imalatı atölyede tamamlanan paslanmaz boru makaraları sahada TIG kaynak yöntemiyle birleştirilmiştir. Optimum akış yönü için flanşlı bağlantılar ve hassas reglaj askı sistemleri uygulanmıştır."
+      },
+      {
+        "type": "h2",
+        "text": "Sonuç & Devam Eden Performans"
+      },
+      {
+        "type": "p",
+        "text": "Tüm kaynaklı birleşimler hidrostatik test ve penetrant muayenelerinden sıfır hatayla geçerek hat güvenle işletmeye alınmıştır."
+      }
+    ],
+    "images": [
+      {
+        "key": "1-44-kspMeuvS",
+        "alt": "Paslanmaz boru hatları ve flanşlı bağlantılar",
+        "caption": ""
+      },
+      {
+        "key": "1-11-6FCPOeYc",
+        "alt": "Paslanmaz borulama ve çelik taşıyıcılar",
+        "caption": "Saha borulama montaj detayı #2"
+      },
+      {
+        "key": "1-12-LSRvMWXf",
+        "alt": "MAB Teknoloji hizmet tanıtım görseli",
+        "caption": "Saha borulama montaj detayı #3"
+      },
+      {
+        "key": "1-14-swPI4ROa",
+        "alt": "Trapez sac kaplı endüstriyel kabin",
+        "caption": "Saha borulama montaj detayı #4"
+      }
+    ],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [
+      {
+        "key": "Kategori",
+        "value": "Endüstriyel Borulama & Mekanik Tesisat"
+      },
+      {
+        "key": "İlgili Hizmet",
+        "value": "Endüstriyel Mekanik Borulama"
+      },
+      {
+        "key": "Yıl",
+        "value": "2024"
+      },
+      {
+        "key": "Saha Disiplini",
+        "value": "20+ Yıllık Saha Deneyimi"
+      },
+      {
+        "key": "Uygulama Esası",
+        "value": "Teknik Şartnameye Uygun"
+      }
+    ],
+    "forms": [],
+    "seoTitle": "Endüstriyel Paslanmaz Borulama ve Kolon Dağıtım Hattı — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "coil",
+    "kind": "project",
+    "lang": "tr",
+    "path": "/tr/projeler/proses-buhar-ve-isitma-serpantin-kollektor-imalati",
+    "source": "https://mabteknoloji.com.tr/tr/projeler/proses-buhar-ve-isitma-serpantin-kollektor-imalati",
+    "title": "Proses Buhar ve Isıtma Serpantin Kollektör İmalatı",
+    "description": "Ağır endüstriyel prosesler için yüksek basınç ve sıcaklık dayanımlı serpantin ısıtma demetleri ve kollektör montajı.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "Proje Kapsamı & Saha Koşulları"
+      },
+      {
+        "type": "p",
+        "text": "Yüksek ısı transferi gerektiren proses ortamında termal genleşmelerin sönümlenmesi ve serpantin boru demetlerinin homojen yerleşimi kritik parametrelerdi."
+      },
+      {
+        "type": "h2",
+        "text": "Mühendislik & İmalat Çözümü"
+      },
+      {
+        "type": "p",
+        "text": "Özel kalıplarda bükülen dikişsiz çelik borular kollektör gövdelerine hassas kaynak pozisyonlarında kaynatılmış ve gerilim giderme uygulamaları yapılmıştır."
+      },
+      {
+        "type": "h2",
+        "text": "Sonuç & Devam Eden Performans"
+      },
+      {
+        "type": "p",
+        "text": "Basınç ve sızdırmazlık testleri başarıyla tamamlanan ısıtma demetleri sahaya sevk edilmiş ve montajı gerçekleştirilmiştir."
+      }
+    ],
+    "images": [
+      {
+        "key": "1-38-pvQ8DSzu",
+        "alt": "Yeraltı boru hattı ve debimetre montajı",
+        "caption": ""
+      },
+      {
+        "key": "1-41-trk2Yeua",
+        "alt": "Endüstriyel ekipman ve platform",
+        "caption": "Isıtma serpantin demeti montaj detayı #2"
+      }
+    ],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [
+      {
+        "key": "Kategori",
+        "value": "Endüstriyel Borulama & Mekanik Tesisat"
+      },
+      {
+        "key": "İlgili Hizmet",
+        "value": "Endüstriyel Mekanik Borulama"
+      },
+      {
+        "key": "Yıl",
+        "value": "2023"
+      },
+      {
+        "key": "Saha Disiplini",
+        "value": "20+ Yıllık Saha Deneyimi"
+      },
+      {
+        "key": "Uygulama Esası",
+        "value": "Teknik Şartnameye Uygun"
+      }
+    ],
+    "forms": [],
+    "seoTitle": "Proses Buhar ve Isıtma Serpantin Kollektör İmalatı — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "steel",
+    "kind": "project",
+    "lang": "tr",
+    "path": "/tr/projeler/agir-celik-konstruksiyon-kanopi-ve-tasiyici-karkas",
+    "source": "https://mabteknoloji.com.tr/tr/projeler/agir-celik-konstruksiyon-kanopi-ve-tasiyici-karkas",
+    "title": "Ağır Çelik Konstrüksiyon Kanopi ve Taşıyıcı Karkas",
+    "description": "Tesis açık alan stok ve operasyon sahaları için yüksek mukavemetli çelik kafes kirişler ve kolon karkas montajı.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "Proje Kapsamı & Saha Koşulları"
+      },
+      {
+        "type": "p",
+        "text": "Geniş açıklıklı çelik kanopi montajında vinç operasyonlarının tesis içi aktif araç trafiğini aksatmadan güvenle yönetilmesi gerekmiştir."
+      },
+      {
+        "type": "h2",
+        "text": "Mühendislik & İmalat Çözümü"
+      },
+      {
+        "type": "p",
+        "text": "Modüler olarak üretilen çelik makas sistemleri sahada cıvatalı ve kaynaklı birleşimlerle bir araya getirilmiş, korozyon önleyici koruyucu boya sistemi tatbik edilmiştir."
+      },
+      {
+        "type": "h2",
+        "text": "Sonuç & Devam Eden Performans"
+      },
+      {
+        "type": "p",
+        "text": "Zaman planına tam sadakatle tamamlanan çelik karkas yapısı tesisin lojistik kapasitesini güvenle artırmıştır."
+      }
+    ],
+    "images": [
+      {
+        "key": "1-27-ceoK89re",
+        "alt": "Çelik konstrüksiyon kanopi",
+        "caption": ""
+      },
+      {
+        "key": "1-29-d4pyra1Y",
+        "alt": "Endüstriyel çelik taşıyıcı platform",
+        "caption": "Çelik kanopi montaj karesi #2"
+      }
+    ],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [
+      {
+        "key": "Kategori",
+        "value": "Endüstriyel Borulama & Mekanik Tesisat"
+      },
+      {
+        "key": "İlgili Hizmet",
+        "value": "Endüstriyel Mekanik Borulama"
+      },
+      {
+        "key": "Yıl",
+        "value": "2023"
+      },
+      {
+        "key": "Saha Disiplini",
+        "value": "20+ Yıllık Saha Deneyimi"
+      },
+      {
+        "key": "Uygulama Esası",
+        "value": "Teknik Şartnameye Uygun"
+      }
+    ],
+    "forms": [],
+    "seoTitle": "Ağır Çelik Konstrüksiyon Kanopi ve Taşıyıcı Karkas — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "survey",
+    "kind": "survey",
+    "lang": "tr",
+    "path": "/tr/kesif-talep-et",
+    "source": "https://mabteknoloji.com.tr/tr/kesif-talep-et",
+    "title": "Keşif Talebinde Bulunun",
+    "description": "MAB Teknoloji mühendis kadrosu, endüstriyel tesisinizde yerinde inceleme yaparak mevcut hatları, montaj güzergahlarını ve teknik gereksinimleri değerlendirir.",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Talebiniz bize ulaştıktan sonra teknik yetkilimiz sizinle iletişime geçerek tesis uygunluk durumuna göre ortak bir ziyaret tarihi belirler. Saha ziyareti sonrasında borulama metrajları, malzeme listeleri ve iş planı hazırlanır."
+      },
+      {
+        "type": "h2",
+        "text": "Saha İnceleme Kapsamı"
+      },
+      {
+        "type": "p",
+        "text": "Boru hatlarının mevcut durumu, flanş/kaynak noktaları, ısı yalıtımı ihtiyaçları, emniyet mesafeleri ve montaj ergonomisi sahada mühendislerimizce ölçülendirilir."
+      }
+    ],
+    "images": [],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "forms": [
+      {
+        "fields": [
+          {
+            "name": "website",
+            "type": "text",
+            "label": "",
+            "options": []
+          },
+          {
+            "name": "name",
+            "type": "text",
+            "label": "Ad Soyad *",
+            "options": []
+          },
+          {
+            "name": "company",
+            "type": "text",
+            "label": "Firma / Kurum Adı",
+            "options": []
+          },
+          {
+            "name": "job_title",
+            "type": "text",
+            "label": "Göreviniz / Pozisyonunuz",
+            "options": []
+          },
+          {
+            "name": "phone",
+            "type": "tel",
+            "label": "Telefon Numarası *",
+            "options": []
+          },
+          {
+            "name": "email",
+            "type": "email",
+            "label": "E-posta Adresi *",
+            "options": []
+          },
+          {
+            "name": "service_id",
+            "type": "select",
+            "label": "İlgili Hizmet / Çözüm Alanı",
+            "options": [
+              "— Hizmet seçiniz (İsteğe bağlı) —",
+              "Endüstriyel Mekanik Borulama",
+              "Kızgın Yağ ve Buhar Hatları"
+            ]
+          },
+          {
+            "name": "city",
+            "type": "text",
+            "label": "Şehir / Tesis Konumu",
+            "options": []
+          },
+          {
+            "name": "discovery_preferred_date",
+            "type": "date",
+            "label": "Tercih Edilen Keşif Tarihi",
+            "options": []
+          },
+          {
+            "name": "preferred_contact_method",
+            "type": "select",
+            "label": "Tercih Edilen İletişim Kanalı",
+            "options": [
+              "— Fark Etmez —",
+              "Telefon İle Arama",
+              "E-posta İle Bilgilendirme",
+              "WhatsApp İle Mesaj"
+            ]
+          },
+          {
+            "name": "message",
+            "type": "textarea",
+            "label": "Saha Keşif Detayları *",
+            "options": []
+          },
+          {
+            "name": "attachment",
+            "type": "file",
+            "label": "Teknik Çizim / Şartname / Görsel Ekleyin (İsteğe bağlı)",
+            "options": []
+          },
+          {
+            "name": "kvkk",
+            "type": "checkbox",
+            "label": "KVKK Aydınlatma Metni'ni okudum. *",
+            "options": []
+          }
+        ]
+      }
+    ],
+    "seoTitle": "Keşif Talep Et — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "about",
+    "kind": "about",
+    "lang": "en",
+    "path": "/en/about",
+    "source": "https://mabteknoloji.com.tr/en/about",
+    "title": "Corporate Profile",
+    "description": "MAB Teknoloji was established in April 2023, drawing on its founder Mehmet Adil Baran's more than 20 years of industrial field and project experience.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "20+ Years Industrial Field Track Record & Engineering Leadership"
+      },
+      {
+        "type": "p",
+        "text": "MAB Teknoloji was established in April 2023 , operating in industrial plant installation, mechanical process piping, and custom process equipment. The company builds on its founder Mehmet Adil Baran 's (Kocaeli University Control Systems Technology and Sakarya University Mechanical Engineering) 20+ years of industrial field engineering, site execution, and Project Manager leadership starting circa 2000."
+      },
+      {
+        "type": "p",
+        "text": "We produce precise, reliable, and disciplined engineering solutions in industrial piping, mechanical installations, steam and thermal oil lines, and site-specific applications."
+      },
+      {
+        "type": "p",
+        "text": "Our hands-on field experience across the chemical, petrochemical, food, energy, and heavy industry sectors enables us to approach each project with an engineering methodology tailored specifically to site and facility requirements."
+      },
+      {
+        "type": "h2",
+        "text": "Operating Principles & Engineering Methodology"
+      },
+      {
+        "type": "p",
+        "text": "Across all piping, fabrication, and assembly operations, we strictly adhere to verified engineering calculations and technical specifications:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Process Piping & Spool Assembly: Precise spool fabrication, on-site alignment, and valve train integration compliant with operational parameters.",
+          "Quality Control & NDT: Comprehensive weld inspection and non-destructive testing (NDT) alignment in accordance with project quality plans.",
+          "Health, Safety & Environment (HSE): Uncompromising occupational safety standards and proactive environmental controls across heavy industrial jobsites.",
+          "Disciplined Execution: Structured site coordination to respect turnaround schedules and minimize operational downtime."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Site-Specific Engineering & Custom Solutions"
+      },
+      {
+        "type": "p",
+        "text": "Alongside turnkey mechanical piping and equipment installation, we design, fabricate, and install site-specific Special Design Melting Cabins tailored to industrial raw material heating and melting requirements."
+      }
+    ],
+    "images": [],
+    "tables": [],
+    "options": [],
+    "values": [
+      {
+        "title": "Technical Discipline",
+        "description": "Conforming rigorously to engineering designs, technical specifications, and measurable standards."
+      },
+      {
+        "title": "Field Pragmatism",
+        "description": "Bridging engineering drawings with site realities through over two decades of jobsite mastery."
+      },
+      {
+        "title": "HSE Commitment",
+        "description": "Prioritizing human safety, worker health, and environmental protection in heavy industrial environments."
+      },
+      {
+        "title": "Site-Specific Customization",
+        "description": "Flexible design adaptations and custom engineering tailored to distinct industrial plant configurations."
+      }
+    ],
+    "meta": [
+      {
+        "key": "Established",
+        "value": "April 2023"
+      },
+      {
+        "key": "Founder & Management",
+        "value": "Mehmet Adil Baran"
+      },
+      {
+        "key": "Founder's Field Experience",
+        "value": "20+ Years"
+      },
+      {
+        "key": "Core Expertise",
+        "value": "Process Piping & Mechanical Installation"
+      }
+    ],
+    "forms": [],
+    "seoTitle": "Corporate Profile — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "services",
+    "kind": "services",
+    "lang": "en",
+    "path": "/en/services",
+    "source": "https://mabteknoloji.com.tr/en/services",
+    "title": "Industrial Engineering Services",
+    "description": "Field-proven engineering solutions across mechanical process piping, plant installations, and energy systems.",
+    "blocks": [],
+    "images": [],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "forms": [],
+    "seoTitle": "Services — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "projects",
+    "kind": "projects",
+    "lang": "en",
+    "path": "/en/projects",
+    "source": "https://mabteknoloji.com.tr/en/projects",
+    "title": "Projects & Field References",
+    "description": "Field installations and engineering contracts completed by MAB Teknoloji across process piping, energy utility lines, structural steel, and turnkey mechanical assembly.",
+    "blocks": [],
+    "images": [
+      {
+        "key": "1-44-kspMeuvS",
+        "alt": "Stainless steel piping and flanges",
+        "caption": ""
+      },
+      {
+        "key": "1-38-pvQ8DSzu",
+        "alt": "Underground pipeline and flowmeter",
+        "caption": ""
+      },
+      {
+        "key": "1-27-ceoK89re",
+        "alt": "Structural steel canopy",
+        "caption": ""
+      }
+    ],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "forms": [],
+    "seoTitle": "Projects — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "contact",
+    "kind": "contact",
+    "lang": "en",
+    "path": "/en/contact",
+    "source": "https://mabteknoloji.com.tr/en/contact",
+    "title": "Contact Our Engineering Team",
+    "description": "Get in touch with our engineering team for inquiries, technical consultations, or on-site surveys.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "Direct Request Options"
+      },
+      {
+        "type": "p",
+        "text": "Use our specialized forms for formal RFQs or on-site engineering surveys:"
+      },
+      {
+        "type": "p",
+        "text": "MAB Teknoloji analyzes on-site plant realities to determine sound engineering strategies. You can send your piping isometrics, P&ID drawings, and technical specifications via email or phone. Our engineering staff will review your documentation and respond promptly."
+      }
+    ],
+    "images": [],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "forms": [
+      {
+        "fields": [
+          {
+            "name": "website",
+            "type": "text",
+            "label": "",
+            "options": []
+          },
+          {
+            "name": "name",
+            "type": "text",
+            "label": "Full Name *",
+            "options": []
+          },
+          {
+            "name": "company",
+            "type": "text",
+            "label": "Company / Organization",
+            "options": []
+          },
+          {
+            "name": "email",
+            "type": "email",
+            "label": "Email Address *",
+            "options": []
+          },
+          {
+            "name": "phone",
+            "type": "tel",
+            "label": "Phone Number",
+            "options": []
+          },
+          {
+            "name": "message",
+            "type": "textarea",
+            "label": "Your Message *",
+            "options": []
+          },
+          {
+            "name": "kvkk",
+            "type": "checkbox",
+            "label": "I have read the Privacy Notice. *",
+            "options": []
+          }
+        ]
+      }
+    ],
+    "seoTitle": "Contact — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "quote",
+    "kind": "quote",
+    "lang": "en",
+    "path": "/en/request-quote",
+    "source": "https://mabteknoloji.com.tr/en/request-quote",
+    "title": "Request a Technical Quote",
+    "description": "Submit your project specifications, isometric drawings, or requirements. Our engineering team will review your data and prepare a comprehensive proposal.",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Contact our engineering staff directly for urgent technical clarifications or project discussions."
+      },
+      {
+        "type": "h2",
+        "text": "Confidentiality & Privacy"
+      },
+      {
+        "type": "p",
+        "text": "Submitted specifications, drawings, and corporate data remain strictly confidential and are only reviewed by authorized engineering staff for quotation and technical feasibility."
+      }
+    ],
+    "images": [],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "forms": [
+      {
+        "fields": [
+          {
+            "name": "website",
+            "type": "text",
+            "label": "",
+            "options": []
+          },
+          {
+            "name": "name",
+            "type": "text",
+            "label": "Full Name *",
+            "options": []
+          },
+          {
+            "name": "company",
+            "type": "text",
+            "label": "Company / Organization",
+            "options": []
+          },
+          {
+            "name": "job_title",
+            "type": "text",
+            "label": "Job Title / Position",
+            "options": []
+          },
+          {
+            "name": "phone",
+            "type": "tel",
+            "label": "Phone Number *",
+            "options": []
+          },
+          {
+            "name": "email",
+            "type": "email",
+            "label": "Email Address *",
+            "options": []
+          },
+          {
+            "name": "service_id",
+            "type": "select",
+            "label": "Related Service / Solution Area",
+            "options": [
+              "— Select service (Optional) —",
+              "Industrial Mechanical Piping",
+              "Thermal Oil and Steam Lines"
+            ]
+          },
+          {
+            "name": "city",
+            "type": "text",
+            "label": "City / Site Location",
+            "options": []
+          },
+          {
+            "name": "preferred_contact_method",
+            "type": "select",
+            "label": "Preferred Contact Channel",
+            "options": [
+              "— Any Channel —",
+              "Phone Call",
+              "Email Notification",
+              "WhatsApp Message"
+            ]
+          },
+          {
+            "name": "message",
+            "type": "textarea",
+            "label": "Project / Request Details *",
+            "options": []
+          },
+          {
+            "name": "attachment",
+            "type": "file",
+            "label": "Attach Technical Drawing / Specification / Image (Optional)",
+            "options": []
+          },
+          {
+            "name": "kvkk",
+            "type": "checkbox",
+            "label": "I have read the Privacy Notice. *",
+            "options": []
+          }
+        ]
+      }
+    ],
+    "seoTitle": "Request a Quote — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "survey",
+    "kind": "survey",
+    "lang": "en",
+    "path": "/en/request-site-survey",
+    "source": "https://mabteknoloji.com.tr/en/request-site-survey",
+    "title": "Request a Site Survey",
+    "description": "Our project engineers evaluate your facility on-site, inspecting current piping routes, assembly access, operating parameters, and technical requirements.",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Following your request, an engineer contacts you to schedule an on-site visit according to facility availability. After inspection, bills of materials, isometric line assessments, and delivery plans are formulated."
+      },
+      {
+        "type": "h2",
+        "text": "On-Site Inspection Scope"
+      },
+      {
+        "type": "p",
+        "text": "Piping integrity, flange and weld points, thermal insulation requirements, safety clearances, and installation access are measured and evaluated on-site by our engineers."
+      }
+    ],
+    "images": [],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "forms": [
+      {
+        "fields": [
+          {
+            "name": "website",
+            "type": "text",
+            "label": "",
+            "options": []
+          },
+          {
+            "name": "name",
+            "type": "text",
+            "label": "Full Name *",
+            "options": []
+          },
+          {
+            "name": "company",
+            "type": "text",
+            "label": "Company / Organization",
+            "options": []
+          },
+          {
+            "name": "job_title",
+            "type": "text",
+            "label": "Job Title / Position",
+            "options": []
+          },
+          {
+            "name": "phone",
+            "type": "tel",
+            "label": "Phone Number *",
+            "options": []
+          },
+          {
+            "name": "email",
+            "type": "email",
+            "label": "Email Address *",
+            "options": []
+          },
+          {
+            "name": "service_id",
+            "type": "select",
+            "label": "Related Service / Solution Area",
+            "options": [
+              "— Select service (Optional) —",
+              "Industrial Mechanical Piping",
+              "Thermal Oil and Steam Lines"
+            ]
+          },
+          {
+            "name": "city",
+            "type": "text",
+            "label": "City / Site Location",
+            "options": []
+          },
+          {
+            "name": "discovery_preferred_date",
+            "type": "date",
+            "label": "Preferred Survey Date",
+            "options": []
+          },
+          {
+            "name": "preferred_contact_method",
+            "type": "select",
+            "label": "Preferred Contact Channel",
+            "options": [
+              "— Any Channel —",
+              "Phone Call",
+              "Email Notification",
+              "WhatsApp Message"
+            ]
+          },
+          {
+            "name": "message",
+            "type": "textarea",
+            "label": "Site Survey Details *",
+            "options": []
+          },
+          {
+            "name": "attachment",
+            "type": "file",
+            "label": "Attach Technical Drawing / Specification / Image (Optional)",
+            "options": []
+          },
+          {
+            "name": "kvkk",
+            "type": "checkbox",
+            "label": "I have read the Privacy Notice. *",
+            "options": []
+          }
+        ]
+      }
+    ],
+    "seoTitle": "Request a Site Survey — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "about",
+    "kind": "about",
+    "lang": "ar",
+    "path": "/ar/about",
+    "source": "https://mabteknoloji.com.tr/ar/about",
+    "title": "الملف التعريفي للشركة",
+    "description": "تأسست شركة MAB Teknoloji في أبريل 2023، مرتكزة على أكثر من 20 عاماً من الخبرة الميدانية وإدارة المشاريع لمؤسسها محمد عادل باران.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "أكثر من 20 عاماً من الخبرة الميدانية الصناعية والانضباط الهندسي"
+      },
+      {
+        "type": "p",
+        "text": "تأسست شركة ماب تكنولوجي (MAB Teknoloji) في أبريل 2023 ، وتعمل في مجالات إنشاء المنشآت الصناعية وتمديد شبكات الأنابيب الميكانيكية ومعدات العمليات. ترتكز الشركة على خبرة مؤسسها محمد عادل باران (Mehmet Adil Baran) (خريج تكنولوجيا أنظمة التحكم بجامعة كوجالي والهندسة الميكانيكية بجامعة سكاريا) الممتدة لأكثر من 20 عاماً في الهندسة الميدانية وإدارة المشاريع (Project Manager) التي بدأت حوالي عام 2000."
+      },
+      {
+        "type": "p",
+        "text": "نقدم حلولاً دقيقة وموثوقة ومنضبطة في تمديدات الأنابيب الصناعية والتركيبات الميكانيكية وخطوط البخار والزيت الحراري والحلول الهندسية المخصصة للمواقع."
+      },
+      {
+        "type": "p",
+        "text": "إن خبرتنا الميدانية المكتسبة في قطاعات الكيماويات والبتروكيماويات والأغذية والطاقة والصناعات الثقيلة تتيح لنا التركيز على كل مشروع بنهج هندسي مخصص لاحتياجات الموقع والمنشأة."
+      },
+      {
+        "type": "h2",
+        "text": "مبادئ العمل والمنهجية الهندسية"
+      },
+      {
+        "type": "p",
+        "text": "في جميع عمليات تمديد الأنابيب والتصنيع والتركيب الميكانيكي، نلتزم بدقة بالمواصفات الفنية والحسابات الهندسية:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "تمديد أنابيب العمليات وتصنيع الخطوط: تصنيع وتجميع دقيق لقطع الأنابيب وتركيب مجموعات الصمامات بما يتوافق مع معايير التشغيل والمخططات.",
+          "الجودة والاختبارات: فحوصات دقيقة لخطوط اللحام باستخدام أساليب الفحص غير الإتلافي (NDT) وفق خطط الجودة المعتمدة لكل مشروع.",
+          "الصحة والسلامة المهنية والبيئة (HSE): معايير صارمة لا تهاون فيها للحفاظ على سلامة الكوادر والبيئة في مواقع العمل الصناعية الثقيلة.",
+          "التسليم المنظم في المواعيد: الالتزام بالجدول الزمني للمشروع لتقليل فترات التوقف التشغيلي للمنشأة إلى الحد الأدنى."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "حلول هندسية مخصصة للمنشآت"
+      },
+      {
+        "type": "p",
+        "text": "إلى جانب خدمات تمديد الأنابيب والتركيبات الميكانيكية المتكاملة، نقوم بتصميم وتصنيع وتركيب كبائن الصهر ذات التصميم الخاص وفق الاحتياجات الحرارية للمواد الخام في المصانع."
+      }
+    ],
+    "images": [],
+    "tables": [],
+    "options": [],
+    "values": [
+      {
+        "title": "انضباط تقني",
+        "description": "الالتزام الصارم بالتصاميم الهندسية والمواصفات الفنية والمعايير القابلة للقياس."
+      },
+      {
+        "title": "واقعية ميدانية",
+        "description": "الربط بين المخططات الهندسية وواقع الموقع عبر أكثر من عقدين من التمكن الميداني."
+      },
+      {
+        "title": "الالتزام بالسلامة والبيئة",
+        "description": "إعطاء الأولوية القصوى لسلامة الكوادر وحماية البيئة في البيئات الصناعية الثقيلة."
+      },
+      {
+        "title": "حلول مخصصة للموقع",
+        "description": "مرونة في التصميم وحلول هندسية مخصصة وفق متطلبات كل منشأة صناعية."
+      }
+    ],
+    "meta": [
+      {
+        "key": "تاريخ التأسيس",
+        "value": "أبريل 2023"
+      },
+      {
+        "key": "المؤسس والإدارة",
+        "value": "محمد عادل باران"
+      },
+      {
+        "key": "الخبرة الميدانية للمؤسس",
+        "value": "20+ عاماً"
+      },
+      {
+        "key": "مجال التخصص",
+        "value": "تمديد الأنابيب والتركيبات الميكانيكية"
+      }
+    ],
+    "forms": [],
+    "seoTitle": "الملف التعريفي للشركة — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "services",
+    "kind": "services",
+    "lang": "ar",
+    "path": "/ar/services",
+    "source": "https://mabteknoloji.com.tr/ar/services",
+    "title": "خدمات الهندسة الصناعية",
+    "description": "حلول هندسية ميدانية موثوقة في تمديد شبكات الأنابيب والتركيبات الميكانيكية وأنظمة الطاقة للمنشآت.",
+    "blocks": [],
+    "images": [],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "forms": [],
+    "seoTitle": "الخدمات — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "projects",
+    "kind": "projects",
+    "lang": "ar",
+    "path": "/ar/projects",
+    "source": "https://mabteknoloji.com.tr/ar/projects",
+    "title": "المشاريع والتطبيقات الميدانية",
+    "description": "المشاريع والتركيبات الميدانية المنجزة من ماب تكنولوجي في تمديد شبكات أنابيب العمليات، خطوط الطاقة، المنشآت الفولاذية، والتركيب الميكانيكي المتكامل.",
+    "blocks": [],
+    "images": [
+      {
+        "key": "1-44-kspMeuvS",
+        "alt": "أنابيب مقاومة للصدأ ووصلات فلنجية",
+        "caption": ""
+      },
+      {
+        "key": "1-38-pvQ8DSzu",
+        "alt": "خط أنابيب تحت الأرض ومقياس تدفق",
+        "caption": ""
+      },
+      {
+        "key": "1-27-ceoK89re",
+        "alt": "مظلة فولاذية إنشائية",
+        "caption": ""
+      }
+    ],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "forms": [],
+    "seoTitle": "المشاريع — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "contact",
+    "kind": "contact",
+    "lang": "ar",
+    "path": "/ar/contact",
+    "source": "https://mabteknoloji.com.tr/ar/contact",
+    "title": "تواصل مع فريقنا الهندسي",
+    "description": "تواصل مع فريقنا الهندسي للاستفسارات، أو الاستشارات الفنية، أو طلب المعاينة الميدانية.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "خيارات الطلب المباشر"
+      },
+      {
+        "type": "p",
+        "text": "استخدم نماذجنا المخصصة لطلب عروض أسعار رسمية أو معاينات هندسية ميدانية:"
+      },
+      {
+        "type": "p",
+        "text": "تقوم ماب تكنولوجي بدراسة واقع المنشأة في الموقع لتحديد الاستراتيجية الهندسية المثلى. يمكنكم إرسال مخططات الأنابيب والمواصفات الفنية عبر البريد الإلكتروني أو الهاتف لمراجعتها والرد السريع."
+      }
+    ],
+    "images": [],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "forms": [
+      {
+        "fields": [
+          {
+            "name": "website",
+            "type": "text",
+            "label": "",
+            "options": []
+          },
+          {
+            "name": "name",
+            "type": "text",
+            "label": "الاسم الكامل *",
+            "options": []
+          },
+          {
+            "name": "company",
+            "type": "text",
+            "label": "الشركة / المؤسسة",
+            "options": []
+          },
+          {
+            "name": "email",
+            "type": "email",
+            "label": "البريد الإلكتروني *",
+            "options": []
+          },
+          {
+            "name": "phone",
+            "type": "tel",
+            "label": "رقم الهاتف",
+            "options": []
+          },
+          {
+            "name": "message",
+            "type": "textarea",
+            "label": "رسالتك *",
+            "options": []
+          },
+          {
+            "name": "kvkk",
+            "type": "checkbox",
+            "label": "لقد قرأت إشعار الخصوصية. *",
+            "options": []
+          }
+        ]
+      }
+    ],
+    "seoTitle": "اتصل بنا — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "quote",
+    "kind": "quote",
+    "lang": "ar",
+    "path": "/ar/request-quote",
+    "source": "https://mabteknoloji.com.tr/ar/request-quote",
+    "title": "طلب عرض أسعار فني",
+    "description": "أرسل مواصفات مشروعكم، المخططات أو المتطلبات الفنية. سيقوم فريقنا الهندسي بمراجعة البيانات وإعداد عرض فني وتجاري مفصل.",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "تواصل مع مهندسينا مباشرة للاستيضاحات الفنية العاجلة أو مناقشة تفاصيل المشاريع."
+      },
+      {
+        "type": "h2",
+        "text": "السرية والخصوصية"
+      },
+      {
+        "type": "p",
+        "text": "تخضع المواصفات والمخططات الهندسية المرفقة لأعلى درجات السرية، ولا يطلع عليها سوى المهندسين المختصين لإعداد العرض ودراسة الجدوى."
+      }
+    ],
+    "images": [],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "forms": [
+      {
+        "fields": [
+          {
+            "name": "website",
+            "type": "text",
+            "label": "",
+            "options": []
+          },
+          {
+            "name": "name",
+            "type": "text",
+            "label": "الاسم الكامل *",
+            "options": []
+          },
+          {
+            "name": "company",
+            "type": "text",
+            "label": "الشركة / المؤسسة",
+            "options": []
+          },
+          {
+            "name": "job_title",
+            "type": "text",
+            "label": "المسمى الوظيفي / المنصب",
+            "options": []
+          },
+          {
+            "name": "phone",
+            "type": "tel",
+            "label": "رقم الهاتف *",
+            "options": []
+          },
+          {
+            "name": "email",
+            "type": "email",
+            "label": "البريد الإلكتروني *",
+            "options": []
+          },
+          {
+            "name": "service_id",
+            "type": "select",
+            "label": "الخدمة / مجال الحل المطلوب",
+            "options": [
+              "— اختر الخدمة (اختياري) —",
+              "تمديد الأنابيب الميكانيكية الصناعية",
+              "خطوط البخار والزيت الحراري"
+            ]
+          },
+          {
+            "name": "city",
+            "type": "text",
+            "label": "المدينة / موقع المنشأة",
+            "options": []
+          },
+          {
+            "name": "preferred_contact_method",
+            "type": "select",
+            "label": "طريقة التواصل المفضلة",
+            "options": [
+              "— أي وسيلة —",
+              "اتصال هاتفي",
+              "البريد الإلكتروني",
+              "رسالة واتساب"
+            ]
+          },
+          {
+            "name": "message",
+            "type": "textarea",
+            "label": "تفاصيل المشروع / الطلب *",
+            "options": []
+          },
+          {
+            "name": "attachment",
+            "type": "file",
+            "label": "إرفاق مخطط فني / مواصفة / صورة (اختياري)",
+            "options": []
+          },
+          {
+            "name": "kvkk",
+            "type": "checkbox",
+            "label": "لقد قرأت إشعار الخصوصية. *",
+            "options": []
+          }
+        ]
+      }
+    ],
+    "seoTitle": "طلب عرض سعر — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "survey",
+    "kind": "survey",
+    "lang": "ar",
+    "path": "/ar/request-site-survey",
+    "source": "https://mabteknoloji.com.tr/ar/request-site-survey",
+    "title": "طلب معاينة ميدانية",
+    "description": "يقوم مهندسونا بزيارة منشأتكم ومعاينتها ميدانياً لدراسة مسارات الأنابيب، إمكانية التركيب، معايير التشغيل والمتطلبات الفنية.",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "عقب إرسال طلبكم، يتواصل معكم مهندس مختص لتحديد موعد الزيارة وفق جدول منشأتكم. وبعد المعاينة، يتم إعداد جداول الكميات وتقييم المخططات وجداول التنفيذ."
+      },
+      {
+        "type": "h2",
+        "text": "نطاق الفحص الميداني"
+      },
+      {
+        "type": "p",
+        "text": "يقيس مهندسونا ويقيمون ميدانياً سلامة خطوط الأنابيب، نقاط الفلانشات واللحام، متطلبات العزل الحراري، مسافات الأمان وسهولة الوصول للتركيب."
+      }
+    ],
+    "images": [],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "forms": [
+      {
+        "fields": [
+          {
+            "name": "website",
+            "type": "text",
+            "label": "",
+            "options": []
+          },
+          {
+            "name": "name",
+            "type": "text",
+            "label": "الاسم الكامل *",
+            "options": []
+          },
+          {
+            "name": "company",
+            "type": "text",
+            "label": "الشركة / المؤسسة",
+            "options": []
+          },
+          {
+            "name": "job_title",
+            "type": "text",
+            "label": "المسمى الوظيفي / المنصب",
+            "options": []
+          },
+          {
+            "name": "phone",
+            "type": "tel",
+            "label": "رقم الهاتف *",
+            "options": []
+          },
+          {
+            "name": "email",
+            "type": "email",
+            "label": "البريد الإلكتروني *",
+            "options": []
+          },
+          {
+            "name": "service_id",
+            "type": "select",
+            "label": "الخدمة / مجال الحل المطلوب",
+            "options": [
+              "— اختر الخدمة (اختياري) —",
+              "تمديد الأنابيب الميكانيكية الصناعية",
+              "خطوط البخار والزيت الحراري"
+            ]
+          },
+          {
+            "name": "city",
+            "type": "text",
+            "label": "المدينة / موقع المنشأة",
+            "options": []
+          },
+          {
+            "name": "discovery_preferred_date",
+            "type": "date",
+            "label": "التاريخ المفضل للمعاينة",
+            "options": []
+          },
+          {
+            "name": "preferred_contact_method",
+            "type": "select",
+            "label": "طريقة التواصل المفضلة",
+            "options": [
+              "— أي وسيلة —",
+              "اتصال هاتفي",
+              "البريد الإلكتروني",
+              "رسالة واتساب"
+            ]
+          },
+          {
+            "name": "message",
+            "type": "textarea",
+            "label": "تفاصيل المعاينة الميدانية *",
+            "options": []
+          },
+          {
+            "name": "attachment",
+            "type": "file",
+            "label": "إرفاق مخطط فني / مواصفة / صورة (اختياري)",
+            "options": []
+          },
+          {
+            "name": "kvkk",
+            "type": "checkbox",
+            "label": "لقد قرأت إشعار الخصوصية. *",
+            "options": []
+          }
+        ]
+      }
+    ],
+    "seoTitle": "طلب معاينة الموقع — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "about",
+    "kind": "about",
+    "lang": "ru",
+    "path": "/ru/about",
+    "source": "https://mabteknoloji.com.tr/ru/about",
+    "title": "О компании",
+    "description": "Компания MAB Teknoloji была основана в апреле 2023 года на базе более чем 20-летнего практического и проектного опыта ее основателя Мехмета Адиля Барана.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "20+ лет промышленного опыта на объектах и инженерное лидерство"
+      },
+      {
+        "type": "p",
+        "text": "Компания MAB Teknoloji была основана в апреле 2023 года и специализируется на строительстве промышленных объектов, монтаже механических технологических трубопроводов, энергоустановок и нестандартного технологического оборудования. Сохраняя гибкую корпоративную структуру, компания опирается на более чем 20-летний практический опыт своего основателя Мехмета Адиля Барана (Mehmet Adil Baran) (образование: Университет Коджаэли — технологии систем управления, Университет Сакарья — машиностроение) в сфере руководства строительными площадками, инженерного надзора и проектного управления (Project Manager) с началом карьеры около 2000 года."
+      },
+      {
+        "type": "p",
+        "text": "Мы создаем надежные и дисциплинированные инженерные решения в области промышленных трубопроводов, механического монтажа, паропроводов, систем термомасла и индивидуальных технологических задач."
+      },
+      {
+        "type": "p",
+        "text": "Наш практический опыт в химической, нефтехимической, пищевой, энергетической отраслях и тяжелой промышленности позволяет подходить к каждому проекту с учетом эксплуатационных требований конкретного объекта."
+      },
+      {
+        "type": "h2",
+        "text": "Принципы работы и инженерная методология"
+      },
+      {
+        "type": "p",
+        "text": "При проведении всех трубопроводных, сборочных и производственных операций мы строго следуем техническим спецификациям и инженерным расчетам:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Технологические трубопроводы и узлы: Высокоточное изготовление трубных узлов (spool), монтаж по месту и интеграция клапанных групп в строгом соответствии с проектными схемами.",
+          "Контроль качества и NDT: Тщательный контроль сварных соединений методами неразрушающего контроля (NDT) согласно планам контроля качества (ITP) проекта.",
+          "Охрана труда и экологическая безопасность (HSE): Бескомпромиссные стандарты техники безопасности и защитные меры на промышленных объектах повышенной сложности.",
+          "Соблюдение графиков монтажа: Дисциплинированная организация работ на объекте для минимизации простоев действующего производства."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Индивидуальные инженерные решения"
+      },
+      {
+        "type": "p",
+        "text": "Наряду с комплексным монтажом технологических трубопроводов и оборудования мы проектируем, изготавливаем и монтируем специальные плавильные кабины , точно рассчитанные под температурные режимы плавления сырья на предприятиях."
+      }
+    ],
+    "images": [],
+    "tables": [],
+    "options": [],
+    "values": [
+      {
+        "title": "Техническая дисциплина",
+        "description": "Строгое следование проектным расчетам, техническим спецификациям и измеримым критериям качества."
+      },
+      {
+        "title": "Практический реализм",
+        "description": "Соединение чертежей с реальностью объекта благодаря более чем двадцатилетнему опыту монтажа."
+      },
+      {
+        "title": "Безопасность (HSE)",
+        "description": "Абсолютный приоритет безопасности персонала, охраны труда и защиты окружающей среды на объектах."
+      },
+      {
+        "title": "Индивидуальные решения",
+        "description": "Гибкая адаптация конструкторских решений под компоновку и задачи конкретного предприятия."
+      }
+    ],
+    "meta": [
+      {
+        "key": "Год основания",
+        "value": "Апрель 2023"
+      },
+      {
+        "key": "Основатель и руководство",
+        "value": "Мехмет Адиль Баран"
+      },
+      {
+        "key": "Опыт основателя на объектах",
+        "value": "20+ лет"
+      },
+      {
+        "key": "Специализация",
+        "value": "Промышленные трубопроводы и монтаж"
+      }
+    ],
+    "forms": [],
+    "seoTitle": "О компании — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "services",
+    "kind": "services",
+    "lang": "ru",
+    "path": "/ru/services",
+    "source": "https://mabteknoloji.com.tr/ru/services",
+    "title": "Услуги промышленного инжиниринга",
+    "description": "Проверенные на практике инженерные решения в сфере технологических трубопроводов, монтажа промышленных установок и энергосистем.",
+    "blocks": [],
+    "images": [],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "forms": [],
+    "seoTitle": "Услуги — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "projects",
+    "kind": "projects",
+    "lang": "ru",
+    "path": "/ru/projects",
+    "source": "https://mabteknoloji.com.tr/ru/projects",
+    "title": "Проекты и референс-лист",
+    "description": "Проекты и монтажные работы, выполненные MAB Teknoloji в области технологических трубопроводов, паровых и энергетических сетей, металлоконструкций и комплексного монтажа.",
+    "blocks": [],
+    "images": [
+      {
+        "key": "1-44-kspMeuvS",
+        "alt": "Нержавеющие трубопроводы и фланцы",
+        "caption": ""
+      },
+      {
+        "key": "1-38-pvQ8DSzu",
+        "alt": "Подземный трубопровод и расходомер",
+        "caption": ""
+      },
+      {
+        "key": "1-27-ceoK89re",
+        "alt": "Стальной навес",
+        "caption": ""
+      }
+    ],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "forms": [],
+    "seoTitle": "Проекты — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "contact",
+    "kind": "contact",
+    "lang": "ru",
+    "path": "/ru/contact",
+    "source": "https://mabteknoloji.com.tr/ru/contact",
+    "title": "Свяжитесь с нашей инженерной командой",
+    "description": "Свяжитесь с нашей инженерной группой для консультаций, технических расчетов или организации выезда на объект.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "Каналы прямого запроса"
+      },
+      {
+        "type": "p",
+        "text": "Воспользуйтесь нашими специализированными формами для запроса коммерческого предложения или выездного аудита:"
+      },
+      {
+        "type": "p",
+        "text": "MAB Teknoloji проводит обследование промышленных объектов для определения оптимального инженерного решения. Вы можете направить изометрические чертежи трубопроводов, P&ID диаграммы и технические спецификации по электронной почте или телефону. Наши инженеры изучат предоставленные данные и оперативно свяжутся с вами."
+      }
+    ],
+    "images": [],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "forms": [
+      {
+        "fields": [
+          {
+            "name": "website",
+            "type": "text",
+            "label": "",
+            "options": []
+          },
+          {
+            "name": "name",
+            "type": "text",
+            "label": "Имя и фамилия *",
+            "options": []
+          },
+          {
+            "name": "company",
+            "type": "text",
+            "label": "Компания / Организация",
+            "options": []
+          },
+          {
+            "name": "email",
+            "type": "email",
+            "label": "Электронная почта *",
+            "options": []
+          },
+          {
+            "name": "phone",
+            "type": "tel",
+            "label": "Номер телефона",
+            "options": []
+          },
+          {
+            "name": "message",
+            "type": "textarea",
+            "label": "Ваше сообщение *",
+            "options": []
+          },
+          {
+            "name": "kvkk",
+            "type": "checkbox",
+            "label": "Я ознакомился(-ась) с Уведомлением о конфиденциальности. *",
+            "options": []
+          }
+        ]
+      }
+    ],
+    "seoTitle": "Контакты — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "quote",
+    "kind": "quote",
+    "lang": "ru",
+    "path": "/ru/request-quote",
+    "source": "https://mabteknoloji.com.tr/ru/request-quote",
+    "title": "Запрос коммерческого предложения",
+    "description": "Отправьте спецификации вашего проекта, изометрические схемы или технические требования. Наша инженерная команда проанализирует данные и подготовит детальное коммерческое предложение.",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Свяжитесь с нашими инженерами напрямую для срочных технических консультаций или обсуждения деталей проекта."
+      },
+      {
+        "type": "h2",
+        "text": "Конфиденциальность и безопасность"
+      },
+      {
+        "type": "p",
+        "text": "Переданные технические спецификации, изометрические чертежи и корпоративные данные являются строго конфиденциальными и изучаются исключительно уполномоченными инженерами для подготовки предложения и оценки осуществимости."
+      }
+    ],
+    "images": [],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "forms": [
+      {
+        "fields": [
+          {
+            "name": "website",
+            "type": "text",
+            "label": "",
+            "options": []
+          },
+          {
+            "name": "name",
+            "type": "text",
+            "label": "Имя и фамилия *",
+            "options": []
+          },
+          {
+            "name": "company",
+            "type": "text",
+            "label": "Компания / Организация",
+            "options": []
+          },
+          {
+            "name": "job_title",
+            "type": "text",
+            "label": "Должность / Специализация",
+            "options": []
+          },
+          {
+            "name": "phone",
+            "type": "tel",
+            "label": "Номер телефона *",
+            "options": []
+          },
+          {
+            "name": "email",
+            "type": "email",
+            "label": "Электронная почта *",
+            "options": []
+          },
+          {
+            "name": "service_id",
+            "type": "select",
+            "label": "Интересующая услуга / Направление",
+            "options": [
+              "— Выберите услугу (Необязательно) —",
+              "Промышленный монтаж технологических трубопроводов",
+              "Линии пара и термомасла"
+            ]
+          },
+          {
+            "name": "city",
+            "type": "text",
+            "label": "Город / Местоположение объекта",
+            "options": []
+          },
+          {
+            "name": "preferred_contact_method",
+            "type": "select",
+            "label": "Предпочтительный способ связи",
+            "options": [
+              "— Не имеет значения —",
+              "Телефонный звонок",
+              "Электронное письмо",
+              "Сообщение в WhatsApp"
+            ]
+          },
+          {
+            "name": "message",
+            "type": "textarea",
+            "label": "Детали запроса / Проекта *",
+            "options": []
+          },
+          {
+            "name": "attachment",
+            "type": "file",
+            "label": "Прикрепить чертеж / Спецификацию / Фото (Необязательно)",
+            "options": []
+          },
+          {
+            "name": "kvkk",
+            "type": "checkbox",
+            "label": "Я ознакомился(-ась) с Уведомлением о конфиденциальности. *",
+            "options": []
+          }
+        ]
+      }
+    ],
+    "seoTitle": "Запросить предложение — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "survey",
+    "kind": "survey",
+    "lang": "ru",
+    "path": "/ru/request-site-survey",
+    "source": "https://mabteknoloji.com.tr/ru/request-site-survey",
+    "title": "Запрос выездного аудита",
+    "description": "Инженеры MAB Teknoloji выезжают на ваш объект для оценки существующих трубопроводных трасс, монтажных коридоров, условий эксплуатации и технических требований.",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "После получения вашей заявки инженер связывается с вами для согласования даты выезда. По итогам аудита составляются спецификации материалов, расчеты трасс и план производства работ."
+      },
+      {
+        "type": "h2",
+        "text": "Объем обследования на объекте"
+      },
+      {
+        "type": "p",
+        "text": "Текущее состояние трубопроводов, фланцевые и сварные соединения, теплоизоляция, безопасные расстояния и доступность монтажа оцениваются на месте нашими инженерами."
+      }
+    ],
+    "images": [],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [],
+    "forms": [
+      {
+        "fields": [
+          {
+            "name": "website",
+            "type": "text",
+            "label": "",
+            "options": []
+          },
+          {
+            "name": "name",
+            "type": "text",
+            "label": "Имя и фамилия *",
+            "options": []
+          },
+          {
+            "name": "company",
+            "type": "text",
+            "label": "Компания / Организация",
+            "options": []
+          },
+          {
+            "name": "job_title",
+            "type": "text",
+            "label": "Должность / Специализация",
+            "options": []
+          },
+          {
+            "name": "phone",
+            "type": "tel",
+            "label": "Номер телефона *",
+            "options": []
+          },
+          {
+            "name": "email",
+            "type": "email",
+            "label": "Электронная почта *",
+            "options": []
+          },
+          {
+            "name": "service_id",
+            "type": "select",
+            "label": "Интересующая услуга / Направление",
+            "options": [
+              "— Выберите услугу (Необязательно) —",
+              "Промышленный монтаж технологических трубопроводов",
+              "Линии пара и термомасла"
+            ]
+          },
+          {
+            "name": "city",
+            "type": "text",
+            "label": "Город / Местоположение объекта",
+            "options": []
+          },
+          {
+            "name": "discovery_preferred_date",
+            "type": "date",
+            "label": "Предпочтительная дата выезда",
+            "options": []
+          },
+          {
+            "name": "preferred_contact_method",
+            "type": "select",
+            "label": "Предпочтительный способ связи",
+            "options": [
+              "— Не имеет значения —",
+              "Телефонный звонок",
+              "Электронное письмо",
+              "Сообщение в WhatsApp"
+            ]
+          },
+          {
+            "name": "message",
+            "type": "textarea",
+            "label": "Описание объекта для выезда *",
+            "options": []
+          },
+          {
+            "name": "attachment",
+            "type": "file",
+            "label": "Прикрепить чертеж / Спецификацию / Фото (Необязательно)",
+            "options": []
+          },
+          {
+            "name": "kvkk",
+            "type": "checkbox",
+            "label": "Я ознакомился(-ась) с Уведомлением о конфиденциальности. *",
+            "options": []
+          }
+        ]
+      }
+    ],
+    "seoTitle": "Запросить выезд на объект — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "piping",
+    "kind": "service",
+    "lang": "ar",
+    "path": "/ar/services/industrial-mechanical-piping-ar",
+    "source": "https://mabteknoloji.com.tr/ar/services/industrial-mechanical-piping-ar",
+    "title": "تمديد الأنابيب الميكانيكية الصناعية",
+    "description": "تركيب خطوط العمليات في المصانع، وأنابيب الهيدروكربونات، والمواد الكيميائية، والمرافق.",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "نقوم بتنفيذ مراحل التصميم الهندسي، والمراجعة الإيزومترية، والتصنيع المسبق، والتركيب الميداني لأنظمة الأنابيب في المنشآت الصناعية بدقة لحام عالية."
+      },
+      {
+        "type": "p",
+        "text": "يتم تنفيذ جميع أعمال اللحام والتركيب بواسطة كوادرنا الميدانية ذات الخبرة مع الفحص باستخدام أساليب الفحص غير الإتلافي."
+      }
+    ],
+    "images": [],
+    "tables": [
+      [
+        [
+          "المعيار الفني",
+          "المعيار / القيمة التطبيقية"
+        ],
+        [
+          "Malzeme Standartları",
+          "AISI 304, AISI 316, Karbon Çelik P235GH"
+        ],
+        [
+          "Kaynak Yöntemleri",
+          "TIG (141), Elektrot (111), MIG/MAG"
+        ],
+        [
+          "Boru Çap Aralığı",
+          "DN15 - DN500"
+        ],
+        [
+          "Basınç Sınıfı",
+          "PN16 / PN40 / PN100 (Class 150-600)"
+        ]
+      ]
+    ],
+    "options": [],
+    "values": [],
+    "meta": [
+      {
+        "key": "الفئة",
+        "value": "الأنابيب الصناعية والتركيبات الميكانيكية"
+      },
+      {
+        "key": "الخبرة الميدانية",
+        "value": "20+ عاماً"
+      },
+      {
+        "key": "معيار التنفيذ",
+        "value": "مطابق للمواصفات الفنية"
+      },
+      {
+        "key": "النطاق",
+        "value": "التصميم، التصنيع، التركيب"
+      }
+    ],
+    "forms": [],
+    "seoTitle": "تمديد الأنابيب الميكانيكية الصناعية — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "piping",
+    "kind": "service",
+    "lang": "en",
+    "path": "/en/services/industrial-mechanical-piping",
+    "source": "https://mabteknoloji.com.tr/en/services/industrial-mechanical-piping",
+    "title": "Industrial Mechanical Piping",
+    "description": "Installation of factory process lines, hydrocarbon, chemical, and utility piping.",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "We perform project design, isometric review, prefabrication, and site installation processes for piping systems in industrial facilities with precise welding craftsmanship."
+      },
+      {
+        "type": "p",
+        "text": "All welding and assembly operations are carried out by our field-experienced team and inspected using non-destructive testing methods."
+      }
+    ],
+    "images": [],
+    "tables": [
+      [
+        [
+          "Technical Parameter",
+          "Standard / Specification Value"
+        ],
+        [
+          "Malzeme Standartları",
+          "AISI 304, AISI 316, Karbon Çelik P235GH"
+        ],
+        [
+          "Kaynak Yöntemleri",
+          "TIG (141), Elektrot (111), MIG/MAG"
+        ],
+        [
+          "Boru Çap Aralığı",
+          "DN15 - DN500"
+        ],
+        [
+          "Basınç Sınıfı",
+          "PN16 / PN40 / PN100 (Class 150-600)"
+        ]
+      ]
+    ],
+    "options": [],
+    "values": [],
+    "meta": [
+      {
+        "key": "Category",
+        "value": "Industrial Piping & Mechanical Installation"
+      },
+      {
+        "key": "Field Track Record",
+        "value": "20+ Years"
+      },
+      {
+        "key": "Compliance",
+        "value": "Technical Specification Compliant"
+      },
+      {
+        "key": "Scope",
+        "value": "Engineering, Fabrication, Assembly"
+      }
+    ],
+    "forms": [],
+    "seoTitle": "Industrial Mechanical Piping — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "piping",
+    "kind": "service",
+    "lang": "ru",
+    "path": "/ru/services/promyshlennyy-montazh-tekhnologicheskikh-truboprovodov",
+    "source": "https://mabteknoloji.com.tr/ru/services/promyshlennyy-montazh-tekhnologicheskikh-truboprovodov",
+    "title": "Промышленный монтаж технологических трубопроводов",
+    "description": "Монтаж заводских технологических линий, трубопроводов углеводородов, химических сред и вспомогательных систем.",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Мы выполняем проектирование, изометрический анализ, предварительное изготовление и монтаж трубопроводных систем промышленных объектов с прецизионным качеством сварных швов."
+      },
+      {
+        "type": "p",
+        "text": "Все сварочные и сборочные операции осуществляются квалифицированным персоналом с контролем методами неразрушающего контроля."
+      }
+    ],
+    "images": [],
+    "tables": [
+      [
+        [
+          "Технический параметр",
+          "Стандарт / Значение"
+        ],
+        [
+          "Malzeme Standartları",
+          "AISI 304, AISI 316, Karbon Çelik P235GH"
+        ],
+        [
+          "Kaynak Yöntemleri",
+          "TIG (141), Elektrot (111), MIG/MAG"
+        ],
+        [
+          "Boru Çap Aralığı",
+          "DN15 - DN500"
+        ],
+        [
+          "Basınç Sınıfı",
+          "PN16 / PN40 / PN100 (Class 150-600)"
+        ]
+      ]
+    ],
+    "options": [],
+    "values": [],
+    "meta": [
+      {
+        "key": "Категория",
+        "value": "Промышленные трубопроводы и механический монтаж"
+      },
+      {
+        "key": "Опыт на объектах",
+        "value": "20+ лет"
+      },
+      {
+        "key": "Стандарт исполнения",
+        "value": "В соответствии с техспецификацией"
+      },
+      {
+        "key": "Объем",
+        "value": "Проектирование, производство, монтаж"
+      }
+    ],
+    "forms": [],
+    "seoTitle": "Промышленный монтаж технологических трубопроводов — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "thermal",
+    "kind": "service",
+    "lang": "ar",
+    "path": "/ar/services/thermal-oil-and-steam-lines",
+    "source": "https://mabteknoloji.com.tr/ar/services/thermal-oil-and-steam-lines",
+    "title": "خطوط البخار والزيت الحراري",
+    "description": "أنابيب نقل الطاقة، ووصلات التمدد، وتركيب مجموعات الصمامات.",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "تشكل خطوط البخار والزيت الحراري العمود الفقري للطاقة في المنشآت الصناعية. نضمن العمل الآمن من خلال الحسابات الهندسية للتمدد الحراري، والوضع السليم لوصلات التمدد، وتركيب الصمامات."
+      }
+    ],
+    "images": [],
+    "tables": [
+      [
+        [
+          "المعيار الفني",
+          "المعيار / القيمة التطبيقية"
+        ],
+        [
+          "Akışkan Tipleri",
+          "Doymuş Buhar, Kızgın Buhar, Termal Yağ"
+        ],
+        [
+          "Çalışma Sıcaklığı",
+          "350°C'ye kadar proses hatları"
+        ],
+        [
+          "Yalıtım Standardı",
+          "Taşyünü ve Alüminyum / Paslanmaz Sac Kaplama"
+        ]
+      ]
+    ],
+    "options": [],
+    "values": [],
+    "meta": [
+      {
+        "key": "الفئة",
+        "value": "أنظمة البخار والأنظمة الحرارية"
+      },
+      {
+        "key": "الخبرة الميدانية",
+        "value": "20+ عاماً"
+      },
+      {
+        "key": "معيار التنفيذ",
+        "value": "مطابق للمواصفات الفنية"
+      },
+      {
+        "key": "النطاق",
+        "value": "التصميم، التصنيع، التركيب"
+      }
+    ],
+    "forms": [],
+    "seoTitle": "خطوط البخار والزيت الحراري — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "thermal",
+    "kind": "service",
+    "lang": "en",
+    "path": "/en/services/thermal-oil-and-steam-lines",
+    "source": "https://mabteknoloji.com.tr/en/services/thermal-oil-and-steam-lines",
+    "title": "Thermal Oil and Steam Lines",
+    "description": "Energy transmission piping, expansion joint, and valve group installation.",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Steam and thermal oil lines represent the energy backbones of industrial facilities. We ensure safe work through thermal expansion engineering, proper expansion joint placement, and valve train installation."
+      }
+    ],
+    "images": [],
+    "tables": [
+      [
+        [
+          "Technical Parameter",
+          "Standard / Specification Value"
+        ],
+        [
+          "Akışkan Tipleri",
+          "Doymuş Buhar, Kızgın Buhar, Termal Yağ"
+        ],
+        [
+          "Çalışma Sıcaklığı",
+          "350°C'ye kadar proses hatları"
+        ],
+        [
+          "Yalıtım Standardı",
+          "Taşyünü ve Alüminyum / Paslanmaz Sac Kaplama"
+        ]
+      ]
+    ],
+    "options": [],
+    "values": [],
+    "meta": [
+      {
+        "key": "Category",
+        "value": "Steam & Thermal Systems"
+      },
+      {
+        "key": "Field Track Record",
+        "value": "20+ Years"
+      },
+      {
+        "key": "Compliance",
+        "value": "Technical Specification Compliant"
+      },
+      {
+        "key": "Scope",
+        "value": "Engineering, Fabrication, Assembly"
+      }
+    ],
+    "forms": [],
+    "seoTitle": "Thermal Oil and Steam Lines — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "thermal",
+    "kind": "service",
+    "lang": "ru",
+    "path": "/ru/services/linii-para-i-termomasla",
+    "source": "https://mabteknoloji.com.tr/ru/services/linii-para-i-termomasla",
+    "title": "Линии пара и термомасла",
+    "description": "Монтаж трубопроводов передачи тепловой энергии, компенсаторов и запорно-регулирующей арматуры.",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Паропроводы и трубопроводы термомасла являются энергетической основой промышленных объектов. Мы обеспечиваем надежную работу благодаря расчетам теплового расширения, точной установке компенсаторов и монтажу арматурных узлов."
+      }
+    ],
+    "images": [],
+    "tables": [
+      [
+        [
+          "Технический параметр",
+          "Стандарт / Значение"
+        ],
+        [
+          "Akışkan Tipleri",
+          "Doymuş Buhar, Kızgın Buhar, Termal Yağ"
+        ],
+        [
+          "Çalışma Sıcaklığı",
+          "350°C'ye kadar proses hatları"
+        ],
+        [
+          "Yalıtım Standardı",
+          "Taşyünü ve Alüminyum / Paslanmaz Sac Kaplama"
+        ]
+      ]
+    ],
+    "options": [],
+    "values": [],
+    "meta": [
+      {
+        "key": "Категория",
+        "value": "Паровые и тепловые системы"
+      },
+      {
+        "key": "Опыт на объектах",
+        "value": "20+ лет"
+      },
+      {
+        "key": "Стандарт исполнения",
+        "value": "В соответствии с техспецификацией"
+      },
+      {
+        "key": "Объем",
+        "value": "Проектирование, производство, монтаж"
+      }
+    ],
+    "forms": [],
+    "seoTitle": "Линии пара и термомасла — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "stainless",
+    "kind": "project",
+    "lang": "en",
+    "path": "/en/projects/industrial-stainless-piping-and-column-distribution-line",
+    "source": "https://mabteknoloji.com.tr/en/projects/industrial-stainless-piping-and-column-distribution-line",
+    "title": "Industrial Stainless Piping and Column Distribution Line",
+    "description": "High-purity fluid transfer stainless pipe columns and flanged branch installation.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "Project Scope & Site Conditions"
+      },
+      {
+        "type": "p",
+        "text": "Narrow installation corridors and continuous operational requirements demanded extreme precision."
+      },
+      {
+        "type": "h2",
+        "text": "Engineering & Installation Solution"
+      },
+      {
+        "type": "p",
+        "text": "Prefabricated stainless spools were joined on site using precision TIG welding."
+      },
+      {
+        "type": "h2",
+        "text": "Outcome & Operating Reliability"
+      },
+      {
+        "type": "p",
+        "text": "All welded joints passed hydrostatic and penetrant inspection with zero defects."
+      }
+    ],
+    "images": [
+      {
+        "key": "1-44-kspMeuvS",
+        "alt": "Stainless steel piping and flanges",
+        "caption": ""
+      },
+      {
+        "key": "1-11-6FCPOeYc",
+        "alt": "Stainless piping and steel supports",
+        "caption": "Saha borulama montaj detayı #2"
+      },
+      {
+        "key": "1-12-LSRvMWXf",
+        "alt": "MAB Teknoloji service information graphic",
+        "caption": "Saha borulama montaj detayı #3"
+      },
+      {
+        "key": "1-14-swPI4ROa",
+        "alt": "Profiled sheet industrial enclosure",
+        "caption": "Saha borulama montaj detayı #4"
+      }
+    ],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [
+      {
+        "key": "Category",
+        "value": "Industrial Piping & Mechanical Installation"
+      },
+      {
+        "key": "Related Service",
+        "value": "Industrial Mechanical Piping"
+      },
+      {
+        "key": "Year",
+        "value": "2024"
+      },
+      {
+        "key": "Field Track Record",
+        "value": "20+ Years"
+      },
+      {
+        "key": "Standard",
+        "value": "Technical Specification Compliant"
+      }
+    ],
+    "forms": [],
+    "seoTitle": "Industrial Stainless Piping and Column Distribution Line — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "stainless",
+    "kind": "project",
+    "lang": "ar",
+    "path": "/ar/projects/industrial-stainless-piping-ar",
+    "source": "https://mabteknoloji.com.tr/ar/projects/industrial-stainless-piping-ar",
+    "title": "تمديدات الأنابيب الصناعية المقاومة للصدأ وخطوط التوزيع",
+    "description": "تركيب أعمدة الأنابيب المقاومة للصدأ والتفريعات ذات الشفاه لنقل السوائل عالية النقاء في خطوط العمليات.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "نطاق المشروع وظروف الموقع"
+      },
+      {
+        "type": "p",
+        "text": "تطلبت الممرات الضيقة في المنشأة القائمة والحاجة إلى عدم انقطاع سير العمل دقة هندسية عالية أثناء التركيب الميداني. وتطلب تثبيت الأنابيب الرأسية بين الطوابق دعامات مخمدة للاهتزاز."
+      },
+      {
+        "type": "h2",
+        "text": "الحل الهندسي والتنفيذي"
+      },
+      {
+        "type": "p",
+        "text": "تم لحام وتجميع الأنابيب مسبقة الصنع في الموقع باستخدام تقنية لحام TIG. وجرى تركيب الوصلات ذات الشفاه وأنظمة التعليق القابلة للتعديل لضمان اتجاه التدفق الأمثل."
+      },
+      {
+        "type": "h2",
+        "text": "النتائج والموثوقية التشغيلية"
+      },
+      {
+        "type": "p",
+        "text": "اجتازت جميع الوصلات الملحومة اختبارات الضغط الهيدروستاتيكي والفحص التغلغلي دون أي عيوب."
+      }
+    ],
+    "images": [
+      {
+        "key": "1-44-kspMeuvS",
+        "alt": "أنابيب مقاومة للصدأ ووصلات فلنجية",
+        "caption": ""
+      },
+      {
+        "key": "1-11-6FCPOeYc",
+        "alt": "أنابيب مقاومة للصدأ ودعامات فولاذية",
+        "caption": "Saha borulama montaj detayı #2"
+      },
+      {
+        "key": "1-12-LSRvMWXf",
+        "alt": "صورة تعريفية بخدمات ماب تكنولوجي",
+        "caption": "Saha borulama montaj detayı #3"
+      },
+      {
+        "key": "1-14-swPI4ROa",
+        "alt": "كابينة صناعية مكسوة بصفائح معدنية",
+        "caption": "Saha borulama montaj detayı #4"
+      }
+    ],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [
+      {
+        "key": "الفئة",
+        "value": "الأنابيب الصناعية والتركيبات الميكانيكية"
+      },
+      {
+        "key": "الخدمة المرتبطة",
+        "value": "تمديد الأنابيب الميكانيكية الصناعية"
+      },
+      {
+        "key": "السنة",
+        "value": "2024"
+      },
+      {
+        "key": "الخبرة الميدانية",
+        "value": "20+ عاماً من الخبرة"
+      },
+      {
+        "key": "معيار التنفيذ",
+        "value": "مطابق للمواصفات الفنية"
+      }
+    ],
+    "forms": [],
+    "seoTitle": "تمديدات الأنابيب الصناعية المقاومة للصدأ وخطوط التوزيع — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "stainless",
+    "kind": "project",
+    "lang": "ru",
+    "path": "/ru/projects/promyshlennye-truboprovody-iz-nerzhaveyushchey-stali",
+    "source": "https://mabteknoloji.com.tr/ru/projects/promyshlennye-truboprovody-iz-nerzhaveyushchey-stali",
+    "title": "Промышленные трубопроводы из нержавеющей стали и распределительные колонны",
+    "description": "Монтаж колонн трубопроводов из нержавеющей стали и фланцевых ответвлений для перекачки технологических сред высокой чистоты.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "Объем проекта и условия на площадке"
+      },
+      {
+        "type": "p",
+        "text": "Стесненные монтажные коридоры на действующем объекте и непрерывный технологический цикл требовали максимальной точности монтажа. Вертикальные участки между ярусами требовали жесткой фиксации на виброгасящих опорах."
+      },
+      {
+        "type": "h2",
+        "text": "Инженерное решение и монтаж"
+      },
+      {
+        "type": "p",
+        "text": "Укрупненные трубные узлы заводской готовности сваривались на объекте методом аргонодуговой сварки TIG. Для обеспечения расчетных потоков применены прецизионные регулируемые подвесные системы и фланцевые соединения."
+      },
+      {
+        "type": "h2",
+        "text": "Результат и эксплуатационная надежность"
+      },
+      {
+        "type": "p",
+        "text": "Все сварные соединения прошли гидростатические испытания и капиллярный контроль с нулевым уровнем дефектов."
+      }
+    ],
+    "images": [
+      {
+        "key": "1-44-kspMeuvS",
+        "alt": "Нержавеющие трубопроводы и фланцы",
+        "caption": ""
+      },
+      {
+        "key": "1-11-6FCPOeYc",
+        "alt": "Нержавеющие трубы и стальные опоры",
+        "caption": "Saha borulama montaj detayı #2"
+      },
+      {
+        "key": "1-12-LSRvMWXf",
+        "alt": "Информационный материал об услугах MAB",
+        "caption": "Saha borulama montaj detayı #3"
+      },
+      {
+        "key": "1-14-swPI4ROa",
+        "alt": "Промышленный кожух из профлиста",
+        "caption": "Saha borulama montaj detayı #4"
+      }
+    ],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [
+      {
+        "key": "Категория",
+        "value": "Промышленные трубопроводы и механический монтаж"
+      },
+      {
+        "key": "Связанная услуга",
+        "value": "Промышленный монтаж технологических трубопроводов"
+      },
+      {
+        "key": "Год",
+        "value": "2024"
+      },
+      {
+        "key": "Опыт на объектах",
+        "value": "20+ лет опыта"
+      },
+      {
+        "key": "Стандарт исполнения",
+        "value": "В соответствии с техспецификацией"
+      }
+    ],
+    "forms": [],
+    "seoTitle": "Промышленные трубопроводы из нержавеющей стали и распределительные колонны — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "coil",
+    "kind": "project",
+    "lang": "en",
+    "path": "/en/projects/fabrication-of-process-steam-and-heating-coil-manifolds",
+    "source": "https://mabteknoloji.com.tr/en/projects/fabrication-of-process-steam-and-heating-coil-manifolds",
+    "title": "Fabrication of Process Steam and Heating Coil Manifolds",
+    "description": "Fabrication and assembly of high-pressure and temperature-resistant heating coil bundles and manifolds for industrial processes.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "Project Scope & Site Conditions"
+      },
+      {
+        "type": "p",
+        "text": "Thermal expansion management and uniform spacing of heating coil tube bundles were critical parameters in a high-temperature transfer process environment."
+      },
+      {
+        "type": "h2",
+        "text": "Engineering & Installation Solution"
+      },
+      {
+        "type": "p",
+        "text": "Seamless steel pipes formed in specialized bending fixtures were welded to manifold shells in precise positions followed by stress relieving procedures."
+      },
+      {
+        "type": "h2",
+        "text": "Outcome & Operating Reliability"
+      },
+      {
+        "type": "p",
+        "text": "Following successful hydrostatic and leak integrity testing, heating bundles were dispatched to the site and installed."
+      }
+    ],
+    "images": [
+      {
+        "key": "1-38-pvQ8DSzu",
+        "alt": "Underground pipeline and flowmeter",
+        "caption": ""
+      },
+      {
+        "key": "1-41-trk2Yeua",
+        "alt": "Industrial equipment and platform",
+        "caption": "Isıtma serpantin demeti montaj detayı #2"
+      }
+    ],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [
+      {
+        "key": "Category",
+        "value": "Industrial Piping & Mechanical Installation"
+      },
+      {
+        "key": "Related Service",
+        "value": "Industrial Mechanical Piping"
+      },
+      {
+        "key": "Year",
+        "value": "2023"
+      },
+      {
+        "key": "Field Track Record",
+        "value": "20+ Years"
+      },
+      {
+        "key": "Standard",
+        "value": "Technical Specification Compliant"
+      }
+    ],
+    "forms": [],
+    "seoTitle": "Fabrication of Process Steam and Heating Coil Manifolds — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "coil",
+    "kind": "project",
+    "lang": "ar",
+    "path": "/ar/projects/process-steam-and-heating-coil-manifold",
+    "source": "https://mabteknoloji.com.tr/ar/projects/process-steam-and-heating-coil-manifold",
+    "title": "تصنيع مجمعات وموزعات ملفات البخار والتدفئة للعمليات الصناعية",
+    "description": "تصنيع وتجميع حزم ملفات التدفئة ومجمعات التوزيع المقاومة للضغط ودرجات الحرارة المرتفعة للعمليات الصناعية.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "نطاق المشروع وظروف الموقع"
+      },
+      {
+        "type": "p",
+        "text": "كانت معالجة التمدد الحراري وضمان التوزيع المتجانس لحزم الأنابيب من المعايير الهندسية الدقيقة في بيئة العمليات عالية الحرارة."
+      },
+      {
+        "type": "h2",
+        "text": "الحل الهندسي والتنفيذي"
+      },
+      {
+        "type": "p",
+        "text": "تم ثني الأنابيب الفولاذية غير الملحومة في قوالب مخصصة ولحامها على أجسام المجمعات في وضعيات لحام دقيقة مع معالجة إزالة الإجهادات."
+      },
+      {
+        "type": "h2",
+        "text": "النتائج والموثوقية التشغيلية"
+      },
+      {
+        "type": "p",
+        "text": "بعد اجتياز اختبارات الضغط الهيدروستاتيكي وإحكام التسريب بنجاح، تم شحن حزم التدفئة إلى الموقع وتركيبها."
+      }
+    ],
+    "images": [
+      {
+        "key": "1-38-pvQ8DSzu",
+        "alt": "خط أنابيب تحت الأرض ومقياس تدفق",
+        "caption": ""
+      },
+      {
+        "key": "1-41-trk2Yeua",
+        "alt": "معدات صناعية ومنصة",
+        "caption": "Isıtma serpantin demeti montaj detayı #2"
+      }
+    ],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [
+      {
+        "key": "الفئة",
+        "value": "الأنابيب الصناعية والتركيبات الميكانيكية"
+      },
+      {
+        "key": "الخدمة المرتبطة",
+        "value": "تمديد الأنابيب الميكانيكية الصناعية"
+      },
+      {
+        "key": "السنة",
+        "value": "2023"
+      },
+      {
+        "key": "الخبرة الميدانية",
+        "value": "20+ عاماً من الخبرة"
+      },
+      {
+        "key": "معيار التنفيذ",
+        "value": "مطابق للمواصفات الفنية"
+      }
+    ],
+    "forms": [],
+    "seoTitle": "تصنيع مجمعات وموزعات ملفات البخار والتدفئة للعمليات الصناعية — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "coil",
+    "kind": "project",
+    "lang": "ru",
+    "path": "/ru/projects/izgotovlenie-parovykh-zmeevikov-i-kollektorov-nagreva",
+    "source": "https://mabteknoloji.com.tr/ru/projects/izgotovlenie-parovykh-zmeevikov-i-kollektorov-nagreva",
+    "title": "Изготовление технологических паровых змеевиков и коллекторов нагрева",
+    "description": "Изготовление и сборка устойчивых к высоким давлениям и температурам змеевиковых пучков и распределительных коллекторов для промышленных процессов.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "Объем проекта и условия на площадке"
+      },
+      {
+        "type": "p",
+        "text": "Компенсация температурных расширений в условиях высокотемпературного теплообмена и обеспечение равномерного шага змеевиковых трубных пучков являлись ключевыми задачами."
+      },
+      {
+        "type": "h2",
+        "text": "Инженерное решение и монтаж"
+      },
+      {
+        "type": "p",
+        "text": "Бесшовные стальные трубы, изогнутые на прецизионных гибочных шаблонах, приварены к корпусам коллекторов с последующей термообработкой для снятия внутренних напряжений."
+      },
+      {
+        "type": "h2",
+        "text": "Результат и эксплуатационная надежность"
+      },
+      {
+        "type": "p",
+        "text": "После успешных гидроиспытаний на прочность и плотность нагревательные пучки доставлены на объект и смонтированы."
+      }
+    ],
+    "images": [
+      {
+        "key": "1-38-pvQ8DSzu",
+        "alt": "Подземный трубопровод и расходомер",
+        "caption": ""
+      },
+      {
+        "key": "1-41-trk2Yeua",
+        "alt": "Промышленное оборудование и платформа",
+        "caption": "Isıtma serpantin demeti montaj detayı #2"
+      }
+    ],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [
+      {
+        "key": "Категория",
+        "value": "Промышленные трубопроводы и механический монтаж"
+      },
+      {
+        "key": "Связанная услуга",
+        "value": "Промышленный монтаж технологических трубопроводов"
+      },
+      {
+        "key": "Год",
+        "value": "2023"
+      },
+      {
+        "key": "Опыт на объектах",
+        "value": "20+ лет опыта"
+      },
+      {
+        "key": "Стандарт исполнения",
+        "value": "В соответствии с техспецификацией"
+      }
+    ],
+    "forms": [],
+    "seoTitle": "Изготовление технологических паровых змеевиков и коллекторов нагрева — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "steel",
+    "kind": "project",
+    "lang": "en",
+    "path": "/en/projects/heavy-steel-structure-canopy-and-load-bearing-framework",
+    "source": "https://mabteknoloji.com.tr/en/projects/heavy-steel-structure-canopy-and-load-bearing-framework",
+    "title": "Heavy Steel Structure Canopy and Load-Bearing Framework",
+    "description": "Erection of high-strength steel truss girders and column framework for facility open storage and operation areas.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "Project Scope & Site Conditions"
+      },
+      {
+        "type": "p",
+        "text": "Managing crane operations safely for large-span steel canopy erection without interrupting active in-plant vehicle traffic required detailed planning."
+      },
+      {
+        "type": "h2",
+        "text": "Engineering & Installation Solution"
+      },
+      {
+        "type": "p",
+        "text": "Modular shop-fabricated steel truss assemblies were joined on site with bolted and welded connections, followed by an industrial protective anti-corrosion coating system."
+      },
+      {
+        "type": "h2",
+        "text": "Outcome & Operating Reliability"
+      },
+      {
+        "type": "p",
+        "text": "Completed in accordance with the project schedule, the heavy steel framework safely expanded the facility logistics capacity."
+      }
+    ],
+    "images": [
+      {
+        "key": "1-27-ceoK89re",
+        "alt": "Structural steel canopy",
+        "caption": ""
+      },
+      {
+        "key": "1-29-d4pyra1Y",
+        "alt": "Industrial steel support platform",
+        "caption": "Çelik kanopi montaj karesi #2"
+      }
+    ],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [
+      {
+        "key": "Category",
+        "value": "Industrial Piping & Mechanical Installation"
+      },
+      {
+        "key": "Related Service",
+        "value": "Industrial Mechanical Piping"
+      },
+      {
+        "key": "Year",
+        "value": "2023"
+      },
+      {
+        "key": "Field Track Record",
+        "value": "20+ Years"
+      },
+      {
+        "key": "Standard",
+        "value": "Technical Specification Compliant"
+      }
+    ],
+    "forms": [],
+    "seoTitle": "Heavy Steel Structure Canopy and Load-Bearing Framework — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "steel",
+    "kind": "project",
+    "lang": "ar",
+    "path": "/ar/projects/heavy-steel-structure-canopy",
+    "source": "https://mabteknoloji.com.tr/ar/projects/heavy-steel-structure-canopy",
+    "title": "المظلات الفولاذية الإنشائية الثقيلة والهياكل الحاملة",
+    "description": "تركيب الجسور الشبكية الفولاذية عالية المقاومة وهياكل الأعمدة لساحات التخزين والعمليات المكشوفة بالمنشأة.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "نطاق المشروع وظروف الموقع"
+      },
+      {
+        "type": "p",
+        "text": "تطلبت إدارة عمليات الرافعات لتركيب المظلات الفولاذية ذات البحور الواسعة دون تعطيل حركة المرور النشطة داخل المنشأة تخطيطاً ميدانياً دقيقاً."
+      },
+      {
+        "type": "h2",
+        "text": "الحل الهندسي والتنفيذي"
+      },
+      {
+        "type": "p",
+        "text": "تم تجميع جملونات الفولاذ المصنعة مسبقاً في الموقع باستخدام وصلات ملولبة وملحومة، مع تطبيق نظام دهان صناعي واقٍ ومقاوم للتآكل."
+      },
+      {
+        "type": "h2",
+        "text": "النتائج والموثوقية التشغيلية"
+      },
+      {
+        "type": "p",
+        "text": "تم إنجاز الهيكل الفولاذي بالتزام صارم بالجدول الزمني، مما عزز الطاقة اللوجستية للمنشأة بأمان."
+      }
+    ],
+    "images": [
+      {
+        "key": "1-27-ceoK89re",
+        "alt": "مظلة فولاذية إنشائية",
+        "caption": ""
+      },
+      {
+        "key": "1-29-d4pyra1Y",
+        "alt": "منصة دعم فولاذية صناعية",
+        "caption": "Çelik kanopi montaj karesi #2"
+      }
+    ],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [
+      {
+        "key": "الفئة",
+        "value": "الأنابيب الصناعية والتركيبات الميكانيكية"
+      },
+      {
+        "key": "الخدمة المرتبطة",
+        "value": "تمديد الأنابيب الميكانيكية الصناعية"
+      },
+      {
+        "key": "السنة",
+        "value": "2023"
+      },
+      {
+        "key": "الخبرة الميدانية",
+        "value": "20+ عاماً من الخبرة"
+      },
+      {
+        "key": "معيار التنفيذ",
+        "value": "مطابق للمواصفات الفنية"
+      }
+    ],
+    "forms": [],
+    "seoTitle": "المظلات الفولاذية الإنشائية الثقيلة والهياكل الحاملة — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "steel",
+    "kind": "project",
+    "lang": "ru",
+    "path": "/ru/projects/tyazhelye-stalnye-konstruktsii-navesa-i-karkasa",
+    "source": "https://mabteknoloji.com.tr/ru/projects/tyazhelye-stalnye-konstruktsii-navesa-i-karkasa",
+    "title": "Тяжёлые стальные конструкции навеса и несущего каркаса",
+    "description": "Монтаж высокопрочных стальных ферм и колонного каркаса для открытых складских и технологических площадок предприятия.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "Объем проекта и условия на площадке"
+      },
+      {
+        "type": "p",
+        "text": "Безопасное выполнение крановых монтажных операций для большепролетных стальных конструкций без остановки внутризаводского транспортного движения."
+      },
+      {
+        "type": "h2",
+        "text": "Инженерное решение и монтаж"
+      },
+      {
+        "type": "p",
+        "text": "Модульные стропильные фермы заводского изготовления смонтированы на площадке на болтовых и сварных соединениях с нанесением системы антикоррозионной защиты."
+      },
+      {
+        "type": "h2",
+        "text": "Результат и эксплуатационная надежность"
+      },
+      {
+        "type": "p",
+        "text": "Металлокаркас возведен в строгом соответствии с графиком работ, надежно увеличив логистические возможности предприятия."
+      }
+    ],
+    "images": [
+      {
+        "key": "1-27-ceoK89re",
+        "alt": "Стальной навес",
+        "caption": ""
+      },
+      {
+        "key": "1-29-d4pyra1Y",
+        "alt": "Стальная опорная платформа",
+        "caption": "Çelik kanopi montaj karesi #2"
+      }
+    ],
+    "tables": [],
+    "options": [],
+    "values": [],
+    "meta": [
+      {
+        "key": "Категория",
+        "value": "Промышленные трубопроводы и механический монтаж"
+      },
+      {
+        "key": "Связанная услуга",
+        "value": "Промышленный монтаж технологических трубопроводов"
+      },
+      {
+        "key": "Год",
+        "value": "2023"
+      },
+      {
+        "key": "Опыт на объектах",
+        "value": "20+ лет опыта"
+      },
+      {
+        "key": "Стандарт исполнения",
+        "value": "В соответствии с техспецификацией"
+      }
+    ],
+    "forms": [],
+    "seoTitle": "Тяжёлые стальные конструкции навеса и несущего каркаса — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "melting",
+    "kind": "solution",
+    "lang": "ar",
+    "path": "/ar/special-solutions/custom-design-melting-cabins",
+    "source": "https://mabteknoloji.com.tr/ar/special-solutions/custom-design-melting-cabins",
+    "title": "كبائن الصهر ذات التصميم المخصص",
+    "description": "حلول كبائن مصممة ومصنعة خصيصاً لعمليات صهر المواد الأولية في الصناعات الكيميائية والغذائية والزيوت وفق متطلبات الموقع.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "حلول تسخين وصهر المواد الخام الصناعية"
+      },
+      {
+        "type": "p",
+        "text": "يتم تطوير أنظمة كبائن الصهر المصممة خصيصاً لإذابة المواد الصلبة أو عالية اللزوجة بطريقة محكومة، متجانسة وآمنة لعمليات الصناعات الكيميائية، البتروكيماوية، الغذائية، الزيوت الصناعية ومعالجة المواد الخام."
+      },
+      {
+        "type": "p",
+        "text": "تقوم ماب تكنولوجي بتصميم وتصنيع كبائن صهر ذات تصميم خاص وفق مساحة المنشأة والبنية التحتية للطاقة المتاحة."
+      }
+    ],
+    "images": [],
+    "tables": [],
+    "options": [
+      {
+        "title": "خيارات السعة",
+        "description": "تخطيط وتحديد أبعاد السعة وفق متطلبات المنشأة وحجم دفعات العمليات الصناعية.",
+        "items": [
+          "تصميم سعة مخصص للعميل",
+          "تخطيط الأبعاد والمساحات بما يناسب مخطط المصنع",
+          "تخطيط مريح لعمليات تحميل البراميل والحاويات (IBC)"
+        ]
+      },
+      {
+        "title": "الخيارات الإنشائية والهيكلية",
+        "description": "هيكل كابينة متين مصمم ليتوافق مع ظروف التشغيل والبنية التحتية الإنشائية.",
+        "items": [
+          "هيكل كابينة خرساني",
+          "هيكل كابينة من المنشآت الفولاذية",
+          "خيارات هيكلية هجينة من الخرسانة والفولاذ"
+        ]
+      },
+      {
+        "title": "حلول الطاقة والتسخين",
+        "description": "خيارات تسخين مرنة تتكامل مع مصادر الطاقة المتاحة في المنشأة.",
+        "items": [
+          "تسخين بالبخار",
+          "تسخين بالزيت الحراري (الساخن)",
+          "تسخين بالكهرباء",
+          "تسخين بالغاز الطبيعي"
+        ]
+      },
+      {
+        "title": "التحكم والأتمتة",
+        "description": "إدارة حرارية دقيقة ومنظومة تحكم تحافظ على خصائص المواد الخام دون احتراق.",
+        "items": [
+          "تحكم دقيق بدرجات الحرارة",
+          "تحكم محلي و/أو عن بعد",
+          "مقصورات منفصلة بإدارة حرارية مستقلة"
+        ]
+      }
+    ],
+    "values": [],
+    "meta": [
+      {
+        "key": "نوع الهيكل",
+        "value": "خرسانة / فولاذ / هجين"
+      },
+      {
+        "key": "مصدر التسخين",
+        "value": "بخار، زيت، كهرباء، غاز"
+      },
+      {
+        "key": "إدارة الحرارة",
+        "value": "متعدد المقصورات المستقلة"
+      },
+      {
+        "key": "نظام التحكم",
+        "value": "محلي / عن بعد"
+      }
+    ],
+    "forms": [],
+    "seoTitle": "كبائن الصهر ذات التصميم المخصص — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "melting",
+    "kind": "solution",
+    "lang": "en",
+    "path": "/en/special-solutions/custom-design-melting-cabins",
+    "source": "https://mabteknoloji.com.tr/en/special-solutions/custom-design-melting-cabins",
+    "title": "Custom Design Melting Cabins",
+    "description": "Cabin solutions engineered and fabricated for site-specific raw material melting processes in the chemical, food, lubricants, and process industries.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "Industrial Raw Material Heating and Melting Solutions"
+      },
+      {
+        "type": "p",
+        "text": "Custom engineered melting cabin systems are developed to melt solidified or high-viscosity materials in a controlled, uniform, and safe manner for chemical, petrochemical, food, lubricant, and industrial raw material processing."
+      },
+      {
+        "type": "p",
+        "text": "MAB Teknoloji designs and fabricates Special Design Melting Cabins tailored to plant layout dimensions and available energy utilities."
+      }
+    ],
+    "images": [],
+    "tables": [],
+    "options": [
+      {
+        "title": "Capacity Configurations",
+        "description": "Custom dimensional planning according to plant throughput and process batch volume.",
+        "items": [
+          "Customer-specific capacity design",
+          "Dimensional planning suited to plant floor layout",
+          "Ergonomic loading orientation for barrels, IBCs or totes"
+        ]
+      },
+      {
+        "title": "Structural Construction",
+        "description": "Heavy-duty cabin enclosure matching operational conditions and civil infrastructure.",
+        "items": [
+          "Concrete cabin enclosure structure",
+          "Steel construction cabin enclosure structure",
+          "Hybrid concrete and steel construction alternatives"
+        ]
+      },
+      {
+        "title": "Heating & Energy Media",
+        "description": "Thermal integration flexible with available plant energy sources.",
+        "items": [
+          "Steam heating coils / radiator grid",
+          "Thermal oil (hot oil) closed circuit heating",
+          "Electric heating elements",
+          "Natural gas heating integration"
+        ]
+      },
+      {
+        "title": "Control & Automation",
+        "description": "Precise thermal instrumentation preserving raw material integrity without scorching.",
+        "items": [
+          "Precise temperature control",
+          "Local and/or remote control capability",
+          "Separate compartments with independent temperature zoning"
+        ]
+      }
+    ],
+    "values": [],
+    "meta": [
+      {
+        "key": "Structure",
+        "value": "Concrete / Steel / Hybrid"
+      },
+      {
+        "key": "Heating Media",
+        "value": "Steam, Oil, Electric, Gas"
+      },
+      {
+        "key": "Zoning",
+        "value": "Independent Multi-Zone"
+      },
+      {
+        "key": "Control",
+        "value": "Local & Remote"
+      }
+    ],
+    "forms": [],
+    "seoTitle": "Custom Design Melting Cabins — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  },
+  {
+    "id": "melting",
+    "kind": "solution",
+    "lang": "ru",
+    "path": "/ru/special-solutions/plavilnye-kabiny-individualnogo-proektirovaniya",
+    "source": "https://mabteknoloji.com.tr/ru/special-solutions/plavilnye-kabiny-individualnogo-proektirovaniya",
+    "title": "Плавильные кабины индивидуального проектирования",
+    "description": "Индивидуально проектируемые и изготавливаемые кабины плавления сырья для технологических процессов в химической, пищевой промышленности и производстве масел.",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "Решения для нагрева и плавления промышленного сырья"
+      },
+      {
+        "type": "p",
+        "text": "Системы плавильных камер специальной конструкции разрабатываются для контролируемого, равномерного и безопасного плавления затвердевших или высоковязких материалов в химической, нефтехимической, пищевой промышленности, производстве смазочных материалов и переработке сырья."
+      },
+      {
+        "type": "p",
+        "text": "MAB Teknoloji выполняет проектирование и производство плавильных камер специальной конструкции с учетом параметров производственной площадки и имеющейся энергетической инфраструктуры."
+      }
+    ],
+    "images": [],
+    "tables": [],
+    "options": [
+      {
+        "title": "Варианты вместимости",
+        "description": "Индивидуальное проектирование вместимости в соответствии с требованиями предприятия и объемом технологических партий.",
+        "items": [
+          "Индивидуальное проектирование объема",
+          "Планирование габаритов под планировку цеха",
+          "Эргономичная загрузка бочек, еврокубов и контейнеров"
+        ]
+      },
+      {
+        "title": "Конструктивные варианты",
+        "description": "Прочная конструкция камеры, соответствующая условиям эксплуатации и инфраструктуре здания.",
+        "items": [
+          "Бетонная конструкция камеры",
+          "Металлокаркасная конструкция камеры",
+          "Гибридные варианты: бетон и металлоконструкции"
+        ]
+      },
+      {
+        "title": "Энергоресурсы и нагрев",
+        "description": "Источники тепла, интегрируемые с имеющейся в цехе энергетической инфраструктурой.",
+        "items": [
+          "Паровой обогрев (змеевики / регистры)",
+          "Обогрев диатермическим маслом",
+          "Электрический нагрев",
+          "Обогрев природным газом"
+        ]
+      },
+      {
+        "title": "Контроль и автоматизация",
+        "description": "Точное регулирование температуры и система управления, предотвращающая перегрев сырья.",
+        "items": [
+          "Высокоточное поддержание температуры",
+          "Локальное и/или удаленное управление",
+          "Изолированные секции с раздельной терморегуляцией"
+        ]
+      }
+    ],
+    "values": [],
+    "meta": [
+      {
+        "key": "Конструкция",
+        "value": "Бетон / Сталь / Гибрид"
+      },
+      {
+        "key": "Источник тепла",
+        "value": "Пар, термомасло, электричество, газ"
+      },
+      {
+        "key": "Зонирование",
+        "value": "Независимые зоны"
+      },
+      {
+        "key": "Управление",
+        "value": "Локальное / удаленное"
+      }
+    ],
+    "forms": [],
+    "seoTitle": "Плавильные кабины индивидуального проектирования — MAB Teknoloji",
+    "status": "published",
+    "modified": "2026-09-13"
+  }
+]

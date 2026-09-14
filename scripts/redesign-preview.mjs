@@ -1,0 +1,7 @@
+import {chromium} from '@playwright/test';
+import fs from 'node:fs';
+const browser=await chromium.launch();const context=await browser.newContext({viewport:{width:1440,height:1000}});await context.addInitScript(()=>{sessionStorage.setItem('mab-visited-v2','1');localStorage.setItem('mab-theme-v2','light')});const page=await context.newPage();const errors=[];page.on('pageerror',e=>errors.push(e.message));fs.mkdirSync('reports/redesign/screenshots',{recursive:true});
+for(const [id,path,theme,width] of [['home','/tr','light',1440],['home','/tr','dark',1440],['blog','/tr/blog','light',1440],['article','/tr/blog/endustriyel-borulama-proje-planlamasi','dark',1440],['home','/tr','light',390],['blog','/tr/blog','dark',390],['home','/ar','dark',390]]){
+ await page.setViewportSize({width,height:1000});await page.goto('http://localhost:5173'+path,{waitUntil:'networkidle'});await page.evaluate(theme=>{document.documentElement.dataset.theme=theme;document.querySelectorAll('img').forEach(x=>x.loading='eager')},theme);await page.waitForFunction(()=>[...document.images].every(x=>x.complete));await page.screenshot({path:`reports/redesign/screenshots/${id}-${path.split('/')[1]}-${theme}-${width}.png`,fullPage:true});if(id==='home'&&width===1440)await page.screenshot({path:`reports/redesign/screenshots/hero-${theme}.png`});console.log(id,theme,width,await page.evaluate(()=>({overflow:document.documentElement.scrollWidth>innerWidth,broken:[...document.images].filter(x=>!x.naturalWidth).map(x=>x.src)})));
+}
+console.log('Page errors',errors);await browser.close();
