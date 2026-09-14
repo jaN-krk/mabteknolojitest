@@ -1,5 +1,5 @@
 import {notFound} from 'next/navigation';
-import {env} from 'cloudflare:workers';
+import {env} from '@/lib/runtime-env';
 import {Layout,Home} from '@/components/site';
 import {ContentPageView} from '@/components/content-pages';
 import {loadPages,loadDraft} from '@/lib/server-content';

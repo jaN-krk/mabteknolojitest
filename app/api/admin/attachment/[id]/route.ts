@@ -1,3 +1,3 @@
-import {env} from 'cloudflare:workers';
+import {env} from '@/lib/runtime-env';
 import {adminUser} from '@/lib/admin';
 export async function GET(_request:Request,{params}:{params:Promise<{id:string}>}){if(!await adminUser())return new Response('Forbidden',{status:403});const {id}=await params;if(!/^[a-f0-9-]{36}$/.test(id)||!env.DB||!env.BUCKET)return new Response('Not found',{status:404});const row=await env.DB.prepare('SELECT attachment,filename FROM submissions WHERE id=?').bind(id).first<{attachment:string;filename:string}>();if(!row?.attachment)return new Response('Not found',{status:404});const object=await env.BUCKET.get(row.attachment);if(!object)return new Response('Not found',{status:404});return new Response(object.body,{headers:{'Content-Type':'application/octet-stream','Content-Disposition':`attachment; filename*=UTF-8''${encodeURIComponent(row.filename)}`,'Cache-Control':'no-store','X-Content-Type-Options':'nosniff'}})}

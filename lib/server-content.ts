@@ -1,4 +1,4 @@
-import {env} from 'cloudflare:workers';
+import {env} from '@/lib/runtime-env';
 import {cache} from 'react';
 import {pages,type ContentPage} from './content';
 export const loadPages=cache(async():Promise<ContentPage[]>=>{

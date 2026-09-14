@@ -1,6 +1,9 @@
+import {platform} from '@/lib/runtime-env';
+import {validAdminCredentials} from './lib/admin-credentials';
 import { NextRequest, NextResponse } from 'next/server';
-export function middleware(request: NextRequest) {
+export function proxy(request: NextRequest) {
  const path=request.nextUrl.pathname;
+ if(platform==='node'&&(path==='/admin'||path.startsWith('/api/admin'))){if(!validAdminCredentials(request.headers.get('authorization')))return new NextResponse('Yetkili yönetici girişi gerekli.',{status:401,headers:{'WWW-Authenticate':'Basic realm="MAB Yonetim", charset="UTF-8"','Cache-Control':'no-store','X-Robots-Tag':'noindex'}})}
  if(path==='/') return NextResponse.redirect(new URL('/tr',request.url),301);
  if(path.length>1 && path.endsWith('/'))return NextResponse.redirect(new URL(path.slice(0,-1)+request.nextUrl.search,request.url),301);
  const headers=new Headers(request.headers);

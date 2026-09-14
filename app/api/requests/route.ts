@@ -1,4 +1,4 @@
-import {env} from 'cloudflare:workers';
+import {env} from '@/lib/runtime-env';
 import {requestSchema,verifyToken,validFile,hash} from '@/lib/form-security';
 import {notifySubmission} from '@/lib/lead-delivery';
 const reply=(error:string,status:number)=>Response.json({error},{status,headers:{'Cache-Control':'no-store'}});
@@ -6,10 +6,10 @@ const accepted=(id:string)=>Response.json({id,received:true},{headers:{'Cache-Co
 export async function POST(request:Request){
  if(request.headers.get('origin')!==new URL(request.url).origin)return reply('spam',403);
  if(!env.DB||!env.BUCKET||!env.FORM_SECRET)return reply('unconfigured',503);
- const max=11*1024*1024;if(Number(request.headers.get('content-length')||0)>max)return reply('invalidFile',413);
+ const max=4*1024*1024;if(Number(request.headers.get('content-length')||0)>max)return reply('invalidFile',413);
  let ownedId='',ownedClaim='';
  try{
-  const now=Date.now();const key=await hash(env.FORM_SECRET+':early:'+(request.headers.get('cf-connecting-ip')||'local')+':'+Math.floor(now/900000));
+  const now=Date.now();const ip=process.env.VERCEL?request.headers.get('x-forwarded-for')?.split(',')[0].trim():request.headers.get('cf-connecting-ip');const key=await hash(env.FORM_SECRET+':early:'+(ip||'local')+':'+Math.floor(now/900000));
   const limit=await env.DB.prepare('INSERT INTO rate_limits(key,count,expires) VALUES(?,1,?) ON CONFLICT(key) DO UPDATE SET count=count+1 RETURNING count').bind(key,now+900000).first<{count:number}>();
   if((limit?.count||0)>20)return reply('rate',429);
   await env.DB.prepare('DELETE FROM rate_limits WHERE expires < ?').bind(now).run();
@@ -20,7 +20,7 @@ export async function POST(request:Request){
   const parsed=requestSchema.safeParse(Object.fromEntries(Array.from(form.entries()).filter(([k])=>k!=='file')));if(!parsed.success)return reply('validation',400);
   const data=parsed.data;if(!await verifyToken(env.FORM_SECRET,data.token))return reply('spam',400);
   const file=form.get('file');let bytes:Uint8Array|null=null,filename:string|null=null,type='';
-  if(file instanceof File&&file.size){if(file.size>10*1024*1024)return reply('invalidFile',413);bytes=new Uint8Array(await file.arrayBuffer());type=file.type;if(!validFile(bytes,type))return reply('invalidFile',400);filename=file.name.replace(/[\r\n<>]/g,'').slice(0,180)}
+  if(file instanceof File&&file.size){if(file.size>3*1024*1024)return reply('invalidFile',413);bytes=new Uint8Array(await file.arrayBuffer());type=file.type;if(!validFile(bytes,type))return reply('invalidFile',400);filename=file.name.replace(/[\r\n<>]/g,'').slice(0,180)}
   const {token,website,...payload}=data;void token;void website;
   const fileDigest=bytes?Array.from(new Uint8Array(await crypto.subtle.digest('SHA-256',new Uint8Array(bytes))),v=>v.toString(16).padStart(2,'0')).join(''):'';
   const digest=await hash(JSON.stringify(payload)+'\n'+JSON.stringify([filename,type,fileDigest]));

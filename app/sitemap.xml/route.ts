@@ -1,3 +1,4 @@
+export const dynamic='force-dynamic';
 import {loadPages} from '@/lib/server-content';
 import {ORIGIN,type ContentPage} from '@/lib/content';
 import {isIndexable,pageImage} from '@/lib/seo';

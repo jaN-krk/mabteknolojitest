@@ -3,13 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "engines": {
-    "node": ">=22.13.0"
+    "node": "24.x"
   },
   "scripts": {
     "install:ci": "node scripts/install-ci.mjs",
-    "dev": "node scripts/run-framework.mjs dev",
-    "build": "node scripts/run-framework.mjs build",
-    "start": "node scripts/start-preview.mjs",
+    "dev": "next dev --hostname 127.0.0.1 --port 5173",
+    "build": "node scripts/build-route-index.mjs && next build",
+    "start": "next start --hostname 127.0.0.1",
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next",
     "db:generate": "drizzle-kit generate",
     "typecheck": "tsc --noEmit",
@@ -17,12 +17,16 @@
     "test:seo": "python -X utf8 scripts/seo-audit.py",
     "test:backend": "node scripts/test-lead-workflow.mjs",
     "content:index": "node scripts/build-route-index.mjs",
-    "test:leads": "node scripts/test-lead-workflow.mjs"
+    "test:leads": "node scripts/test-lead-workflow.mjs",
+    "dev:cloudflare": "node scripts/run-framework.mjs dev",
+    "build:cloudflare": "node scripts/run-framework.mjs build",
+    "start:cloudflare": "node scripts/start-preview.mjs"
   },
   "dependencies": {
     "@base-ui/react": "^1.7.0",
     "@hookform/resolvers": "^5.7.1",
     "@shadcn/react": "^0.3.0",
+    "aws4fetch": "^1.0.20",
     "class-variance-authority": "0.7.1",
     "clsx": "2.1.1",
     "cmdk": "^1.1.1",

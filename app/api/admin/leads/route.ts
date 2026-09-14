@@ -1,4 +1,4 @@
-import {env} from 'cloudflare:workers';
+import {env} from '@/lib/runtime-env';
 import {z} from 'zod';
 import {adminUser,sameOrigin} from '@/lib/admin';
 import {notifySubmission} from '@/lib/lead-delivery';

@@ -1,3 +1,4 @@
+import {fileURLToPath} from "node:url";
 import vinext from "vinext";
 import { defineConfig } from "vite";
 import hostingConfig from "./hosting.config.json";
@@ -51,6 +52,7 @@ export default defineConfig(async () => {
   const { cloudflare } = await import("@cloudflare/vite-plugin");
 
   return {
+    resolve: { alias: [{ find: "@/lib/runtime-env", replacement: fileURLToPath(new URL("./lib/runtime-env.cloudflare.ts", import.meta.url)) }] },
     server: {
       ...(managedLinux ? { host: "0.0.0.0", allowedHosts: ["terminal.local"] } : {}),
       ...(isCodexSeatbeltSandbox ? { watch: { useFsEvents: false, usePolling: true } } : {}),
